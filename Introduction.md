@@ -1,4 +1,4 @@
-# The Gravity Model: Aligning Price Signals in the Relationship Marketplace *(v1 — patched)*
+# The Gravity Model: Aligning Price Signals in the Relationship Marketplace
 
 ## Executive Summary
 
