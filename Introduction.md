@@ -17,6 +17,8 @@ This is not literal physics; it’s a compact incentive diagram. In plain terms:
 - clearer signals, faster liquidity, and enforceable outcomes deepen the “well,”
 - while risk and friction shallow it.
 
+“This is a first-order incentive model; it predicts marginal shifts in aggregate behavior, not individual mate choice.”
+
 Currently, rational economic agents—particularly women—choose among three primary spheres of life paths. These are clusters, not rigid boxes; each contains heterogeneous paths and hybrids.
 
 1. **The Workforce Career Sphere:** Offers highly clear, direct price signals (salary, bonuses, equity) and immediate, scheduled cash liquidity.
