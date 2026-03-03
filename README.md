@@ -1,126 +1,140 @@
-# Cooperative Wealth Governance Agreement 
+# README.md
 
-## License / Public Domain
-This repository is intended to be released into the public domain under **The Unlicense**. Include a `LICENSE` file containing the Unlicense text.
+# Cooperative Wealth Agreement (CWA) — Public Template (CC0)
 
-## Not Legal or Tax Advice
-This repository contains conceptual templates for educational and informational purposes only. It is **not** legal advice or tax advice and does not create an attorney-client relationship. Laws and tax rules vary widely by jurisdiction and by facts. Use independent legal counsel and independent tax counsel before using or adapting any template here.
+**Status:** Public domain template (CC0).  
+**Disclaimer:** **NOT LEGAL OR TAX ADVICE.** This repository contains conceptual templates for educational and informational purposes only. Laws regarding property rights, LLCs, arbitration, securities custody, partnership characterization, and taxation vary heavily by jurisdiction. **Each party must consult independent legal counsel and independent tax counsel** before using or executing any document here.
 
-## What This Is
-This repo contains a “wealth-governance” contract template designed to coordinate a private cooperative wealth arrangement using:
+## What this repository contains
 
-- a restricted brokerage account held by a single-member **Vehicle LLC** (owned by Party A), and
-- a neutral, third-party **Independent Administrator** with limited (**event-only**) authority to execute distributions and freezes.
+- `cooperative_wealth_agreement.md`  
+  The **Cooperative Wealth Governance Agreement**: a wealth-only, event-driven governance wrapper for a **ring-fenced pool** (a restricted brokerage account held by a Vehicle LLC), with:
+  - voluntary (non-enforceable) funding,
+  - an **Independent Administrator** who controls transfers-out/distributions,
+  - a deterministic termination unwind,
+  - periodic Liquidity Events,
+  - a minimal Joint Asset protocol,
+  - an event-only B Distribution Ledger (anti-double-counting),
+  - and tight dispute-resolution / holdback mechanics.
 
-The template aims to be **wealth-only** (not a relationship contract) while still providing deterministic mechanics for:
+- `Introduction.md`  
+  The explanatory whitepaper (“Gravity Model”) that motivates the design: **make domestic equity legible via an explicit, verifiable mechanism**.
 
-- periodic **Liquidity Events**, and
-- a deterministic **unwind on termination**.
+- `LICENSE.md`  
+  CC0 1.0 Universal Public Domain Dedication.
 
-## Core Design Goals
+## Design intent (plain English)
 
-### 1) Anti-smash-and-grab controls
-Neither party can unilaterally transfer assets out of the Vehicle Account. Party A has **trading authority only**, while transfers-out and distributions are controlled by the Independent Administrator.
+This template is designed to reduce the “dispute surface” by keeping the agreement **governance-only** and **ring-fenced**:
 
-### 2) Event-only third-party administration
-To make the Administrator role realistically fillable, the Administrator’s duties are limited to events:
-- Liquidity Event processing when Party B elects,
-- termination unwind processing, and
-- dispute holdbacks / distribution of undisputed amounts.
+- **No relationship obligations.** No duties to cohabit, perform services, or maintain a relationship.
+- **No funding obligation.** Any funding targets are non-binding; there are **no arrears**.
+- **No unilateral withdrawals.** The account is set up so neither party can “smash-and-grab.”
+- **Event-driven distributions only.** Transfers-out occur only on:
+  - Liquidity Events (if elected), or
+  - Termination unwind, or
+  - dispute holdback + release of undisputed amounts.
+- **Deterministic math.** Payouts are formulaic and netted against the B Distribution Ledger to prevent double counting.
 
-No monthly bookkeeping, no investment advice, no continuous monitoring.
+## Who this template is for
 
-### 3) Deterministic math + ledger netting
-The template uses:
-- an **Allocation Percentage** (default example: 1% per month up to a cap, typically 50%), and
-- a **B Distribution Ledger** to avoid double-counting across Liquidity Events and final termination.
+This template is for parties who want:
 
-### 4) Non-recourse
-Party B’s entitlement is limited to assets actually in the Vehicle Account (and proceeds of Joint Assets purchased with Vehicle Account funds). There is **no recourse** against Party A’s separate property.
+- a **verifiable wealth mechanism** (not a relationship contract),
+- clear rules for **allocation, liquidity, and unwind** of a defined pool,
+- an administrator-controlled structure that reduces negotiation at exit.
 
-### 5) Implementation integrity
-The Vehicle LLC includes anti-bypass covenants and “minimum terms” that should be mirrored in LLC documents and custodian permissions so Party A cannot easily override the intended control structure.
+It is **not** intended to replace family law, waive child-related statutory rights, or create employment/compensation arrangements.
 
-### 6) Tax-neutral posture (recommended)
-The template avoids promising that distributions will be treated as “gifts” or any other specific tax classification. Reporting depends on account titling, entity classification, facts, and law. Each party should consult tax counsel.
+## Quickstart: How to use this template (recommended workflow)
 
-## What This Is Not
-- Not a marriage contract or prenup.
-- Not a parenting plan.
-- Not a household chores or “relationship performance” contract.
-- Not a promise of investment returns.
-- Not a guarantee of tax treatment.
+### Step 0 — Don’t skip counsel
+Each party should retain **independent counsel** (separate attorneys) and **independent tax counsel**. This is especially important if:
+- there is a large wealth disparity,
+- either party may relocate across states/countries,
+- the parties are considering marriage,
+- or the structure will be publicly referenced.
 
-## Repo Contents (Suggested Files)
-1) `Cooperative_Wealth_Governance_Agreement.txt` (or `.md`)  
-   The main agreement: Vehicle LLC + Vehicle Account governance, allocations, Liquidity Events, termination unwind, dispute resolution, exhibits.
+### Step 1 — Decide the key economic parameters
+In `cooperative_wealth_agreement.md`, fill in:
+- **Governing law / venue**: `[State]`, `[County, State]`
+- **Monthly Accrual Rate**: e.g., `1.00% per full calendar month`
+- **Allocation Cap**: e.g., `50.00%`
+- **Liquidity cadence**: default is every 3 years (already set)
+- **Admin Reserve**: recommended range is included
+- **Default portfolio / ticker**: pick an index ETF/fund
+- **Guardrail threshold**: max single-stock exposure (if any)
 
-2) `Household_Budget_Shared_Expense_Memo.txt` (optional)  
-   A separate private side letter for routine household budgeting via a separate checking account. Not incorporated into the wealth agreement.
+### Step 2 — Select an implementation path (make it real)
+The agreement is **not operative** until the account is actually implemented with the required control split.
 
-3) `LICENSE`  
-   The Unlicense text.
+Use the Appendix (“Implementation Paths”) to pick a feasible custody/control setup, such as:
+- LLC brokerage + administrator LPOA + transfer/recipient locks, or
+- directed trust / escrow-style custody, or
+- institutional/RIA custody with controlled disbursements.
 
-4) `README.md`  
-   This file.
+**Key requirement:** neither party can unilaterally transfer-out, and the Independent Administrator can execute Administrator Events.
 
-## How It Works (Plain English)
+### Step 3 — Choose and engage the Independent Administrator
+The Independent Administrator must:
+- accept the **event-only** role,
+- agree to recipient restrictions (only the designated accounts + fees/withholding),
+- maintain the event-only **B Distribution Ledger**,
+- and provide an **Implementation Confirmation** once the custody setup is correct.
 
-### 1) Set up the structure
-- Party A forms a single-member Vehicle LLC.
-- The Vehicle LLC opens a brokerage account (“Vehicle Account”).
-- The custodian permissions and LLC documents are configured so:
-  - Party A has **trading authority only**, and
-  - the Independent Administrator has **exclusive authority** over transfers-out, freezes, and distributions.
+### Step 4 — Form the Vehicle LLC and open the restricted Vehicle Account
+- Party A forms the Vehicle LLC (single-member by default in this template).
+- The Vehicle Account is opened in the LLC’s name with the chosen custodian.
+- Account permissions must reflect:
+  - Party A: trading authority only (no transfers-out)
+  - Independent Administrator: transfers-out/distributions/freeze authority for Administrator Events
+  - Party B: view/statement access only (no trades, no transfers-out)
 
-### 2) Fund and invest
-- Party A may contribute voluntarily (non-binding by default).
-- Investments default to broad-market index funds/ETFs unless changed by agreement.
+### Step 5 — Make the agreement operative (Implementation Confirmation)
+The agreement becomes operative only after the Independent Administrator confirms, in writing, that the control checklist is satisfied (or that an agreed written exception is in place).
 
-### 3) Allocation accrues
-- Party B’s Allocation Percentage accrues (example: 1% per month) up to a cap (often 50%).
-- This Allocation Percentage is used only to divide the Vehicle Account under Liquidity Events and termination unwind.
+### Step 6 — Funding (optional, voluntary)
+- Funding is voluntary.
+- If Party A pauses or stops funding, there are **no arrears** and no breach (absent a signed amendment stating otherwise).
 
-### 4) Liquidity Events
-- On each scheduled Liquidity Event, Party B may elect a Liquidity distribution during a defined window.
-- The Administrator calculates the “net owed” amount:
+### Step 7 — During the term
+- The vehicle remains invested within guardrails.
+- Joint withdrawals require joint instruction.
+- Joint assets purchased from the vehicle follow the Joint Asset protocol.
 
-  `max(0, Account Value × Allocation % − B Distribution Ledger)`
+### Step 8 — Liquidity Events (optional, every 3 years)
+During each Liquidity Window, Party B may elect a Liquidity Distribution:
+- calculated by formula (net of ledger),
+- paid in-kind by default (cash fallback),
+- and recorded in the ledger to prevent double counting later.
 
-- The Administrator distributes (preferably in-kind if practicable) to Party B’s designated brokerage account.
+### Step 9 — Termination unwind
+Either party can terminate at will.
+Upon termination:
+- the Independent Administrator freezes transfers-out (subject to custodian constraints),
+- calculates value at the defined Valuation Time,
+- pays Party B by formula net of the ledger,
+- and returns the remainder to Party A (net of permitted fees/withholding).
 
-### 5) Termination unwind
-- Either party may terminate at any time by notice.
-- The Administrator freezes the account (as feasible), values it at the defined Valuation Time, and distributes:
-  - Party B’s net share, then
-  - Party A receives the remainder.
+## Practical notes / expectations
 
-### 6) Joint Assets (optional)
-If Vehicle Account funds buy tangible assets:
-- default titling is tenants-in-common with percent ownership matching the Allocation Percentage at purchase, and
-- the Joint Asset Protocol covers buyout/sale procedures.  
-Alternatively, the parties may elect to title an asset to the Vehicle LLC with special rules.
+- **Fillability matters.** The “paper” agreement is not the mechanism; the custody/control implementation is.
+- **Expect custodian constraints.** Many custodians have strict rules about permissions and disbursement controls. Work with counsel and the administrator to pick a feasible path.
+- **This is not a tax strategy.** The template explicitly does not promise any tax characterization.
+- **This is not child support avoidance.** Child-related statutory rights and obligations are not waivable by private contract.
 
-## Key Implementation Dependency (Most Important)
-This template only works if the custodian/account setup can actually enforce the authority split:
+## Contributing / forks
 
-- Party A: trading only
-- Independent Administrator: exclusive transfers-out/distributions/freeze authority
+This repo is CC0. You are free to fork and adapt. If you publish improvements, consider keeping:
+- the event-driven architecture,
+- recipient restrictions,
+- operative-date gating,
+- and ledger anti-double-counting,
+since those are the core dispute-surface minimizers.
 
-Not all retail brokerages support this cleanly. Confirm the exact account type and permissions in writing before relying on the template. The agreement is not “operative” until the control structure is implemented.
+## Attribution (optional)
 
-## Why There Is a Separate Household Memo
-Household budgeting is intentionally separated:
-- The wealth agreement is designed to be “wealth-only” and does not govern cohabitation, support, or household operations.
-- If needed, use the separate Household Budget & Shared Expense Account Memo for daily-life expenses. It does not affect vesting, allocations, or unwind mechanics.
+Attribution is not required under CC0, but if you reference the origin:
+- “Cooperative Wealth Governance Agreement (CWA) — CC0 public template.”
 
-## Dispute Resolution
-Disputes are handled via binding arbitration (AAA) with:
-- holdback of only the disputed incremental amount, and
-- court carve-outs for emergency injunctive relief and award enforcement.
-
-## Contributions / Forks
-If you fork or adapt this template, keep these principles intact:
-- clear separation between “wealth governance” and “household/relationship” topics,
-- custodian feasibility gating (not operative until permissions are proven), and
-- avoid making hard tax promises in the contract itself.
+---
