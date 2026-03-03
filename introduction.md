@@ -484,7 +484,7 @@ If CWAs + a credible Clearinghouse are adopted at meaningful scale, we should ob
    - narrower dispute surface area.
 
 3. **Earlier household formation among a targeted subgroup**  
-   In a population where a verified CWA is a credible option, the model predicts some portion will form households earlier *(or with less prolonged “auditioning”)*, because downside protection and price discovery are no longer deferred to crisis.
+   In a population where a verified CWA is a credible option, the model predicts some portion will form households earlier *(or with less prolonged “auditioning”)*, because downside protection and price discovery are no longer deferred to crisis. In practice, this means less time spent in indefinite pre-commitment.
 
 4. **Measurable substitution away from attention-economy monetization among women competing for verified CWAs**  
    If the apex reward becomes “verified domestic equity + liquidity,” then in the subgroup competing for that lane, the model predicts:
