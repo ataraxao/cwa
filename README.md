@@ -1,8 +1,8 @@
 # README.md
 
-# Cooperative Wealth Agreement (CWA) — Public Template (CC0)
+# Cooperative Wealth Agreement (CWA) — Public Template (CC0 1.0)
 
-**Status:** Public domain template (CC0).  
+**Status:** Public domain template (CC0 1.0).  
 **Disclaimer:** **NOT LEGAL OR TAX ADVICE.** This repository contains conceptual templates for educational and informational purposes only. Laws regarding property rights, LLCs, arbitration, securities custody, partnership characterization, and taxation vary heavily by jurisdiction. **Each party must consult independent legal counsel and independent tax counsel** before using or executing any document here.
 
 ## What this repository contains
