@@ -43,6 +43,8 @@ Except as expressly stated in a signed amendment, neither Party is obligated to 
 ### 1.6 Scope Boundary (Not Household / Not Support)
 This Agreement governs only the establishment, control, allocation mechanics, liquidity mechanics, and termination unwind of the Vehicle Account (and any Joint Assets purchased with Vehicle Account funds). This Agreement does not govern living arrangements, household budgeting, personal support, or relationship expectations, and any such matters (if addressed) are handled only in separate written instruments that are not incorporated into this Agreement unless this Agreement expressly states otherwise.
 
+**For avoidance of doubt, Allocation Percentage accrual is not conditioned on cohabitation, conduct, services, exclusivity, intimacy, or relationship continuation, and functions solely as a measurement convention for distribution of assets actually held in the Vehicle Account (and Joint Asset proceeds) upon Administrator Events.**
+
 ### 1.7 Mutual Consideration; Governance-Only (Non-Service)
 In consideration of the mutual covenants, dispute-resolution, notice, non-recourse, and scope-limiting commitments herein, each Party agrees to be bound by this Agreement’s governance mechanics once operative, including: (a) notice and anti-evasion provisions (Article II), (b) arbitration and enforcement provisions (Article VIII), (c) non-recourse limitation (Section 4.7), (d) mutual release and scope lock (Section 1.9), and (e) reporting cooperation provisions (Article IX), to the maximum extent permitted by law.
 
@@ -67,6 +69,9 @@ All property, accounts, real estate, and business interests owned by either Part
 (a) **No Partnership / Joint Venture.** The Parties intend that this Agreement does not create a general partnership, limited partnership, joint venture, or fiduciary relationship between the Parties.  
 (b) **No Fiduciary Duty.** Except for the Independent Administrator’s limited administrative duties as set forth in Exhibit 1, neither Party owes the other any fiduciary duty by virtue of this Agreement.  
 (c) **Limited Purpose.** The Parties’ rights and obligations are limited to those expressly stated herein.
+
+### 2.2D Recharacterization; Reporting Conformance (No Economic Change)
+If any governmental authority, custodian, court, or taxing authority characterizes the Vehicle LLC, the Vehicle Account, or any allocation/distribution hereunder as a partnership, joint venture, nominee arrangement, trust relationship, compensation, gift, support, or any other classification for any legal or tax purpose, the Parties agree to (i) cooperate in good faith to make any filings or reporting required by law as advised by their respective independent tax counsel, and (ii) implement any ministerial documentation reasonably required to conform to such characterization, **without changing** the Agreement’s core economic mechanics (Allocation Percentage, B Distribution Ledger, Liquidity Events, and Termination unwind), to the maximum extent permitted by law.
 
 ### 2.3 Definitions
 For purposes of this Agreement:
@@ -158,10 +163,10 @@ During the Term, Party A shall not, without Party B’s prior written consent an
 (a) dissolve, merge, recapitalize, or transfer ownership of the Vehicle LLC;  
 (b) cause the Vehicle LLC to open additional brokerage accounts intended to bypass this Agreement;  
 (c) cause the Vehicle LLC to pledge, encumber, borrow against, or grant a security interest in Vehicle Account assets; or  
-(d) amend the Vehicle LLC’s governing documents in a manner that materially impairs Party B’s distribution rights under this Agreement or the Independent Administrator’s control as described in Exhibit 1 and Exhibit 4.
+(d) amend the Vehicle LLC’s governing documents in a manner that materially impairs Party B’s distribution rights under this Agreement or the Independent Administrator’s control as described in Exhibit 1 and Appendix A (Implementation Paths).
 
 ### 3.1B Bypass Event; Protective Freeze; Optional Deemed Termination
-(a) **Bypass Event.** A “Bypass Event” occurs if Party A violates Section 3.1A or materially interferes with the Independent Administrator’s control authority described in Exhibit 1 or Exhibit 4.  
+(a) **Bypass Event.** A “Bypass Event” occurs if Party A violates Section 3.1A or materially interferes with the Independent Administrator’s control authority described in Exhibit 1 or Appendix A (Implementation Paths).  
 (b) **Protective Freeze Request.** Upon written notice from Party B alleging a Bypass Event with reasonable specificity, the Independent Administrator is authorized to implement a protective freeze on transfers-out (not trading) as promptly as practicable, subject to Custodian Constraints, pending resolution under Article VIII.  
 (c) **Optional Deemed Termination (Election).** If a final arbitration award determines a Bypass Event occurred, Party B may elect (by written notice to Party A and the Independent Administrator) to treat the award date as a Deemed Termination Event, in which case the Independent Administrator shall proceed with the deterministic unwind under Section 7.2.
 
@@ -169,7 +174,7 @@ During the Term, Party A shall not, without Party B’s prior written consent an
 This Agreement shall not become operative unless and until:  
 (i) the Vehicle Account is opened in compliance with Section 3.1 (as reasonably implemented given Custodian Constraints); and  
 (ii) the Independent Administrator has executed and accepted written instructions substantially in the form attached as Exhibit 1; and  
-(iii) the Vehicle LLC’s operating agreement and/or a custodian-accepted control instrument (as applicable) vests the Independent Administrator with exclusive authority for transfers-out/distributions and freeze/unwind actions, and limits Party A’s authority to Trading Authority only, in each case in a form reasonably acceptable to the Independent Administrator and consistent with Exhibit 4; and  
+(iii) the Vehicle LLC’s operating agreement and/or a custodian-accepted control instrument (as applicable) vests the Independent Administrator with exclusive authority for transfers-out/distributions and freeze/unwind actions, and limits Party A’s authority to Trading Authority only, in each case in a form reasonably acceptable to the Independent Administrator and consistent with Appendix A (Implementation Paths); and  
 (iv) the custodian account permissions reflect the above authority split (Trading Authority vs transfers-out/distributions) to the satisfaction of the Independent Administrator; and  
 (v) the Independent Administrator has delivered the Implementation Confirmation described in Section 3.2A and Exhibit 1, Section 14.
 
@@ -188,7 +193,7 @@ If the Agreement never becomes operative, neither Party shall have any claim for
 
 (b) **Implementation Confirmation.** The Agreement becomes operative only upon the Independent Administrator delivering a written confirmation (email sufficient) to both Parties stating that, subject to Custodian Constraints, the Implementation Control Checklist has been satisfied (the “Implementation Confirmation”). The Operative Date is the date/time of that Implementation Confirmation.
 
-(c) **Custodian Constraints; Exceptions.** If any checklist item cannot be satisfied due to Custodian Constraints, the Agreement remains non-operative unless the Parties and the Independent Administrator sign a written exception describing (i) the constraint, and (ii) the closest practicable alternative controls that will apply consistent with this Agreement’s intent.
+(c) **Custodian Constraints; Exceptions; Minimum Viable Controls.** If any checklist item cannot be satisfied due to Custodian Constraints, the Parties and the Independent Administrator shall use reasonable efforts to implement the closest practicable alternative controls consistent with this Agreement’s intent. The Agreement remains non-operative unless the Parties and the Independent Administrator sign a written exception describing (i) the constraint, (ii) the alternative controls, and (iii) any compensating restrictions (including recipient locks, permission-change locks, or transfer-profile locks) that achieve, in substance, the anti-bypass and anti-unilateral-transfer objectives.
 
 ### 3.3 Voluntary Funding; Target Contributions (Non-Binding)
 Any contributions to the Vehicle Account are voluntary. As a non-binding target only, Party A may contribute up to **$[Monthly Deposit Amount]** per month commencing on **[Start Date]**, but Party A may reduce, pause, or stop contributions at any time without breach.  
@@ -371,6 +376,9 @@ Any dispute arising out of or relating to this Agreement, the Vehicle Account, t
 ### 8.2A Small-Claims Carveout
 Notwithstanding Section 8.2, either Party may bring an individual action in small claims court (or equivalent) for disputes within that court’s jurisdictional limit, provided the action seeks only money relief within the limit and does not seek to alter Vehicle Account control other than enforcement of this Agreement’s deterministic formulas.
 
+### 8.2C AAA Rules Determination; Fallback
+If the AAA (or any administering body) determines that consumer arbitration rules, employment rules, or any rules other than the AAA Commercial Arbitration Rules apply to this dispute, the arbitration shall proceed under the rules so determined **without affecting the validity or enforceability** of the Parties’ agreement to arbitrate, and the arbitrator shall have authority to grant all relief permitted under this Agreement and applicable law.
+
 ### 8.3 Carve-Outs (Court Allowed for Emergency Relief and Enforcement)
 Notwithstanding Section 8.2, either Party may seek in court:  
 (a) temporary injunctive relief necessary to preserve the status quo (including enforcing a freeze or preventing dissipation) pending arbitration; and  
@@ -379,7 +387,7 @@ Notwithstanding Section 8.2, either Party may seek in court:
 ### 8.4 Fees and Costs (Balanced)
 (a) AAA filing/administrative fees and arbitrator compensation shall be advanced 50/50 unless the arbitrator determines otherwise for good cause.  
 (b) Each Party bears their own attorneys’ fees unless the arbitrator finds bad faith, willful breach, or fee-shifting is required by applicable law. If awarded, fees must be reasonable.  
-(c) The arbitrator may award reasonable arbitration costs (excluding attorneys’ fees unless awarded under subsection (b))) as justice requires.
+(c) The arbitrator may award reasonable arbitration costs (excluding attorneys’ fees unless awarded under subsection (b)) as justice requires.
 
 ### 8.5 Confidentiality of Proceedings (Light Touch)
 To the maximum extent permitted by law and AAA rules, the Parties agree to treat arbitration filings, testimony, hearing materials, and any award as confidential as between themselves, subject to permitted disclosures to counsel and professional advisors, disclosures required by law or court order, and disclosures reasonably necessary to enforce or defend this Agreement or an award.
@@ -419,7 +427,7 @@ Each Party acknowledges they have been advised to consult independent tax counse
 ## ARTICLE X — MISCELLANEOUS
 
 ### 10.1 Entire Agreement
-This Agreement (including Exhibits) constitutes the entire agreement between the Parties regarding Vehicle Account governance and supersedes all prior understandings on that subject.
+This Agreement (including Exhibits and Appendix A) constitutes the entire agreement between the Parties regarding Vehicle Account governance and supersedes all prior understandings on that subject.
 
 ### 10.2 Amendments
 Any amendment must be in a signed writing by both Parties (notarization recommended).
@@ -438,8 +446,8 @@ Each Party represents that they: (a) had adequate time to review this Agreement;
 (b) **Opportunity to Consult; Time to Review.** Each Party acknowledges that they had adequate time to review this Agreement and had the opportunity to consult independent counsel before signing.  
 (c) **Optional Counsel Certificates.** The Parties may attach the Optional Certificate of Independent Legal Counsel set forth below. If attached, the certificates are incorporated by reference for evidentiary purposes only.
 
-### 10.7 Exhibit Hierarchy
-Exhibits are incorporated by reference. If there is a conflict between the main body and an Exhibit, the main body controls unless it explicitly states otherwise.
+### 10.7 Exhibit / Appendix Hierarchy
+Exhibits and Appendix A are incorporated by reference. If there is a conflict between the main body and an Exhibit or Appendix A, the main body controls unless it explicitly states otherwise.
 
 ### 10.8 Custodian Constraints Control
 If a Custodian Constraint makes strict compliance with a mechanic in this Agreement impossible, the Independent Administrator shall implement the closest practicable alternative consistent with the Agreement’s intent, and no Party may claim breach solely due to compliance with Custodian Constraints.
@@ -509,7 +517,7 @@ Party B: ___________________________  Date: _________
 ---
 
 # EXHIBIT 1 — INDEPENDENT ADMINISTRATOR INSTRUCTIONS
-*Event-Only; Hardened — LLC Vehicle; Conformed to V3*
+*Event-Only; Vehicle LLC Restricted Account; Implementation-Oriented*
 
 ## Purpose
 This Exhibit sets event-only operational instructions the Independent Administrator must accept. If the custodian requires its own forms, these instructions are intended to be incorporated into or mirrored by those forms. The Independent Administrator’s duties are limited to Administrator Events and do not include day-to-day account monitoring, monthly reconciliations, or investment oversight.
@@ -613,12 +621,11 @@ Independent Administrator (Acceptance): ___________________________  Date: _____
 ---
 
 # EXHIBIT 2 — JOINT ASSET PROTOCOL (INCLUDING LLC-TITLED OPTION)
-*Conformed to V3; LLC-titling treated as advanced mode*
 
 ## Purpose
 This protocol governs Joint Assets purchased in whole or in part with Vehicle Account funds.
 
-Implementation Note (Simplification Preference). LLC-Titled assets are optional “advanced mode.” Default practice is Tenants-in-Common titling where feasible, because it is simpler to implement and audit. If the Parties elect LLC titling, they should ensure the Vehicle LLC documents clearly authorize sale/buyout steps consistent with Exhibit 4.
+Implementation Note (Simplification Preference). LLC-Titled assets are optional “advanced mode.” Default practice is Tenants-in-Common titling where feasible, because it is simpler to implement and audit. If the Parties elect LLC titling, they should ensure the Vehicle LLC documents clearly authorize sale/buyout steps consistent with Appendix A (Implementation Paths) and any custodian requirements.
 
 ## 1. Definitions
 (a) **Joint Asset** means any vehicle, real estate, or other tangible asset purchased with Vehicle Account funds.  
@@ -714,7 +721,7 @@ The Vehicle LLC’s purpose is limited to holding the Vehicle Account and (optio
 
 3) **Authority Split**  
 (a) Party A: Trading Authority only (placing trades within the Vehicle Account), with no authority to withdraw, transfer out, distribute, pledge, encumber, or borrow against Vehicle Account assets.  
-(b) Independent Administrator: exclusive authority over withdrawals/transfers-out, freezes, distributions, Liquidity Events, termination unwind processing, and maintenance of the B Distribution Ledger, as described in Exhibit 1.
+(b) Independent Administrator: exclusive authority over withdrawals/transfers-out, freezes, distributions, Liquidity Events, termination unwind processing, and maintenance of the B Distribution Ledger, as described in Exhibit 1 and Appendix A (Implementation Paths).
 
 4) **Anti-Bypass**  
 During the Term, the Vehicle LLC shall not open additional brokerage accounts intended to bypass this Agreement, borrow against Vehicle Account assets, pledge/encumber Vehicle Account assets, dissolve, or transfer ownership, except with Party B’s prior written consent and the Independent Administrator’s written consent (and subject to Custodian Constraints).
@@ -763,6 +770,59 @@ Independent Administrator is event-only (no investment advice, no monthly accoun
 
 8) **Recipient Restrictions (Administrator Transfers-Out)**  
 Transfers-out/distributions may be made only to Party A’s A Designated Account, Party B’s B Designated Account, and permitted fee/withholding payees, except as required by a final award/order or law.
+
+---
+
+# APPENDIX A — IMPLEMENTATION PATHS (ILLUSTRATIVE; NON-ADVICE)
+*This appendix is a practical “how it’s actually done” menu. Availability varies by custodian and jurisdiction. The Parties and Independent Administrator should confirm feasibility with the chosen custodian and counsel. This Appendix does not promise that any specific provider will support a given configuration.*
+
+## A.1 Implementation Goal (What Must Be True in Substance)
+Regardless of the custodian, the implementation should achieve, in substance:
+
+1) **No unilateral transfers-out** by either Party.  
+2) **Independent Administrator controls transfers-out/distributions/freeze** for Administrator Events.  
+3) **Party A has Trading Authority only** (can trade; cannot withdraw/transfer out/change payout destinations).  
+4) **Permission-change control** (no unilateral changes to payee destinations, linked bank accounts, wire profiles, journaling permissions).  
+5) **Party B view/statement access** (to observe holdings/activity) without trading/transfer authority.
+
+## A.2 Path 1 — LLC Brokerage Account + Administrator LPOA + Disbursement/Transfer Locks
+**Typical pattern:**  
+- Vehicle Account is a brokerage account titled to the Vehicle LLC.  
+- Party A receives **Limited Trading Authorization** (or equivalent “trading only”) from the custodian.  
+- Independent Administrator receives an **LPOA / limited power** (custodian form) granting **withdrawal/transfer-out/distribution/freeze authority** (or “account control” authority) and is designated as the only person permitted to execute transfers-out/distributions.  
+- Custodian applies **transfer profile locks** / recipient whitelists / “standing instruction locks” so that:  
+  - linked banks/ACH/wire instructions cannot be changed unilaterally, and  
+  - transfers-out can be executed only to the A Designated Account, B Designated Account, and permitted fee/withholding recipients (unless required by order/law).
+
+**Strengths:** Closest match to the Agreement’s architecture.  
+**Constraints:** Custodians differ on whether they support true “trading-only” and/or lock-down of disbursement profile changes. May require special paperwork and compliance review.
+
+## A.3 Path 2 — Directed Trust / Escrow-Style Custody (Trust Company or Escrow Agent as “Administrator”)
+**Typical pattern:**  
+- A trust company or escrow-capable institution holds a brokerage account **as trustee/escrow agent** (legal title or control), with written instructions that mirror Administrator Events.  
+- Party A may be permitted to provide **investment directions** (or the trustee may permit a sub-advisor), but the trustee/escrow agent retains **exclusive distribution authority**.  
+- Liquidity Events and termination unwind are executed by the trustee/escrow agent pursuant to the Agreement’s formulas and a ledger.
+
+**Strengths:** Strong control integrity; built for restricted distributions.  
+**Constraints:** Higher setup cost; more institutional onboarding; trustee/escrow acceptance varies; may require a separate trust/escrow instrument that incorporates the Agreement’s event logic.
+
+## A.4 Path 3 — RIA/Platform Custody + Independent Administrator as Disbursement Controller (Two-Key Model)
+**Typical pattern:**  
+- Vehicle Account is held at a qualified custodian via an advisory platform (RIA or institutional channel).  
+- Party A (or an advisor) has trading authority within guardrails.  
+- Disbursements are restricted by custodian policy such that withdrawals require (i) the Independent Administrator’s approval/signature and (ii) a pre-set recipient whitelist (Designated Accounts only).  
+- Administrator Events are processed via a standard operating procedure: receipt of election/notice → valuation time → calculation → in-kind transfer or cash distribution → ledger update.
+
+**Strengths:** Often feasible where retail brokerage features are limited; institutional operations can support recipient whitelists and controlled disbursements.  
+**Constraints:** Requires cooperation of the platform/custodian; specific “two-key” disbursement controls are not universal; may increase ongoing administration.
+
+## A.5 Implementation Checklist Deliverable (Recommended)
+Before declaring the Agreement operative, the Independent Administrator should retain a short “implementation packet,” such as:
+- Custodian permissions summary (who can trade vs withdraw).  
+- Confirmation of recipient restrictions / payee whitelists / lock settings (if supported).  
+- Signed LPOA/control instrument (if used).  
+- Statement delivery method for Party B (view access or direct statements).  
+- Successor/transition instructions (who holds what records; where ledger lives).
 
 ---
 
