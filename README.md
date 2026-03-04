@@ -1,7 +1,27 @@
 # Cooperative Wealth Agreement (CWA) — Public Template (CC0 1.0)
 
 **Status:** Public domain template (CC0 1.0).  
-**Disclaimer:** **NOT LEGAL OR TAX ADVICE.** This repository contains conceptual templates for educational and informational purposes only. Laws regarding property rights, LLCs, arbitration, securities custody, partnership characterization, and taxation vary heavily by jurisdiction. **Each party must consult independent legal counsel and independent tax counsel** before using or executing any document here.
+# SYSTEM NOTICE: READ BEFORE DEPLOYMENT
+
+### 1. NOT LEGAL, TAX, OR FINANCIAL ADVICE
+This repository and its contents (**The CWA Protocol v1.0**) are conceptual templates provided for educational and informational purposes only. The Author is a systems designer, not a provider of legal, tax, or fiduciary services. No attorney-client or fiduciary relationship is created by your use of these documents.
+
+### 2. JURISDICTIONAL VARIATION
+Standard legal frameworks regarding property rights, LLC characterization, domestic partnerships, and the equitable distribution of assets vary significantly by jurisdiction. This protocol has not been audited for compliance with the specific laws of any state or country. Users are responsible for ensuring local legal compliance.
+
+### 3. FINANCIAL HYGIENE AND EXECUTION RISK
+The effectiveness of the CWA depends entirely on the user's ability to maintain strict financial separation. 
+
+> **WARNING:** The "commingling" of personal and partnership funds or the failure to maintain separate legal domiciles may invalidate the protections intended by this structure. The Author assumes no liability for financial or legal losses resulting from improper execution or the failure to follow rigorous accounting standards.
+
+### 4. REQUIREMENT FOR INDEPENDENT COUNSEL
+These documents should not be executed without professional oversight. Each party must consult with independent legal and tax counsel to review and adapt these templates to their specific financial situation and jurisdiction. It is essential to work with professionals familiar with manager-managed LLCs and relevant gift tax regulations.
+
+### 5. PUBLIC DOMAIN (CC0 1.0) / "AS-IS"
+This work is published under the **CC0 1.0 Universal (Public Domain Dedication)**. It is provided **"AS-IS"** without warranty of any kind. By using this repository, you acknowledge that you are managing your assets through private contract and assume all associated risks.
+
+---
+*Document Version 1.0 - Focused on private contract and domestic equity.*
 
 ## Start here (recommended reading order)
 
