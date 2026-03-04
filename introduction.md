@@ -94,34 +94,34 @@ The CWA is **not** a lifestyle mandate or a relationship playbook. It is a **cha
 
 In the context of the CWA, the two functional roles are:
 
-- **Funding Partner:** the party funding the Vehicle Account contributions.  
-- **Partner COO:** the party receiving a vesting equity claim in the cooperative vehicle.
+- **Funding Party:** the party funding the Vehicle Account contributions.  
+- **Recipient Party:** the party receiving a vesting equity claim in the cooperative vehicle.
 
 These roles are **elective and reversible**, and the model applies regardless of gender. Either person can occupy either role depending on the relationship. The core point is not hierarchy; it is **incentive alignment** and the creation of **legible domestic equity**.
 
-The agreement generates financial growth in the equity markets to capture value for the Partner COO, but with a structural advantage: the growth does **not** start from their existing small savings base. It uses the Funding Partner’s **much larger accumulated capital base** and/or **contribution stream** as the starting point.
+The agreement generates financial growth in the equity markets to capture value for the Recipient Party, but with a structural advantage: the growth does **not** start from their existing small savings base. It uses the Funding Party’s **much larger accumulated capital base** and/or **contribution stream** as the starting point.
 
 ### The Mechanics of Base-Capital Vesting *(Leveraged Compounding via External Principal)*
 
 The CWA is not a financial “carry trade” in the strict sense. There is **no borrowing** against a rate differential. The mechanism is simpler and more legible:
 
-The Partner COO vests into an investment pool whose principal is primarily supplied by the Funding Partner. As a result, the Partner COO’s equity claim compounds on top of a capital base that is already **large** (or becomes large quickly), rather than compounding only from their own **smaller starting savings**.
+The Recipient Party vests into an investment pool whose principal is primarily supplied by the Funding Party. As a result, the Recipient Party’s equity claim compounds on top of a capital base that is already **large** (or becomes large quickly), rather than compounding only from their own **smaller starting savings**.
 
 Mechanically:
 
-- The Funding Partner contributes capital into the Vehicle Account.  
-- The Partner COO accrues a predefined **Allocation %** over time *(subject to a cap)*.  
-- At any valuation time *(Liquidity Event or termination)*, the Partner COO’s entitlement is computed as a share of the Vehicle Account value, **net of prior distributions** *(via the distribution ledger)*.
+- The Funding Party contributes capital into the Vehicle Account.  
+- The Recipient Party accrues a predefined **Allocation %** over time *(subject to a cap)*.  
+- At any valuation time *(Liquidity Event or termination)*, the Recipient Party’s entitlement is computed as a share of the Vehicle Account value, **net of prior distributions** *(via the distribution ledger)*.
 
-The economic effect is “leveraged compounding” in the plain-English sense: the Partner COO gains exposure to market growth on a substantially larger principal base than they could typically assemble independently at the same life stage. This is the source of the Domestic sphere’s newly legible, high-frequency price signal: a **predictable vesting schedule** into a **verifiable pool of invested capital**, with **deterministic liquidity** and **unwind procedures**.
+The economic effect is “leveraged compounding” in the plain-English sense: the Recipient Party gains exposure to market growth on a substantially larger principal base than they could typically assemble independently at the same life stage. This is the source of the Domestic sphere’s newly legible, high-frequency price signal: a **predictable vesting schedule** into a **verifiable pool of invested capital**, with **deterministic liquidity** and **unwind procedures**.
 
 ### The Structured Savings Effect
 
-While the CWA creates **sovereign wealth** for the Partner COO, it simultaneously acts as a **Structured Savings Engine** for the Funding Partner. Because the Partner COO’s equity is permanently capped at **50%**, every dollar the Funding Partner contributes to the LLC is fundamentally an investment in their own net worth. They are not “spending” money on lifestyle inflation; they are aggressively **saving it**, knowing that at least **half of the principal and half of the compounding yield remains legally theirs**. This enforces financial discipline and aggressive capital aggregation.
+While the CWA creates **sovereign wealth** for the Recipient Party, it simultaneously acts as a **Structured Savings Engine** for the Funding Party. Because the Recipient Party’s equity is permanently capped at **50%**, every dollar the Funding Party contributes to the LLC is fundamentally an investment in their own net worth. They are not “spending” money on lifestyle inflation; they are aggressively **saving it**, knowing that at least **half of the principal and half of the compounding yield remains legally theirs**. This enforces financial discipline and aggressive capital aggregation.
 
 ### The Deterministic Unwind *(At-Will Termination)*
 
-A critical feature of the CWA is that it remains a strictly **at-will** agreement. If at any point either party wishes to terminate, they can terminate at will. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the **formulaic unwind**, distributing the legally vested share to the Partner COO and returning the remaining balance to the Funding Partner. For the governed pool, it replaces legal warfare with a **programmatic financial transaction**.
+A critical feature of the CWA is that it remains a strictly **at-will** agreement. If at any point either party wishes to terminate, they can terminate at will. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the **formulaic unwind**, distributing the legally vested share to the Recipient Party and returning the remaining balance to the Funding Party. For the governed pool, it replaces legal warfare with a **programmatic financial transaction**.
 
 *Design note:* the CWA is drafted to be **governance-only** and **event-driven**, narrowing the dispute surface to the account and the formula.
 
@@ -135,7 +135,7 @@ While either party can trigger the unwind, the math disincentivizes it. By mathe
 
 ## Part V: Mathematical Implications of the CWA Mechanics
 
-To demonstrate the quantitative superiority of the CWA, we must audit the mathematical outcomes of the agreement. In this pure-vesting model, the Partner COO vests directly into the total LLC balance (**principal + growth**), establishing an unhedged, highly lucid price signal.
+To demonstrate the quantitative superiority of the CWA, we must audit the mathematical outcomes of the agreement. In this pure-vesting model, the Recipient Party vests directly into the total LLC balance (**principal + growth**), establishing an unhedged, highly lucid price signal.
 
 ### Baseline Parameters
 
@@ -144,9 +144,9 @@ To demonstrate the quantitative superiority of the CWA, we must audit the mathem
 
 ### Scenario A: The High-Earning Professional *($5,000/mo Contribution)*
 
-The following table models a Funding Partner contributing $5,000/month, assuming **no liquid draws** are taken, allowing the capital to compound uninterrupted.
+The following table models a Funding Party contributing $5,000/month, assuming **no liquid draws** are taken, allowing the capital to compound uninterrupted.
 
-| Year | Funding Partner Contributions (cum) | Joint Account Value | Partner COO Vested % | Partner COO Share if Separate | Funding Partner Share if Separate |
+| Year | Funding Party Contributions (cum) | Joint Account Value | Recipient Party Vested % | Recipient Party Share if Separate | Funding Party Share if Separate |
 |---:|---:|---:|---:|---:|---:|
 | 1 | $60,000 | $62,251 | 12% | $7,470 | $54,781 |
 | 2 | $120,000 | $128,861 | 24% | $30,927 | $97,934 |
@@ -164,20 +164,20 @@ The following table models a Funding Partner contributing $5,000/month, assuming
 | 14 | $840,000 | $1,403,801 | 50% | $701,901 | $701,901 |
 | 15 | $900,000 | $1,564,319 | 50% | $782,159 | $782,159 |
 
-**Analysis:** At *Month 50* (i.e., after 50 full months of 1% monthly accrual), the Partner COO hits the **50% cap**. From that moment forward, the parties walk in **lockstep parity**.
+**Analysis:** At *Month 50* (i.e., after 50 full months of 1% monthly accrual), the Recipient Party hits the **50% cap**. From that moment forward, the parties walk in **lockstep parity**.
 
 ### Scenario A-2: Liquidity Events *(Every 3 Years, Contract-Accurate)*
 
-A fair critique of the baseline table above is: it models **“paper equity”** only *(no distributions)*. Under the actual Cooperative Wealth Governance Agreement, the Partner COO can convert vested entitlement into assets held in the Partner COO’s own name at each Liquidity Event Date *(every three years)*, via the Liquidity formula:
+A fair critique of the baseline table above is: it models **“paper equity”** only *(no distributions)*. Under the actual Cooperative Wealth Governance Agreement, the Recipient Party can convert vested entitlement into assets held in the Recipient Party’s own name at each Liquidity Event Date *(every three years)*, via the Liquidity formula:
 
 **Liquidity Settlement Amount (Section 7.3.4):**  
-`max(0, (Vehicle Account value × Partner COO Allocation %) − (B Distribution Ledger))`
+`max(0, (Vehicle Account value × Recipient Party Allocation %) − (B Distribution Ledger))`
 
 Then, per Section 7.3.7, the **B Distribution Ledger** increases by the amount distributed, ensuring **no double counting** at future liquidity events or final termination unwind.
 
-Below is a 15-year illustration using the same baseline assumptions as Scenario A, but now with the Partner COO electing a liquidity distribution every 3-year window *(Years 3, 6, 9, 12, 15)*. The **Partner COO Personal Account** compounds at the same 7% rate *(for illustration)*, and is held in the Partner COO’s own name—this is what makes the wealth actually **liquid and sovereign**, not merely an in-account claim.
+Below is a 15-year illustration using the same baseline assumptions as Scenario A, but now with the Recipient Party electing a liquidity distribution every 3-year window *(Years 3, 6, 9, 12, 15)*. The **Recipient Party Personal Account** compounds at the same 7% rate *(for illustration)*, and is held in the Recipient Party’s own name—this is what makes the wealth actually **liquid and sovereign**, not merely an in-account claim.
 
-| Year | Funding Partner Contributions (cum) | Vehicle Value (post-event) | Partner COO Vested % | Liquidity Draw (this year) | Partner COO Personal Account (liquid) | Partner COO Claim on Vehicle if Unwind Now (net of ledger) | Partner COO Net Worth (Liquid + Claim) | Total Combined Wealth (Vehicle + Partner COO) |
+| Year | Funding Party Contributions (cum) | Vehicle Value (post-event) | Recipient Party Vested % | Liquidity Draw (this year) | Recipient Party Personal Account (liquid) | Recipient Party Claim on Vehicle if Unwind Now (net of ledger) | Recipient Party Net Worth (Liquid + Claim) | Total Combined Wealth (Vehicle + Recipient Party) |
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 1 | $60,000 | $62,251 | 12% | $0 | $0 | $7,470 | $7,470 | $62,251 |
 | 2 | $120,000 | $128,861 | 24% | $0 | $0 | $30,927 | $30,927 | $128,861 |
@@ -197,39 +197,39 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 **What this table shows (and why it matters):**
 
-- **Liquidity is real:** every 3 years, the Partner COO’s then-earned entitlement is transferred into a **personal, sovereign account**.  
+- **Liquidity is real:** every 3 years, the Recipient Party’s then-earned entitlement is transferred into a **personal, sovereign account**.  
 - **The ledger prevents double counting:** after a Liquidity Event, incremental in-vehicle claim often resets to **$0** because it has been settled.  
 - **New claim can re-appear between events:** as the Vehicle grows, allocation can exceed the ledger, creating a temporary claim until the next event.  
 - **Total wealth is conserved (simplified model):** distributions change **where** the wealth lives, not the combined total *(ignoring taxes/fees/slippage)*.
 
 ### Scenario B: The Break-Even Failsafe *($5,000/mo)*
 
-**Important note:** Child support cannot be contracted away. The CWA is **not** a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the Funding Partner while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of **“price discovery.”** For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes.
+**Important note:** Child support cannot be contracted away. The CWA is **not** a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the Funding Party while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of **“price discovery.”** For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes.
 
-**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Partner COO income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
+**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Recipient Party income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
 
 **The CWA Yield (same window):** The deeper point is incentive dominance over time: even if child support is *X*, the expected compounding after the 50% vesting cap often exceeds *X* beyond year ~N *(illustratively, around Year 6–8 in this model)*. Concretely, comparing **Year 7 → Year 8**:
 
-- Partner COO’s share at Year 7: **$269,363**  
-- Partner COO’s share at Year 8: **$319,344**  
-- Implied one-year CWA “yield” on the Partner COO’s share:  
+- Recipient Party’s share at Year 7: **$269,363**  
+- Recipient Party’s share at Year 8: **$319,344**  
+- Implied one-year CWA “yield” on the Recipient Party’s share:  
   **$319,344 − $269,363 = $49,981 per year**
 
-So in that same interval, the cooperative path’s passive wealth increase for the Partner COO (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$47,000/year**), flipping the incentive gradient toward **cooperation** rather than adversarial dissolution.
+So in that same interval, the cooperative path’s passive wealth increase for the Recipient Party (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$47,000/year**), flipping the incentive gradient toward **cooperation** rather than adversarial dissolution.
 
 ### The Nash Equilibrium of Cooperation
 
-The CWA does not attempt to contract away child-support law. It mathematically outcompetes the extraction incentives by making **cooperative compounding** the dominant expected-value path. If state child support yields roughly **$40,000/year**, but the passive compounding of the Partner COO’s capped 50% CWA share yields roughly **$50,000/year**, the **Nash equilibrium shifts**. It becomes less economically rational for the Partner COO to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
+The CWA does not attempt to contract away child-support law. It mathematically outcompetes the extraction incentives by making **cooperative compounding** the dominant expected-value path. If state child support yields roughly **$40,000/year**, but the passive compounding of the Recipient Party’s capped 50% CWA share yields roughly **$50,000/year**, the **Nash equilibrium shifts**. It becomes less economically rational for the Recipient Party to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
 
 In that regime, child support is pulled back toward its intended role: a **safety backstop** to ensure the child’s needs are met, rather than a proxy mechanism for the ex-partner’s financial survival.
 
-*(Note: with Liquidity Events, the same economic value can be realized earlier into the Partner COO’s own-name account; the logic remains an incentive comparison between cooperative compounding and adversarial cashflow extraction.)*
+*(Note: with Liquidity Events, the same economic value can be realized earlier into the Recipient Party’s own-name account; the logic remains an incentive comparison between cooperative compounding and adversarial cashflow extraction.)*
 
 ### Scenario C: The Mid-Earning Professional *($2,000/mo Contribution)*
 
-To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Funding Partner earning approximately $150,000 per year which make a $2,000 per month CWA sustainable.
+To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Funding Party earning approximately $150,000 per year which make a $2,000 per month CWA sustainable.
 
-| Year | Funding Partner Contributions (cum) | Joint Account Value | Partner COO Vested % | Partner COO Share if Separate | Funding Partner Share if Separate |
+| Year | Funding Party Contributions (cum) | Joint Account Value | Recipient Party Vested % | Recipient Party Share if Separate | Funding Party Share if Separate |
 |---:|---:|---:|---:|---:|---:|
 | 1 | $24,000 | $24,900 | 12% | $2,988 | $21,912 |
 | 2 | $48,000 | $51,544 | 24% | $12,371 | $39,173 |
@@ -247,7 +247,7 @@ To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market sc
 | 14 | $336,000 | $561,520 | 50% | $280,760 | $280,760 |
 | 15 | $360,000 | $625,728 | 50% | $312,864 | $312,864 |
 
-**Analysis:** By Year 15, the Partner COO has accumulated nearly **$313,000** in sovereign vested wealth. When paired with scheduled Liquidity Events, this vested wealth can be progressively converted into **sovereign liquid wealth** in the Partner COO’s own-name account.
+**Analysis:** By Year 15, the Recipient Party has accumulated nearly **$313,000** in sovereign vested wealth. When paired with scheduled Liquidity Events, this vested wealth can be progressively converted into **sovereign liquid wealth** in the Recipient Party’s own-name account.
 
 ### Tiering *(Non-Apex Scalability)*
 
@@ -255,22 +255,22 @@ As Scenario C suggests, CWAs can be implemented across multiple financial tiers�
 
 ### Scenario D: The Mid-Market Break-Even Failsafe
 
-- **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child *(Partner COO income = $0, 50/50 custody)* yields roughly **$18,000 to $21,000 per year**.
-- **The CWA Yield:** By Year 7, the Partner COO’s equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state’s gravitational pull. Stated differently, once the Partner COO has reached the 50% cap *(Year 5 in this model)*, a $2,000/month gross CWA contribution functions as roughly a **$1,000/month net “transfer” incentive** (because half of each marginal dollar remains the Funding Partner’s). That **~$1,000/month** net contribution neutralizes roughly **$1,500–$1,800/month** in state incentives—meaning the CWA is **capital-efficient** as an incentive counterweight.
+- **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child *(Recipient Party income = $0, 50/50 custody)* yields roughly **$18,000 to $21,000 per year**.
+- **The CWA Yield:** By Year 7, the Recipient Party’s equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state’s gravitational pull. Stated differently, once the Recipient Party has reached the 50% cap *(Year 5 in this model)*, a $2,000/month gross CWA contribution functions as roughly a **$1,000/month net “transfer” incentive** (because half of each marginal dollar remains the Funding Party’s). That **~$1,000/month** net contribution neutralizes roughly **$1,500–$1,800/month** in state incentives—meaning the CWA is **capital-efficient** as an incentive counterweight.
 
 ### Scenario E: Capital Resilience *(The 6-Month Income Interruption)*
 
 A common anxiety in traditional dual-income households is that a sudden job loss threatens the mortgage and immediate lifestyle, causing panic. The CWA inherently absorbs this shock via accumulated mass.
 
-Assume a Funding Partner in the $5,000/mo scenario experiences an income interruption in Year 4 and must pause contributions for 6 months.
+Assume a Funding Party in the $5,000/mo scenario experiences an income interruption in Year 4 and must pause contributions for 6 months.
 
 - By the end of Year 3, the LLC holds **$200,132**.
 - During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
-- Crucially, this temporary cessation of funding does **not** constitute a breach of agreement. Because the Partner COO is vested, their equity continues to grow passively even while the Funding Partner’s active income is zero. The momentum of the accumulated capital sustains the relationship’s orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
+- Crucially, this temporary cessation of funding does **not** constitute a breach of agreement. Because the Recipient Party is vested, their equity continues to grow passively even while the Funding Party’s active income is zero. The momentum of the accumulated capital sustains the relationship’s orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
 
 ### Scenario F: The Opportunity Cost *(CWA vs. The Corporate Path)*
 
-Critics argue that foregoing a traditional career for the Partner COO role constitutes a “loss of financial independence.” That objection ignores a core reality: the salary path is an attrition engine once you include taxes and cost-of-living, and even disciplined saving compounds from a relatively small base.
+Critics argue that foregoing a traditional career for the Recipient Party role constitutes a “loss of financial independence.” That objection ignores a core reality: the salary path is an attrition engine once you include taxes and cost-of-living, and even disciplined saving compounds from a relatively small base.
 
 Let’s stress-test this by giving the corporate path every conceivable advantage. We compare a $5,000/month CWA contribution path against a single woman starting at $75,000/year, receiving a guaranteed 5% raise every year for 15 years, saving an unusually aggressive 20% of gross income, and earning 7% annual investment returns.
 
@@ -306,20 +306,20 @@ Let’s stress-test this by giving the corporate path every conceivable advantag
 
 **The CWA Leverage**
 
-- Partner COO invests **$0** of her own capital
-- Funding Partner contributes **$5,000/month**
+- Recipient Party invests **$0** of her own capital
+- Funding Party contributes **$5,000/month**
 - **1% monthly vesting** with a **50% cap** *(cap reached early Year 5)*
 - Both accounts compound at **7%**
 
 **Results (same assumptions as the CWA model):**
 
 - Joint account value at Year 15: **~ $1,564,319**
-- Partner COO vested net worth at Year 15 (50% cap): **~ $782,159**
+- Recipient Party vested net worth at Year 15 (50% cap): **~ $782,159**
 
 **Bottom line (correct comparison):**
 
 - Corporate woman net worth (Year 15): **~ $529,218**
-- Partner COO vested net worth (Year 15): **~ $782,159**
+- Recipient Party vested net worth (Year 15): **~ $782,159**
 - Gap: **~ $252,941**
 
 ---
@@ -372,7 +372,7 @@ The **minimum viable product** is not “wealth”; it is **legibility**: a defi
 Two principles matter:
 
 - First, the CWA is drafted to be **governance-only** and **at-will**. There are no enforceable performance duties, no “services owed,” and no requirement to remain in the relationship. Either party can trigger termination at any time.
-- Second, the liquidity cadence plus continuous vesting is an **anti-entrapment feature**. The Partner COO’s wealth is not deferred to an end-state event. It is periodically realizable into a **sovereign account**, which can function as a personal safety buffer.
+- Second, the liquidity cadence plus continuous vesting is an **anti-entrapment feature**. The Recipient Party’s wealth is not deferred to an end-state event. It is periodically realizable into a **sovereign account**, which can function as a personal safety buffer.
 
 However, the honest limit is that coercion is not primarily a contractual problem; it is a human behavior problem. Any real implementation should incorporate practical safeguards such as **independent counsel**, **cooling-off periods**, **administrator independence standards**, and explicit **anti-duress representations**.
 
@@ -382,7 +382,7 @@ The CWA reduces some failure modes (financial cornering, opaque unwind fights), 
 
 **Answer:** Then the wealth engine produces a **weaker price signal**—but the core advantage (**legibility and sovereign vesting**) remains.
 
-The illustrative tables assume 7% annualized returns to show the mechanism in a friendly regime. If returns are low or flat for extended periods, the Partner COO’s realized wealth growth will be lower. That is not a special flaw of the CWA; it is the universal reality of investing.
+The illustrative tables assume 7% annualized returns to show the mechanism in a friendly regime. If returns are low or flat for extended periods, the Recipient Party’s realized wealth growth will be lower. That is not a special flaw of the CWA; it is the universal reality of investing.
 
 Two clarifications:
 
@@ -428,7 +428,7 @@ A critique of the CWA is that because only a minority of high-net-worth people c
 
 Consider the economics of professional sports. Millions of young athletes dedicate their early lives to training for the NBA or NFL. Statistically, only a fraction of a percent will ever sign a lucrative professional contract. However, the mere existence of that outsized reward at the apex of the market dictates the behavior, daily habits, and aspirations of the millions at the base.
 
-In the relationship marketplace, the public visibility of the CWA acts as this apex prize. To compete for these elite “Ships,” a massive aspirational pipeline is formed. Some percentage of people will begin actively optimizing for the Partner COO skillset, shifting their gravitational orbit away from the Career and Attention Economy spheres and back toward the Domestic sphere, shifting the cultural Overton window for the entire market.
+In the relationship marketplace, the public visibility of the CWA acts as this apex prize. To compete for these elite “Ships,” a massive aspirational pipeline is formed. Some percentage of people will begin actively optimizing for the Recipient Party skillset, shifting their gravitational orbit away from the Career and Attention Economy spheres and back toward the Domestic sphere, shifting the cultural Overton window for the entire market.
 
 ### 2) Labor Supply Dynamics and Macroeconomic Equality
 
@@ -438,9 +438,9 @@ Because the CWA tournament successfully incentivizes a percentage of highly comp
 
 ### 3) Asymmetric Risk Profiles and Path Interoperability
 
-Critics will argue that if someone foregoes the corporate workforce to “train” for the CWA league but fails to secure a top-tier Funding Partner, their downside risk is catastrophic. This objection ignores the high utilitarian floor of the domestic sphere and severely underestimates the mutually exclusive, catastrophic risks of the alternatives.
+Critics will argue that if someone foregoes the corporate workforce to “train” for the CWA league but fails to secure a top-tier Funding Party, their downside risk is catastrophic. This objection ignores the high utilitarian floor of the domestic sphere and severely underestimates the mutually exclusive, catastrophic risks of the alternatives.
 
-- **The High Utilitarian Floor and Preserved Optionality:** The skills acquired in the domestic pipeline—household logistics, emotional regulation, child-rearing efficiency—have immense intrinsic value that directly improves lived experience. Furthermore, the domestic skillset is non-exclusive. Developing these operational skills does not disqualify a person from concurrently or subsequently participating in the corporate sphere. They preserve optionality. Participation can also be hybrid and negotiated rather than total. A Partner COO may:
+- **The High Utilitarian Floor and Preserved Optionality:** The skills acquired in the domestic pipeline—household logistics, emotional regulation, child-rearing efficiency—have immense intrinsic value that directly improves lived experience. Furthermore, the domestic skillset is non-exclusive. Developing these operational skills does not disqualify a person from concurrently or subsequently participating in the corporate sphere. They preserve optionality. Participation can also be hybrid and negotiated rather than total. A Recipient Party may:
   - split time between the domestic sphere and the Workforce Career sphere *(e.g., part-time, seasonal, consulting, or remote work)*,
   - maintain a personal career track for redundancy, autonomy, or identity,
   - adjust workload and contribution expectations over time as circumstances change *(children, relocation, health, or income volatility)*.
@@ -453,7 +453,7 @@ Critics will argue that if someone foregoes the corporate workforce to “train�
 
 ### 4) The End of Financial Entrapment
 
-Currently, one of the greatest sources of silent suffering in the West is individuals trapped in toxic or abusive marriages because they sacrificed their peak earning years to manage the domestic sphere. The CWA eradicates this systemic entrapment. Because of periodic Liquidity Events and a continuous vesting schedule, the Partner COO builds an independent, sovereign war chest. They are never financially cornered. They stay in the relationship because they want to, not because they have to.
+Currently, one of the greatest sources of silent suffering in the West is individuals trapped in toxic or abusive marriages because they sacrificed their peak earning years to manage the domestic sphere. The CWA eradicates this systemic entrapment. Because of periodic Liquidity Events and a continuous vesting schedule, the Recipient Party builds an independent, sovereign war chest. They are never financially cornered. They stay in the relationship because they want to, not because they have to.
 
 ### 5) The Eradication of Family Court Trauma
 
@@ -461,11 +461,11 @@ The state-sponsored family court system is frequently gamed to produce scorched-
 
 ### 6) Aligning Young People Toward Productive Ends
 
-If the only way someone can secure a high-quality, dedicated Partner COO is to programmatically prove they have the capital and discipline to fund a CWA, it redirects energy away from mimetic posturing and digital distractions. It forces people to become actual, disciplined builders of capital.
+If the only way someone can secure a high-quality, dedicated Recipient Party is to programmatically prove they have the capital and discipline to fund a CWA, it redirects energy away from mimetic posturing and digital distractions. It forces people to become actual, disciplined builders of capital.
 
 ### 7) The Pivot in Digital Signaling *(The End of Attention Farming)*
 
-Currently, social media use is heavily skewed toward self-sexualization and “attention farming.” As established in the Gravity Model, this is a highly rational response to the clear price signals of the Attention Economy sphere. However, as the CWA establishes a new, verifiable apex reward, the required market signaling fundamentally changes. To attract a verified Funding Partner, the aspirational pipeline of people will naturally pivot their public-facing digital footprints. The focus will shift away from attention-farming content—which often reads as higher-risk and lower-interoperability to a prospective partner—and toward the demonstration of high-level utility, emotional regulation, and operational competency. Social media will transition from a marketplace of superficial mimetic validation into a verifiable resume of domestic and managerial excellence.
+Currently, social media use is heavily skewed toward self-sexualization and “attention farming.” As established in the Gravity Model, this is a highly rational response to the clear price signals of the Attention Economy sphere. However, as the CWA establishes a new, verifiable apex reward, the required market signaling fundamentally changes. To attract a verified Funding Party, the aspirational pipeline of people will naturally pivot their public-facing digital footprints. The focus will shift away from attention-farming content—which often reads as higher-risk and lower-interoperability to a prospective partner—and toward the demonstration of high-level utility, emotional regulation, and operational competency. Social media will transition from a marketplace of superficial mimetic validation into a verifiable resume of domestic and managerial excellence.
 
 ---
 
@@ -476,7 +476,7 @@ If the Gravity Model is directionally correct, then making domestic equity expli
 If CWAs + a credible Clearinghouse are adopted at meaningful scale, we should observe:
 
 1. **Lower breakup rates after vesting cap**  
-   Once the Partner COO hits the cap *(e.g., 50%)*, the relationship becomes a parity compounding machine. The model predicts a downshift in separations after the cap versus before the cap, controlling for age, income, and children.
+   Once the Recipient Party hits the cap *(e.g., 50%)*, the relationship becomes a parity compounding machine. The model predicts a downshift in separations after the cap versus before the cap, controlling for age, income, and children.
 
 2. **Reduced litigation intensity around assets governed by the CWA**  
    Deterministic unwind + ledger accounting should reduce “narrative warfare” incentives. The model predicts:
