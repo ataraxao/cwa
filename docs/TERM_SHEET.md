@@ -14,6 +14,7 @@
 ## Funding (voluntary unless amended)
 - Target monthly contribution (non-binding): $[____] / month starting [Date]
 - Funding may pause/stop at any time without arrears (unless amended)
+- Optional Discretionary Gift Top-Ups: Party A may instruct additional distributions to Party B’s B Designated Account; treated as B Distributions and recorded in the ledger (netted against later Liquidity/Termination payouts)
 
 ## Allocation
 - Accrual rate: [__]% per full calendar month (whole-month cutoff)
@@ -55,3 +56,4 @@
 - Separate counsel encouraged for both parties
 - No tax characterization promised
 - No waiver of non-waivable rights (incl. child-related statutory rights/obligations)
+- Narrow restitution carve-out may apply for intentional dissipation not prevented by controls (per final award, if applicable)
