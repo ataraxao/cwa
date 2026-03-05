@@ -473,10 +473,18 @@ This Agreement shall be governed by the laws of the State of **[State]**, withou
 ### 10.5 Voluntary Execution; Opportunity to Review
 Each Party represents that they: (a) had adequate time to review this Agreement; (b) had the opportunity to seek independent legal and tax advice; (c) is signing voluntarily and without duress or coercion; and (d) is not relying on any oral promises inconsistent with this Agreement.
 
-### 10.6 Independent Legal Advice; Acknowledgments
-(a) **Independent Legal Advice Encouraged.** Each Party acknowledges that they have been advised to obtain independent legal advice from counsel of their own choosing regarding this Agreement (including its dispute resolution provisions and Vehicle Account mechanics), and independent tax advice regarding potential reporting obligations.  
-(b) **Opportunity to Consult; Time to Review.** Each Party acknowledges that they had adequate time to review this Agreement and had the opportunity to consult independent counsel before signing.  
-(c) **Optional Counsel Certificates.** The Parties may attach the Optional Certificate of Independent Legal Counsel set forth below. If attached, the certificates are incorporated by reference for evidentiary purposes only.
+### 10.5A Review Period (Anti-Rush)
+Each Party represents that they first received a complete copy of this Agreement at least **[7] days** prior to signing, or that they voluntarily waived this review period by initialing here:  
+Party A ____ / Party B ____.
+
+### 10.6 Independent Legal Advice; Optional Counsel Certificates; Informed Waiver
+(a) **Independent Legal Advice Strongly Encouraged.** Each Party acknowledges that they have been strongly encouraged to obtain independent legal counsel from counsel of their own choosing regarding this Agreement (including dispute resolution, non-recourse limits, and termination/unwind mechanics), and independent tax counsel regarding potential reporting obligations.  
+
+(b) **Opportunity to Consult; Time to Review.** Each Party represents that they have had a reasonable opportunity to review this Agreement and to consult independent counsel prior to signing.  
+
+(c) **Optional Counsel Certificates.** If either Party is represented by counsel, that Party may attach the Optional Certificate of Independent Legal Counsel. Any such certificate is incorporated by reference for evidentiary purposes only and does not modify the terms of this Agreement.  
+
+(d) **Informed Waiver if Counsel Declined.** If a Party signs this Agreement without independent legal counsel, that Party acknowledges and agrees that: (i) they were advised to obtain independent counsel; (ii) they had the opportunity and adequate time to do so; (iii) they are voluntarily choosing not to do so; and (iv) they understand that signing without counsel may reduce their ability to later claim they did not understand this Agreement.
 
 ### 10.7 Exhibit / Appendix Hierarchy
 Exhibits and Appendix A are incorporated by reference. If there is a conflict between the main body and an Exhibit or Appendix A, the main body controls unless it explicitly states otherwise.
@@ -500,6 +508,25 @@ Exhibit 5 (Key Terms Summary) is provided for convenience only. If there is any 
 (d) **Reservation of Rights.** All rights and remedies of the Parties under this Agreement are cumulative and may be exercised as often as deemed necessary, subject to the dispute resolution provisions herein.
 
 ---
+
+## Key Terms Initials (Acknowledgment)
+By initialing below, each Party acknowledges they understand and agree to the following provisions:
+
+- **No Support / No Services / Relationship Neutrality** (Sections 1.3–1.6):  
+  Party A ____ / Party B ____  
+
+- **Non-Recourse / In-Pool Only (except Section 6.3)** (Sections 1.9, 4.7, 6.3):  
+  Party A ____ / Party B ____  
+
+- **At-Will Termination and Deterministic Unwind** (Article VII):  
+  Party A ____ / Party B ____  
+
+- **Arbitration / Venue / Emergency Relief** (Article VIII):  
+  Party A ____ / Party B ____  
+
+- **No Tax Characterization Promise** (Sections 1.8 and Article IX):  
+  Party A ____ / Party B ____  
+
 
 # EXECUTION
 
