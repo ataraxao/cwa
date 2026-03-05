@@ -20,10 +20,6 @@ The CWA is a **wealth-only, event-driven governance wrapper** for a **ring-fence
 - A tax strategy or promise of tax characterization.
 - A waiver of non-waivable rights (including child-related statutory rights/obligations).
 
-## CWA vs. “Allowance While Cohabiting” (Why this is not just $X/month)
-
-A monthly allowance is a **cashflow relationship**: recurring transfers to a person that can read as support-like and can invite expectation/reliance narratives (“I paid you because we lived together”). The CWA is a **restricted-asset governance + event-settlement mechanism**: value is held in a defined, ring-fenced Vehicle Account with **no unilateral transfers-out**, an **Independent Administrator** who executes only defined events (Liquidity Events, termination unwind, dispute holdback, and optional Discretionary Top-Ups), and a deterministic formula that is **ledger-netted** to prevent double counting. The CWA’s core claim is not “I will pay you monthly,” but: **if** assets exist in the Vehicle Account, **then** allocation, liquidity, and exit are executed mechanically (valuation time + allocation % + ledger + administrator), reducing disputes to “account + formula,” rather than personal obligations or lifestyle support.
-
 ## 3) Core components (definitions in plain English)
 - **Vehicle LLC:** typically a single-member LLC owned by Party A, used as the account holder for the investment pool.
 - **Vehicle Account:** the restricted brokerage account titled to the Vehicle LLC.
