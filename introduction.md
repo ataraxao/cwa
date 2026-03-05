@@ -336,7 +336,21 @@ In modern systems, domestic contribution is already economically priced—just i
 
 The Gravity Model is not a total theory of love or intimacy. It is an **incentive lens**. The CWA is not a replacement for trust, affection, compatibility, or shared meaning. It is a **risk-reduction and incentive-alignment chassis** for the wealth layer that already contaminates outcomes in the legacy system.
 
-### 2) “Does this incentivize strategic behavior?”
+### 2) “Isn’t this just a monthly allowance with extra steps?”
+**Answer:** No. An allowance is a **private cashflow**; the CWA is a **verifiable mechanism** that upgrades the Domestic sphere’s price signal.
+
+A monthly allowance can be generous, but it produces a weak market signal because it is easy to mimic, easy to reverse, and hard for a counterparty to verify *ex ante*. It also tends to read as **support-like behavior**: an ongoing pattern of discretionary payments that is easier to narrate as reliance, maintenance, or commingled life finance in adversarial contexts.
+
+The CWA is structurally different:
+
+1) **Verifiable (third-party observable):** the Recipient Party’s upside is tied to a defined Vehicle Account with defined controls, statements access, and deterministic event procedures.  
+2) **Hard to fake (anti-mimetic):** implementing an administrator-controlled pool with recipient restrictions, ledgering, and operative-date gating is meaningfully harder than paying an allowance, and that implementation commitment is part of the signal.  
+3) **Event-driven rather than discretionary:** instead of continuous renegotiation, the wealth layer resolves through defined events (Liquidity Events and termination unwind), which reduces negotiation and exit narrative warfare.  
+4) **Capital formation, not consumption:** the point is not “getting paid,” but creating **legible equity** that compounds, can be periodically realized into the Recipient Party’s own-name account, and can be unwound deterministically.
+
+In short: an allowance is a payment pattern. The CWA is a **mechanism** whose primary function is to raise the Domestic sphere’s **clarity, enforceability, and market visibility**—without creating personal performance obligations.
+
+### 3) “Does this incentivize strategic behavior?”
 
 **Answer:** **Yes—by design.** The point is to channel strategy into **cooperation** rather than adversarial extraction.
 
@@ -349,7 +363,7 @@ All legal and financial systems create strategic behavior. Marriage and family c
 
 This does not eliminate strategic behavior; it changes the payoff matrix so that the **highest expected-value strategy** is to keep the cooperative wealth engine running.
 
-### 3) “What about low-income couples?”
+### 4) “What about low-income couples?”
 
 **Answer:** The mechanism is **tierable**. The clearinghouse concept is not “apex only,” even if the apex tier is the most visible.
 
@@ -365,7 +379,7 @@ A low- or mid-income implementation can be:
 
 The **minimum viable product** is not “wealth”; it is **legibility**: a defined pool, defined allocation, and defined unwind procedure. The economic magnitude scales with income, but the price-signal benefit (**clarity + enforceability + liquidity cadence**) still exists.
 
-### 4) “What about abuse/coercion risk?”
+### 5) “What about abuse/coercion risk?”
 
 **Answer:** This is a serious concern. The design intent is to **reduce entrapment**, not create it—while acknowledging that no paper mechanism can fully solve coercion in the real world.
 
@@ -378,7 +392,7 @@ However, the honest limit is that coercion is not primarily a contractual proble
 
 The CWA reduces some failure modes (financial cornering, opaque unwind fights), but it cannot guarantee safety in all interpersonal dynamics.
 
-### 5) “What happens if markets are flat for a decade?”
+### 6) “What happens if markets are flat for a decade?”
 
 **Answer:** Then the wealth engine produces a **weaker price signal**—but the core advantage (**legibility and sovereign vesting**) remains.
 
