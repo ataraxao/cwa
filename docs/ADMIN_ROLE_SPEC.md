@@ -2,12 +2,12 @@
 *Conceptual template. Not legal or tax advice.*
 
 ## 1) Role summary
-The Independent Administrator is a neutral party who **controls transfers-out/distributions/freeze actions** for a restricted Vehicle Account and executes only **Administrator Events** (Liquidity Events, Termination unwind, Discretionary Gift Top-Ups (if instructed), and dispute holdback/release of undisputed amounts). The Administrator is not a portfolio manager, relationship mediator, or fact finder.
+The Independent Administrator is a neutral party who **controls transfers-out/distributions/freeze actions** for a restricted Vehicle Account and executes only **event-driven instructions under the Agreement** (Liquidity Events, Termination unwind, Dispute holdback/release of undisputed amounts, and Discretionary Gift Top-Ups **if instructed by Party A**). The Administrator is not a portfolio manager, relationship mediator, or fact finder.
 
-## 2) Administrator Events (the only actions the role performs)
+## 2) Event actions (the only actions the role performs)
 1) **Liquidity Event distribution** (only if Party B makes a valid Liquidity Election during the Liquidity Window)
 2) **Termination unwind** (upon effective termination notice or deemed termination trigger)
-3) **Discretionary Gift Top-Up** (only upon Party A’s written instruction, and only to Party B’s B Designated Account)
+3) **Discretionary Top-Up** (only upon Party A’s written instruction, and only to Party B’s B Designated Account)
 4) **Dispute holdback + release of undisputed amounts** (when notified of a dispute affecting distribution amounts)
 
 ## 3) What the Administrator MUST be able to do (capability requirements)
@@ -15,6 +15,7 @@ The Independent Administrator is a neutral party who **controls transfers-out/di
   - A Designated Account (Party A)
   - B Designated Account (Party B)
   - custodian fees / required withholding recipients
+  - The Administrator should refuse any request to transfer to non-designated recipients unless required by a final arbitration award, court order, or applicable law.
 - Freeze transfers-out (subject to custodian constraints)
 - Implement in-kind distributions when practicable (cash fallback allowed)
 - Maintain an **event-only B Distribution Ledger**
