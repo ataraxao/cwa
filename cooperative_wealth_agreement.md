@@ -1,6 +1,8 @@
 # COOPERATIVE WEALTH GOVERNANCE AGREEMENT (WEALTH-ONLY; EVENT-DRIVEN; RING-FENCED POOL)
 *Independent Administrator–Controlled Restricted LLC Brokerage Account; Deterministic Unwind; Periodic Liquidity Events; Joint Asset Protocol; Minimal Disclosure Process*
 
+Read the full white paper at https://ataraxao.substack.com/p/the-gravity-model-aligning-price
+
 > **TEMPLATE NOTICE: NOT LEGAL OR TAX ADVICE.**  
 > This document is a conceptual template intended for educational and informational purposes only. It does not constitute legal advice or tax advice. Laws regarding property rights, LLCs, arbitration, securities custody, partnership characterization, and taxation vary heavily by jurisdiction. Each Party must consult independent legal counsel and independent tax counsel before executing this Agreement, forming any entity, or funding any account contemplated herein.
 
