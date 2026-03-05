@@ -302,6 +302,13 @@ If Vehicle Account funds are used to purchase a Joint Asset, that Joint Asset sh
 
 (f) **No Effect on Allocation Percentage.** Discretionary Top-Ups do not modify the Allocation Percentage accrual schedule, the Allocation Cap, or any other formula in this Agreement unless amended in a signed writing by both Parties under Section 10.2.
 
+### 5.5 No Separate-Property Improvements Using Personal Funds; No Reliance on Property-Equity Expectations
+(a) **No Separate-Property Improvement Expectation.** Except as expressly set forth in a signed writing that (i) identifies the specific property, (ii) specifies an ownership interest or reimbursement formula, and (iii) is executed contemporaneously with the expenditure, neither Party shall make (and each Party agrees not to request or encourage) material improvements to the other Party’s separate property using the improving Party’s personal funds in reliance on any expectation of reimbursement, equity, or other property interest.
+
+(b) **No Constructive Trust / Unjust Enrichment Theories Based on Improvements.** To the maximum extent permitted by law, each Party waives any claim seeking a constructive trust, equitable lien, or unjust enrichment recovery against the other Party’s separate property based on voluntary expenditures or improvements made in violation of subsection (a), and agrees that any such expenditures are presumed to be voluntary and non-reimbursable absent the signed writing described above.
+
+(c) **Safe Harbor: Use the Joint Asset Protocol Instead.** If the Parties intend that a major expenditure should create a shared economic interest, the Parties agree to use either (i) a Joint Asset purchase governed by this Agreement, or (ii) a separate written co-ownership or reimbursement agreement meeting the requirements of subsection (a).
+
 ---
 
 ## ARTICLE VI — MISAPPROPRIATION; DISPUTE HOLDBACK (NARROW)
