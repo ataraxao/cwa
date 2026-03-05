@@ -337,18 +337,38 @@ In modern systems, domestic contribution is already economically priced—just i
 The Gravity Model is not a total theory of love or intimacy. It is an **incentive lens**. The CWA is not a replacement for trust, affection, compatibility, or shared meaning. It is a **risk-reduction and incentive-alignment chassis** for the wealth layer that already contaminates outcomes in the legacy system.
 
 ### 2) “Isn’t this just a monthly allowance with extra steps?”
-**Answer:** No. An allowance is a **private cashflow**; the CWA is a **verifiable mechanism** that upgrades the Domestic sphere’s price signal.
 
-A monthly allowance can be generous, but it produces a weak market signal because it is easy to mimic, easy to reverse, and hard for a counterparty to verify *ex ante*. It also tends to read as **support-like behavior**: an ongoing pattern of discretionary payments that is easier to narrate as reliance, maintenance, or commingled life finance in adversarial contexts.
+**Answer:** No. A monthly allowance is a discretionary cashflow. The CWA is a **verifiable mechanism** designed to produce a **clean domestic price signal** by balancing leverage and reducing discretionary uncertainty on *both* sides.
 
-The CWA is structurally different:
+A monthly allowance can be generous, but it is a weak price signal for the same core reason that court-adjudicated transfers (divorce/property support outcomes) are weak price signals: **the outcome is not mechanically legible ex ante.** It is contingent—either on the recipient’s leverage through the state, or on the funder’s leverage through discretion. When one side can unilaterally reshape the payoff, a stable market-visible signal cannot form.
 
-1) **Verifiable (third-party observable):** the Recipient Party’s upside is tied to a defined Vehicle Account with defined controls, statements access, and deterministic event procedures.  
-2) **Hard to fake (anti-mimetic):** implementing an administrator-controlled pool with recipient restrictions, ledgering, and operative-date gating is meaningfully harder than paying an allowance, and that implementation commitment is part of the signal.  
-3) **Event-driven rather than discretionary:** instead of continuous renegotiation, the wealth layer resolves through defined events (Liquidity Events and termination unwind), which reduces negotiation and exit narrative warfare.  
-4) **Capital formation, not consumption:** the point is not “getting paid,” but creating **legible equity** that compounds, can be periodically realized into the Recipient Party’s own-name account, and can be unwound deterministically.
+#### Allowance vs. statutory transfer: the same failure mode at opposite extremes
 
-In short: an allowance is a payment pattern. The CWA is a **mechanism** whose primary function is to raise the Domestic sphere’s **clarity, enforceability, and market visibility**—without creating personal performance obligations.
+- **Statutory transfers / divorce outcomes:** the uncertainty is dominated by the *recipient-side* leverage. The eventual payout is mediated by litigation dynamics, fact patterns, and a judge’s discretionary “equity” lens. The funding party cannot pre-commit to a deterministic outcome, and the recipient party cannot reliably price the expected value without an adversarial process. The “signal” is noisy and dispute-driven.
+
+- **Monthly allowance:** the uncertainty is dominated by the *funding-side* leverage. The funder can stop, reduce, delay, or renegotiate at will. Even if the funder is sincere, the counterparty cannot verify continuation or enforceability ex ante. The “signal” is cheap to mimic, easy to reverse, and therefore weak as a commitment instrument.
+
+These are mirror-image failure modes: **excess leverage at either extreme prevents a clean price signal from forming.** One side’s payoff is too contingent on a third party (court) or on the other party’s ongoing discretion.
+
+#### What the CWA is trying to do instead: balance leverage via mechanism
+
+The CWA is an attempt to land in the middle ground where:
+- the payout is not created by a judge’s narrative discretion, and
+- it is not dependent on a funder’s month-to-month goodwill.
+
+It does this by converting “relationship finance” from a payment pattern into an **implemented process**:
+
+- **Commitment is locked to capital already in the pool.** Once money is inside a properly implemented Vehicle Account, it is governed by recipient restrictions, ledgering, and event procedures. This reduces the ability of either party to unilaterally claw back or redirect committed capital.
+
+- **Leverage is balanced by architecture, not vibes.** An Independent Administrator–controlled account with operative-date gating makes the control split real: the funder may have trading authority, but not transfers-out; the administrator controls distributions on defined events; the recipient has statement/view access to verify reality.
+
+- **The recipient’s upside is not merely promised—it is mechanically anchored.** Even if the funder stops funding, the recipient’s already-accrued allocation continues to reference a live invested pool. The recipient can still (i) earn market exposure on a larger capital base than they could typically assemble and (ii) continue to accrue allocation in whole-month increments (up to the cap), subject to the agreement’s rules.
+
+- **The mechanism narrows the renegotiation surface.** Allowances re-open negotiation every month. Court outcomes re-open negotiation at exit under maximum conflict. The CWA pushes the wealth layer into defined events (Liquidity Events and termination unwind) with deterministic calculation and ledger netting.
+
+In short: **an allowance is a discretionary pattern; statutory transfer is an adversarial lottery.** The CWA is an attempt to create a third category: a verifiable, event-driven wealth mechanism where neither party holds unilateral leverage over the defined pool, enabling a clearer and more stable domestic price signal.
+
+*The CWA does not claim it is the only way to generate a domestic price signal. It is one concrete mechanism design that aims to balance leverage and make outcomes legible and verifiable ex ante.*
 
 ### 3) “Does this incentivize strategic behavior?”
 
