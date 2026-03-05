@@ -12,10 +12,10 @@ Standard legal frameworks regarding property rights, LLC characterization, domes
 ### 3. FINANCIAL HYGIENE AND EXECUTION RISK
 The effectiveness of the CWA depends entirely on the user's ability to maintain strict financial separation. 
 
-> **WARNING:** The "commingling" of personal and partnership funds or the failure to maintain separate legal domiciles may invalidate the protections intended by this structure. The Author assumes no liability for financial or legal losses resulting from improper execution or the failure to follow rigorous accounting standards.
+> **WARNING:** Routine commingling (treating the Vehicle Account/LLC like a spending account, paying lifestyle expenses, or blurring account ownership and recipient controls) can materially increase legal and tax risk, and may undermine the dispute-surface minimization intended by this structure.
 
-### 4. REQUIREMENT FOR INDEPENDENT COUNSEL
-These documents should not be executed without professional oversight. Each party must consult with independent legal and tax counsel to review and adapt these templates to their specific financial situation and jurisdiction. It is essential to work with professionals familiar with manager-managed LLCs and relevant gift tax regulations.
+### 4. INDEPENDENT COUNSEL (STRONGLY ENCOURAGED)
+These documents should not be executed without professional oversight. Each party is **strongly encouraged** to consult with independent legal and tax counsel to review and adapt these templates to their specific financial situation and jurisdiction. It is ideal to work with professionals familiar with LLC account control structures, arbitration provisions, and relevant gift tax reporting.
 
 ### 5. PUBLIC DOMAIN (CC0 1.0) / "AS-IS"
 This work is published under the **CC0 1.0 Universal (Public Domain Dedication)**. It is provided **"AS-IS"** without warranty of any kind. By using this repository, you acknowledge that you are managing your assets through private contract and assume all associated risks.
@@ -156,6 +156,14 @@ Upon termination:
 - **This is not child support avoidance.** Child-related statutory rights and obligations are not waivable by private contract.
 - **Administrator transition exists.** The contract includes resignation and replacement mechanics (including replacement by joint instruction), plus dispute-resolution tools to preserve the control structure during transitions.
 - **Narrow restitution carve-out exists.** The contract contains a narrow outside-the-pool restitution remedy for intentional dissipation not prevented by the controls (as determined by a final award).
+
+## Two-tier use (general users vs. HNW)
+
+This template is designed for broad adoption as a governance-only, ring-fenced account mechanism.
+
+- **General users (most people):** The CWA is typically used as a standalone governance wrapper for a restricted investment pool. The main risk controls are operational: keep the vehicle investment-only, avoid commingling, and keep shared purchases inside the Joint Asset protocol.
+
+- **HNW / high-exposure users:** Many sophisticated users also implement separate structural planning (trusts/entities and jurisdictional planning) to reduce tail risk if the agreement is attacked in litigation. This repository does not provide asset-protection or estate-planning advice. If you have substantial wealth or complex cross-state exposure, consult specialized counsel.
 
 ## How to review / provide feedback (high-signal critique welcome)
 
