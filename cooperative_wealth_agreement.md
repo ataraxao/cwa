@@ -292,7 +292,7 @@ If any portion of a Shared Withdrawal is expressly designated as a B Distributio
 ### 5.3 Joint Asset Purchases; Title and Governance
 If Vehicle Account funds are used to purchase a Joint Asset, that Joint Asset shall be titled as Tenants in Common (or closest equivalent) with ownership percentages matching the Allocation Percentage at the applicable Valuation Time, unless the Parties agree otherwise in a signed writing (including titling to the Vehicle LLC). Governance, carrying costs, buyout rights, and sale procedures are governed by Exhibit 2.
 
-### 5.4 Discretionary Gift Top-Up (Optional; Non-Owed; Not Consideration)
+### 5.4 Discretionary Top-Up (Optional; Non-Owed; Not Consideration)
 (a) **Discretionary Top-Up Authority.** Party A may, at Party A’s sole discretion, authorize one or more additional distributions to Party B (each, a “Discretionary Top-Up”) from the Vehicle Account during the Term.
 
 (b) **Form; Destination; Administrator Processing.** Any Discretionary Top-Up must be initiated by Party A by written instruction delivered to the Independent Administrator and copied to Party B, specifying the amount (or in-kind equivalent) and confirming the destination as Party B’s B Designated Account. The Independent Administrator may process a Discretionary Top-Up only to Party B’s B Designated Account and subject to Custodian Constraints.
@@ -484,8 +484,7 @@ This Agreement shall be governed by the laws of the State of **[State]**, withou
 Each Party represents that they: (a) had adequate time to review this Agreement; (b) had the opportunity to seek independent legal and tax advice; (c) is signing voluntarily and without duress or coercion; and (d) is not relying on any oral promises inconsistent with this Agreement.
 
 ### 10.5A Review Period (Anti-Rush)
-Each Party represents that they first received a complete copy of this Agreement at least **[7] days** prior to signing, or that they voluntarily waived this review period by initialing here:  
-Party A ____ / Party B ____.
+Each Party represents that they first received a complete copy of this Agreement at least **[7] days** prior to signing, or that they voluntarily waived this review period as acknowledged in the Key Terms Initials (Acknowledgment) section below.
 
 ### 10.6 Independent Legal Advice; Optional Counsel Certificates; Informed Waiver
 (a) **Independent Legal Advice Strongly Encouraged.** Each Party acknowledges that they have been strongly encouraged to obtain independent legal counsel from counsel of their own choosing regarding this Agreement (including dispute resolution, non-recourse limits, and termination/unwind mechanics), and independent tax counsel regarding potential reporting obligations.  
@@ -537,6 +536,8 @@ By initialing below, each Party acknowledges they understand and agree to the fo
 - **No Tax Characterization Promise** (Sections 1.8 and Article IX):  
   Party A ____ / Party B ____  
 
+- **Review Period / Anti-Rush** (Section 10.5A):  
+  Party A ____ / Party B ____
 
 # EXECUTION
 
@@ -565,7 +566,7 @@ Date: ______________________
 
 ---
 
-## OPTIONAL — INDEPENDENT LEGAL ADVICE ACKNOWLEDGMENT (IF A PARTY DECLINES COUNSEL)
+## OPTIONAL — COUNCIL DECLINATION ACKNOWLEDGMENT (SUPPLEMENTAL)
 
 Each Party acknowledges: (i) they were advised to obtain independent legal counsel; (ii) they had adequate time to do so; and (iii) they either did so or knowingly chose not to.
 
