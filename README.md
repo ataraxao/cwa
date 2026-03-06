@@ -35,8 +35,8 @@ Start here (recommended reading order):
 ├── introduction.md                 # The explanatory whitepaper (“Gravity Model”) motivating the mechanism.
 ├── cooperative_wealth_agreement.md # The core legal contract template (the instrument).
 ├── docs/                           # Reviewer pack / supporting documents for evaluation and implementation.
-└── LICENSE.md                      # CC0 1.0 Universal Public Domain Dedication.
-
+└── LICENSE.md
+```
 
 ## What this repository contains
 
