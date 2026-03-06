@@ -1,33 +1,42 @@
-# Cooperative Wealth Agreement (CWA) — Public Template (CC0 1.0)
+# Cooperative Wealth Agreement (CWA) — Public Template
 
-**Status:** Public domain template (CC0 1.0).  
-# SYSTEM NOTICE: READ BEFORE DEPLOYMENT
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![License](https://img.shields.io/badge/license-CC0_1.0-green)
+![Status](https://img.shields.io/badge/status-Active_Deployment-orange)
 
-### 1. NOT LEGAL, TAX, OR FINANCIAL ADVICE
-This repository and its contents (**The CWA Protocol v1.0**) are conceptual templates provided for educational and informational purposes only. The Author is a systems designer, not a provider of legal, tax, or fiduciary services. No attorney-client or fiduciary relationship is created by your use of these documents.
-
-### 2. JURISDICTIONAL VARIATION
-Standard legal frameworks regarding property rights, LLC characterization, domestic partnerships, and the equitable distribution of assets vary significantly by jurisdiction. This protocol has not been audited for compliance with the specific laws of any state or country. Users are responsible for ensuring local legal compliance.
-
-### 3. FINANCIAL HYGIENE AND EXECUTION RISK
-The effectiveness of the CWA depends entirely on the user's ability to maintain strict financial separation. 
-
-> **WARNING:** Routine commingling (treating the Vehicle Account/LLC like a spending account, paying lifestyle expenses, or blurring account ownership and recipient controls) can materially increase legal and tax risk, and may undermine the dispute-surface minimization intended by this structure.
-
-### 4. INDEPENDENT COUNSEL (STRONGLY ENCOURAGED)
-These documents should not be executed without professional oversight. Each party is **strongly encouraged** to consult with independent legal and tax counsel to review and adapt these templates to their specific financial situation and jurisdiction. It is ideal to work with professionals familiar with LLC account control structures, arbitration provisions, and relevant gift tax reporting.
-
-### 5. PUBLIC DOMAIN (CC0 1.0) / "AS-IS"
-This work is published under the **CC0 1.0 Universal (Public Domain Dedication)**. It is provided **"AS-IS"** without warranty of any kind. By using this repository, you acknowledge that you are managing your assets through private contract and assume all associated risks.
+**The CWA is a private, deterministic legal and financial protocol designed to privatize domestic equity.** It functions as a wealth-only, event-driven governance wrapper for a ring-fenced capital pool, replacing subjective family law APIs with strict corporate contract law, algorithmic vesting, and a deterministic unwind.
 
 ---
-*Document Version 1.0 - Focused on private contract and domestic equity.*
 
-## Start here (recommended reading order)
+## ⚠️ SYSTEM NOTICE: READ BEFORE DEPLOYMENT
 
-1) `introduction.md` — the explanatory whitepaper (“Gravity Model”) motivating the mechanism.  
-2) `cooperative_wealth_agreement.md` — the contract template (the instrument).  
-3) `docs/` — reviewer pack / supporting documents for evaluation and implementation.
+> **1. NOT LEGAL, TAX, OR FINANCIAL ADVICE**
+> This repository and its contents (The CWA Protocol v1.0) are conceptual templates provided for educational and informational purposes only. The Author is a systems designer, not a provider of legal, tax, or fiduciary services. No attorney-client or fiduciary relationship is created by your use of these documents.
+
+> **2. JURISDICTIONAL VARIATION**
+> Standard legal frameworks regarding property rights, LLC characterization, domestic partnerships, and the equitable distribution of assets vary significantly by jurisdiction. This protocol has not been audited for compliance with the specific laws of any state or country. Users are responsible for ensuring local legal compliance.
+
+> **3. FINANCIAL HYGIENE AND EXECUTION RISK**
+> The effectiveness of the CWA depends entirely on the user's ability to maintain strict financial separation. **WARNING:** Routine commingling (treating the Vehicle Account/LLC like a spending account, paying lifestyle expenses, or blurring account ownership and recipient controls) can materially increase legal and tax risk, and may undermine the dispute-surface minimization intended by this structure.
+
+> **4. INDEPENDENT COUNSEL (STRONGLY ENCOURAGED)**
+> These documents should not be executed without professional oversight. Each party is strongly encouraged to consult with independent legal and tax counsel to review and adapt these templates to their specific financial situation and jurisdiction. It is ideal to work with professionals familiar with LLC account control structures, arbitration provisions, and relevant gift tax reporting.
+
+> **5. PUBLIC DOMAIN (CC0 1.0) / "AS-IS"**
+> This work is published under the CC0 1.0 Universal (Public Domain Dedication). It is provided "AS-IS" without warranty of any kind. By using this repository, you acknowledge that you are managing your assets through private contract and assume all associated risks.
+
+---
+
+## 📂 Repository Structure
+
+Start here (recommended reading order):
+
+```text
+├── introduction.md                 # The explanatory whitepaper (“Gravity Model”) motivating the mechanism.
+├── cooperative_wealth_agreement.md # The core legal contract template (the instrument).
+├── docs/                           # Reviewer pack / supporting documents for evaluation and implementation.
+└── LICENSE.md                      # CC0 1.0 Universal Public Domain Dedication.
+
 
 ## What this repository contains
 
