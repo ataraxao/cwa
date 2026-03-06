@@ -220,6 +220,6 @@ The CWA is an open-source mechanism, but the network of builders executing it is
 
 For macroeconomic analysis of the relationship marketplace, structural defenses of the CWA, and notifications regarding v1.1 protocol updates, subscribe to the primary publication:
 
-**[ataraxao on Substack](https://ataraxao.substack.com/)**
+**[ataraxao on Substack](https://ataraxao.substack.com)**
 
 ---
