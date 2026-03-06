@@ -370,7 +370,7 @@ A monthly allowance can be generous, but it is a weak price signal for the same 
 
 These are mirror-image failure modes: excess leverage at either extreme prevents a clean price signal from forming. One side’s payoff is too contingent on a third party (court) or on the other party’s ongoing discretion.
 
-This is a classic hold-up dynamic: when one side can rewrite the payoff after the investment is made, the rational response is under-investment.[^4]
+This is a **classic hold-up dynamic**: when one side can rewrite the payoff after the investment is made, the rational response is under-investment.[^4]
 
 #### What the CWA is trying to do instead: balance leverage via mechanism
 
