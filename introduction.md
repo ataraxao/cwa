@@ -382,7 +382,7 @@ The CWA attempts to land in a middle category where the wealth layer is:
 
 It does this by converting “relationship finance” from a payment pattern into an implemented process:
 
-- **Committed capital is governed, not promised.** Once funds are inside a properly implemented Vehicle Account, they are subject to recipient restrictions, ledgering, and event procedures—reducing either party’s ability to claw back or redirect committed capital.[^5]
+- **Commitment is locked to capital already in the pool**. Once money is inside a properly implemented Vehicle Account, it is governed by recipient restrictions, ledgering, and event procedures—reducing either party’s ability to claw back or redirect committed capital, which is what makes the commitment credible in practice.[^5]
 
 - **The control split is structural, not rhetorical.** Operative-date gating + an Independent Administrator makes the constraint real: the funder may have trading authority, but not transfers-out; the administrator controls distributions on defined events; the recipient has statement/view access to verify reality.[^4]
 
