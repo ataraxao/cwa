@@ -217,6 +217,16 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 So in that same interval, the cooperative path’s passive wealth increase for the Recipient Party (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$42,000/year**), flipping the incentive gradient toward **cooperation** rather than adversarial dissolution.
 
+### Addressing the “Why Not Both?” objection (payout + child support)
+
+A fair objection is: *“If the Recipient Party terminates, they can take their vested payout, invest it privately, and still receive child support—so leaving dominates.”* In practice, two factors blunt that conclusion:
+
+1) **Duplicated expenses eat the spread.** Separation typically creates a new expense stack—duplicate housing, childcare logistics, moving/setup costs, and general operational friction. Those costs reduce the effective net yield of “payout + support,” especially in the first 12–24 months.
+
+2) **Loss of the leverage compounding of the pooled engine.** The CWA’s core advantage is not simply “having capital”; it is **exposure to compounding on a larger pooled base** (the Funding Party’s ongoing contributions + the existing account mass). Termination converts a high-leverage position (ongoing access to growth on the larger pool, capped allocation continuing to ride the engine) into a lower-leverage position (the Recipient Party compounding only on their severed principal). Even if the Recipient Party invests efficiently post-exit, the long-run slope can be lower because the base they’re compounding on is smaller and no longer being thickened by the Funding Party’s stream.
+
+Put differently: “leave + invest + support” can look superior in a one-year snapshot, but it can lose in the multi-year regime once the cooperative pool reaches sufficient mass and the leverage compounding dominates.
+
 ### The Nash Equilibrium of Cooperation
 
 The CWA does not attempt to contract away child-support law. It mathematically outcompetes the extraction incentives by making **cooperative compounding** the dominant expected-value path. If state child support yields roughly **$40,000/year**, but the passive compounding of the Recipient Party’s capped 50% CWA share yields roughly **$50,000/year** (and increases every passing year), the **Nash equilibrium shifts**. It becomes less economically rational for the Recipient Party to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
