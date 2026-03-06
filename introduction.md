@@ -6,6 +6,8 @@
 
 The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of **rational economic agents reacting to misaligned incentives**. By modeling macroeconomic price signals as **gravitational pull**, we can map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, predicts the **underperformance of common policy interventions**, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the **privatization and clarification of domestic equity**.
 
+>Note: The open-source CWA contract templates discussed in this paper are available at **[GitHub](https://github.com/ataraxao/cwa)**.
+
 ---
 
 ## Part I: The Physics of Price Signals
