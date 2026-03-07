@@ -479,7 +479,7 @@ The second half of the solution is the Clearinghouse—the metaphorical “Dock.
 
 ---
 
-## Part VII: Macro-Sociological Impact and Structural Defenses
+## Part VII: Macro-Sociological Impact and Structural Defenses *(Speculative)*
 
 If the Gravity Model is adopted and the Cooperative Wealth Agreement becomes a standard market alternative, the reduction in acute psychological and financial trauma across society would be staggering. By fixing the base economic incentives, the CWA cures downstream sociological rot while defending itself against macro-level critiques.
 
