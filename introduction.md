@@ -52,7 +52,7 @@ Using the Gravity Model, several recurring behaviors in the modern relationship 
 
 ### Cross-Border Dating (The “Passport Bro” Phenomenon)
 
-In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively **weak**. Consequently, the **Domestic** and **Attention Economy** spheres stand relatively **strong**. This cleanly models why women in these regions maintain traditionally family-minded reputations, while some of those same destinations also support robust **sex-tourism markets**.
+In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively **weak**. Consequently, the **Domestic** and **Attention Economy** spheres stand relatively **strong**. This models why women in these regions maintain traditionally family-minded reputations, while some of those same destinations also support robust **attention and sex-tourism markets**.
 
 ### Religious/Traditional Societies
 
@@ -84,7 +84,7 @@ Proponents argue that making sex cheap and legally accessible will return levera
 
 Activists argue that subsidizing rent, food, or childcare will encourage family formation by addressing the “affordability crisis”. The Gravity Model implies this is **unlikely**. Even if women have more discretionary income, they will not opt for the domestic path in any appreciable way so long as the relative clarity of the Career and Attention Economy price signals **dominates** the opaque domestic signal.
 
-In advanced Western economies with enshrined personal rights and free markets, walking back individual liberties to weaken the Career/Attention Economy spheres is a **non-starter**. Therefore, the only viable solution is to **drastically increase the price signal clarity** of the Domestic Sphere.
+In advanced Western economies with enshrined personal rights and free markets, walking back individual liberties to weaken the Career/Attention Economy spheres is a **non-starter**. Therefore, one viable non-coercive lever is to **drastically increase the price signal clarity** of the Domestic Sphere.
 
 Up to this point, the Gravity Model is a **descriptive lens**: it explains and predicts behavior under incentives. What follows is an **instrument design proposal**: if the goal is to strengthen domestic formation without restricting liberties, then the lever is to raise the Domestic sphere’s signal quality by improving **liquidity**, **enforceability**, and **clarity**.
 
@@ -526,7 +526,7 @@ If the only way someone can secure a high-quality, dedicated Recipient Party is 
 
 ### 7) The Recalibration of Digital Signaling *(A Counter-Weight to Attention Farming)*
 
-Currently, social media use is heavily skewed toward self-sexualization and “attention farming.” As established in the Gravity Model, this is a highly rational response to the clear price signals of the Attention Economy sphere. However, if the CWA establishes a new, verifiable apex reward, the required market signaling fundamentally changes. To attract a verified Funding Party, the aspirational pipeline of people will naturally pivot their public-facing digital footprints. The focus will shift away from attention-farming content—which often reads as higher-risk and lower-interoperability to a prospective partner—and toward the demonstration of high-level utility, emotional regulation, and operational competency. Social media will transition from a marketplace of superficial mimetic validation into a verifiable resume of domestic and managerial excellence.
+If the CWA establishes a credible, verifiable apex reward, the signaling incentives for those competing in that lane may partially shift. In that targeted subgroup, some public-facing behavior may move away from pure attention capture and toward the demonstration of competence, stability, and long-horizon interoperability. This would not end the broader attention economy; it would create a competing signaling channel for a specific segment of the market.
 
 ---
 
