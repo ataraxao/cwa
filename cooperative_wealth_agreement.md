@@ -130,33 +130,41 @@ For purposes of this Agreement:
 
 (t) **“A Designated Account”** means a brokerage account or other custodial account in Party A’s own name (or Party A’s revocable trust, if permitted by the custodian and designated in writing) that Party A designates in writing for receipt of cash and/or in-kind distributions under this Agreement.
 
-### 2.4 Notices; Deemed Delivery; Address Updates; Fallback Channel (Anti-Evasion)
-(a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for the Fallback Channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
+### 2.4 Notices; Delivery; Contact Updates; Substantial Compliance
 
-**Updates Effective Only Upon Notice.** Any update to Notice Email/Notice Address/Fallback Contact must be delivered as a notice under this Section 2.4 to the other Party and to the Independent Administrator, and becomes effective only upon deemed delivery under subsection (c).
+(a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for a supplemental fallback channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
 
-(b) **Permitted Methods.** Any notice required or permitted under this Agreement must be in writing and sent to the recipient (and, where applicable, to the Independent Administrator) by:  
-(i) email to the recipient’s Notice Email; and  
-(ii) nationally recognized overnight courier (signature requested) or certified mail to the recipient’s Notice Address.
+(b) **General Notices.** Except as otherwise provided in subsection (c), any notice required or permitted under this Agreement may be given by email to the recipient’s Notice Email. The sender may also copy the recipient’s Notice Address and/or Fallback Contact, but such additional copy is not required unless expressly stated in this Agreement.
 
-(c) **Deemed Effective Time (General Notices).** Except as modified for Termination Notice in subsection (g), a notice is deemed effective at the earliest of:  
-(i) the time the email is sent (as shown by the sender’s email records) provided it is not rejected by an immediate “hard bounce”; or  
-(ii) the second (2nd) business day after deposit with a nationally recognized overnight courier (as shown by tracking), or the fifth (5th) business day after mailing by certified mail (as shown by mailing receipt),  
-in each case, so long as the notice was sent to the recipient’s last designated Notice Email and Notice Address.
+A general notice is effective at the earliest of:
+(i) actual receipt;
+(ii) written acknowledgment by the recipient; or
+(iii) 5:00 p.m. local time on the second (2nd) business day after transmission by email to the recipient’s last-designated Notice Email, provided the sender did not receive an immediate hard bounce or other notice of failed delivery.
 
-(d) **Fallback Channel (Supplemental).** If the sender receives an email hard bounce or the courier/certified mail is returned as undeliverable, and the recipient has provided a Fallback Contact, the sender shall also send a copy of the notice via the Fallback Channel, which may be SMS and/or a widely used encrypted messaging application designated in writing by the recipient. Use of the Fallback Channel is supplemental and does not delay effectiveness under this Section 2.4.
+(c) **Major Notices (Termination Notice and Liquidity Election).** A Termination Notice and any Liquidity Election must be sent:
+(i) by email to the recipient’s Notice Email and to the Independent Administrator’s Notice Email; and
+(ii) by one additional method, consisting of either: (A) nationally recognized overnight courier, (B) certified mail, or (C) if a Fallback Contact has been designated, the Fallback Contact.
 
-(e) **Unreachability; No Evasion.** The fact that a notice is not actually received, is returned as undeliverable, or is otherwise not acknowledged shall not prevent the notice from becoming effective if sent in compliance with this Section 2.4.
+A Major Notice is effective at the earliest of:
+(i) actual receipt;
+(ii) written acknowledgment by the recipient; or
+(iii) 5:00 p.m. local time on the second (2nd) business day after compliant email transmission under subsection (c)(i), provided that the additional copy required by subsection (c)(ii) was sent on the same day or the next business day and the sender did not receive an immediate hard bounce or other notice of failed email delivery.
 
-(f) **Copies to Independent Administrator.** Any Termination Notice and any Liquidity Election must also be sent to the Independent Administrator using the same methods (email plus courier/certified mail), and may also be copied via the Fallback Channel if applicable. The Independent Administrator may rely on the deemed effective time under this Section 2.4.
+(d) **Updates to Contact Information.** Any update to a Notice Email, Notice Address, or Fallback Contact must itself be given under this Section 2.4 to the other Party and to the Independent Administrator. An update becomes effective when that update notice becomes effective under this Section.
 
-(g) **Termination Notice Effective Time (Tightened).** Notwithstanding subsection (c), a Termination Notice is effective only at the **later** of:  
-(i) the time the Termination Notice email is sent without an immediate hard bounce; and  
-(ii) the second (2nd) business day after deposit with a nationally recognized overnight courier (signature requested), or the fifth (5th) business day after mailing by certified mail,  
-in each case sent to the recipient’s last designated Notice Email and Notice Address and copied to the Independent Administrator.
+(e) **No Evasion by Non-Response or Stale Contact Information.** A Party’s failure to acknowledge notice, refusal to accept delivery, failure to monitor a designated contact channel, or failure to update contact information shall not invalidate a notice otherwise sent in substantial compliance with this Section to the most recently designated contact information.
+
+(f) **Fallback Contact Is Supplemental.** Use of a Fallback Contact is intended to improve practical notice and reduce evasion risk. A message sent to a Fallback Contact is supplemental unless subsection (c) makes it one of the permitted additional methods for a Major Notice.
+
+(g) **Substantial Compliance; Harmless Error.** No notice shall be invalidated solely because of an immaterial error in method, timing, formatting, copied recipients, or contact details, so long as the notice was sent in a manner reasonably calculated to inform the recipient and the recipient did not suffer material prejudice from the error.
+
+(h) **Copies to Independent Administrator.** Any Termination Notice, Liquidity Election, dispute notice affecting distribution amounts, or other notice that requests or may require action by the Independent Administrator shall be copied to the Independent Administrator. The Independent Administrator may rely on notices that are facially valid and sent in substantial compliance with this Section, unless the Independent Administrator has actual knowledge of a material defect.
 
 ### 2.5 Alternative Service for Disputes (Where Permitted)
-If a dispute arises under this Agreement and a Party cannot, after reasonable efforts, be reached at the Notice Email/Notice Address/Fallback Contact on file, the arbitrator (or a court with jurisdiction) may authorize alternative means of service and notice consistent with applicable law and due process, including service by email-only, messaging-only, service on counsel, service by publication, or any other method reasonably calculated to provide notice under the circumstances. Any such order shall be sufficient authority for the Independent Administrator to act in reliance on notices, interim orders, or final awards delivered using such authorized method.
+
+If a dispute arises under this Agreement and a Party cannot, after reasonable efforts, be reached using the contact information designated under Section 2.4, the arbitrator (or a court with jurisdiction) may authorize alternative service and notice consistent with applicable law and due process, including service by email-only, messaging-only, service on counsel, service by publication, or any other method reasonably calculated to provide notice under the circumstances.
+
+The Independent Administrator may rely on any facially valid arbitration order, award, or court order authorizing or confirming such alternative service.
 
 ---
 
@@ -624,8 +632,9 @@ Designated Account Documentation. Prior to processing any distribution, the Inde
 
 (e) **Designated Account Change Procedure (Joint Instruction + Documentation).** Any change to the A Designated Account or B Designated Account requires joint written instruction signed by both Parties delivered under Section 2.4 of the Agreement and copied to the Independent Administrator. Any such change becomes effective only after the Independent Administrator has received documentation reasonably sufficient under custodian policy to confirm the new account is titled to the applicable Party (or permitted trust).
 
-## 3. Notices; Deemed Effectiveness; Alternative Service
-The Independent Administrator may rely on the deemed effective time set forth in Section 2.4 of the Agreement and is not required to confirm actual receipt by the other Party. If the Independent Administrator receives an arbitration award or court order authorizing alternative service under Section 2.5, the Independent Administrator may rely on notices, orders, or awards delivered using such authorized method.
+## 3. Notices; Delivery; Substantial Compliance
+
+The Independent Administrator may rely on the delivery and effectiveness standards in Section 2.4 of the Agreement, including substantial compliance under Section 2.4(g), and is not required to confirm actual receipt unless the Independent Administrator has actual knowledge of a material delivery defect. If the Independent Administrator receives an arbitration order, award, or court order authorizing or confirming alternative service under Section 2.5, the Independent Administrator may rely on notices, orders, or awards delivered using such authorized method.
 
 ## 4. Ledger Duty (Event-Only)
 The Independent Administrator shall maintain the **B Distribution Ledger** by recording only **B Distributions** actually executed under Administrator Events, valued at the applicable Valuation Time. The Independent Administrator has no duty to perform ongoing valuations, monthly accounting, or performance reporting.
