@@ -156,6 +156,10 @@ For purposes of this Agreement:
 
 (y) **“Trading Day”** means a day on which the primary market or pricing source relevant to the applicable asset is open for regular trading or publishes a regular closing price or NAV, as applicable.
 
+(z) **“Completed Distribution”** means a distribution, transfer-out, or release that the custodian has actually effected on its official records so that the relevant cash or securities are no longer reflected in the Vehicle Account as available assets for the applicable event processing. A distribution is not a Completed Distribution merely because an instruction has been submitted, acknowledged, queued, or partially processed.
+
+(aa) **“Partial Distribution”** means a situation in which only part of a requested distribution, transfer-out, or release has become a Completed Distribution, while the remainder is still pending, queued, suspended, or otherwise not yet completed on the custodian’s official records.
+
 ### 2.3A Computation of Time
 (a) **General Rule.** In computing any period stated in days, the day of the act, event, notice, or delivery that begins the period is not counted. The last day of the period is counted unless it is not a Business Day, in which event the period continues until the next Business Day.
 
@@ -195,6 +199,8 @@ A Major Notice is effective at the earliest of:
 (g) **Substantial Compliance; Harmless Error.** No notice shall be invalidated solely because of an immaterial error in method, timing, formatting, copied recipients, or contact details, so long as the notice was sent in a manner reasonably calculated to inform the recipient and the recipient did not suffer material prejudice from the error.
 
 (h) **Copies to Independent Administrator.** Any Termination Notice, Liquidity Election, dispute notice affecting distribution amounts, or other notice that requests or may require action by the Independent Administrator shall be copied to the Independent Administrator. The Independent Administrator may rely on notices that are facially valid and sent in substantial compliance with this Section, unless the Independent Administrator has actual knowledge of a material defect.
+
+(i) **Administrative Time Reference for Event Sequencing.** For purposes of sequencing potentially conflicting Administrator Events, the Independent Administrator may rely on the effective-time rules in this Section together with the timestamps shown on the sender’s notice records, the Independent Administrator’s receipt records, and the custodian’s operational records, in each case as reasonably available.
 
 ### 2.5 Alternative Service for Disputes (Where Permitted)
 If a dispute arises under this Agreement and a Party cannot, after reasonable efforts, be reached using the contact information designated under Section 2.4, the arbitrator (or a court with jurisdiction) may authorize alternative service and notice consistent with applicable law and due process, including service by email-only, messaging-only, service on counsel, service by publication, or any other method reasonably calculated to provide notice under the circumstances.
@@ -293,6 +299,27 @@ During the Term, neither Party may unilaterally withdraw or transfer assets out 
 ### 3.6 Administrator Not Investment Advisor
 The Independent Administrator is an administrative control and processing party only, and is not providing investment advice, tax advice, legal advice, portfolio management, or suitability determinations.
 
+### 3.6A Event Priority; No Concurrent Double-Processing
+Unless a final arbitration award, court order, applicable law, or Custodian Constraints expressly require otherwise, the Independent Administrator shall administer overlapping or potentially conflicting Administrator Events according to the following principles:
+
+(a) **Legal Restraints First.** Any court order, legal restraint, mandatory withholding requirement, or final arbitration award controls over ordinary event processing.
+
+(b) **Termination Priority.** A Termination Date controls over any uncompleted in-term Liquidity distribution or Joint Pro Rata Release, as provided in Sections 7.2B and 5.1B.
+
+(c) **Dispute Holdback Priority.** If Section 8.1 applies, the Independent Administrator shall distribute only undisputed amounts and hold back only the disputed incremental amount, even if another Administrator Event would otherwise be processable.
+
+(d) **No Double-Processing of the Same Value.** The Independent Administrator shall not process overlapping Administrator Events in a manner that distributes, reserves, or counts the same unreleased value more than once.
+
+(e) **Completed Actions Preserved; Incomplete Actions Suspendable.** Amounts already actually distributed remain effective unless a court of competent jurisdiction or final arbitration award orders otherwise. Incomplete processing steps may be suspended, reordered, or folded into the controlling event.
+
+(f) **Tie-Breaker for Same-Time or Same-Day Conflicts.** If two or more potentially conflicting events appear to become effective on the same day or at substantially the same time, the Independent Administrator shall apply the following tie-breaker order unless a final arbitration award, court order, applicable law, or Custodian Constraints require otherwise:  
+1. legal restraints, court orders, mandatory withholding, and final arbitration awards;  
+2. a Termination Date or Deemed Termination Event;  
+3. dispute holdback under Section 8.1;  
+4. other Administrator Events.
+
+(g) **If Timing Still Cannot Be Reliably Determined.** If, after reasonable administrative review of the Agreement-required notice records and custodian-operational records, the Independent Administrator cannot reliably determine sequencing within the applicable tier, the Independent Administrator may apply the most conservative administratively reasonable approach, including temporary holdback or suspension of the affected incomplete processing, pending clarification by joint instruction, final arbitration award, or court order.
+
 ### 3.7 Admin Reserve; Pre-Funding of Administrator Costs (Fillability)
 (a) **Reserve.** The Parties intend to maintain an Admin Reserve cash balance in the Vehicle Account of at least **$[____]** (recommended: **$[2,000–10,000]**) to cover the Independent Administrator’s fees and reasonable out-of-pocket costs.  
 (b) **Authorization.** The Parties authorize the Independent Administrator to deduct unpaid, earned fees and expenses attributable to Administrator Events from the Vehicle Account prior to distribution, consistent with custodian policy and Exhibit 1.  
@@ -343,7 +370,8 @@ Allocation and entitlements are calculated using the Vehicle Account’s value a
 
 ### 4.5 B Distribution Ledger; Anti-Double-Counting; Event-Only Administration
 (a) **Event-Only Ledger Duty.** The Independent Administrator’s ledger duty is limited to recording B Distributions actually executed under Administrator Events and does not require monthly reconciliations, performance tracking, or valuations outside the Valuation Times used for distributions.  
-(b) **Anti-Double-Counting.** Any B Distribution executed under this Agreement shall be recorded in the B Distribution Ledger at the applicable Valuation Time. The B Distribution Ledger is used to ensure Party B does not receive more than Party B’s formulaic entitlement at Liquidity Events and at final termination.
+(b) **Anti-Double-Counting.** Any B Distribution executed under this Agreement shall be recorded in the B Distribution Ledger at the applicable Valuation Time. The B Distribution Ledger is used to ensure Party B does not receive more than Party B’s formulaic entitlement at Liquidity Events and at final termination.  
+(c) **Partial Distribution Ledgering.** If only part of a B Distribution becomes a Completed Distribution, the Independent Administrator shall record only the completed portion on the B Distribution Ledger. Any pending remainder shall not be recorded until it becomes a Completed Distribution.
 
 ### 4.6 No Clawback; No Negative Entitlement
 Under no circumstances shall Party B owe money back to Party A, the Vehicle LLC, or the Vehicle Account due to subsequent market declines, valuation changes, or the timing of Liquidity distributions. All entitlement calculations use the `max(0, …)` structure stated in this Agreement.
@@ -382,6 +410,19 @@ All allocations and entitlements in this Agreement are payable solely from asset
 (c) **Delay Costs.** To the extent the delay is caused by a Party’s failure to maintain or timely provide a Valid Designated Account, any incremental administrative costs reasonably attributable to that delay may be charged against that Party’s pending portion, to the extent permitted by Custodian Constraints.
 
 (d) **Processing After Cure.** Once the affected Party provides a Valid Designated Account, the Independent Administrator shall process the pending portion as soon as reasonably practicable, subject to Custodian Constraints.
+
+### 5.1B Priority of Termination Over Uncompleted Joint Pro Rata Release
+(a) **Termination Controls Going Forward.** If a Termination Date occurs before a requested Joint Pro Rata Release has been fully completed, the Termination unwind under Section 7.2 controls going forward.
+
+(b) **Completed Release Portion Preserved.** Any portion of a Joint Pro Rata Release that is a Completed Distribution before the Termination Date remains effective. Any completed Party B portion remains reflected on the B Distribution Ledger, and any completed Party A portion remains treated as distributed.
+
+(c) **Uncompleted Release Portion Folded Into Unwind.** Any authorized Joint Pro Rata Release amount not yet fully distributed as of the Termination Date shall not require a separate pre-unwind payout. Instead, the Parties’ rights with respect to the unreleased portion shall be determined solely under the Termination formula in Section 7.2, taking into account only distributions actually completed before the Termination Date.
+
+(d) **No Double Recovery / No Double Reduction.** Neither Party shall receive both a separate uncompleted Joint Pro Rata Release payout and a full Termination payout based on the same unreleased value, and no unreleased amount shall be treated as already distributed unless actually completed.
+
+(e) **Administrative Authority.** Upon a Termination Date, the Independent Administrator may suspend any in-process but incomplete Joint Pro Rata Release steps and proceed under Section 7.2, subject to preserving any distributions already completed and any B Distribution Ledger entries already properly made.
+
+(f) **Partial Release Handling.** If a Joint Pro Rata Release is a Partial Distribution as of the Termination Date, the completed portion remains effective, and only the uncompleted remainder is folded into the Termination unwind.
 
 ---
 
@@ -437,6 +478,8 @@ the remaining balance after payment of Party B’s Share and permitted deduction
 
 **Form of Distribution:** Distributions shall be made in cash unless (i) both Parties (or their legal representatives, if applicable) jointly instruct otherwise in writing, (ii) in-kind is required by Custodian Constraints, or (iii) in-kind is practicable and requested for Party B’s Share to Party B’s B Designated Account.
 
+For avoidance of doubt, Section 7.2 also controls over any uncompleted Joint Pro Rata Release as provided in Section 5.1B.
+
 ### 7.2A Pending Termination Distribution for Invalid Recipient Details
 (a) **Pending Status, Not Forfeiture.** If, at the time of a Termination unwind, the applicable recipient account, estate documentation, trust documentation, or other recipient details for either Party are not yet reasonably sufficient to complete distribution under custodian policy or applicable law, the Independent Administrator may hold that Party’s portion pending receipt of valid recipient details rather than forfeiting, reallocating, or recharacterizing that portion.
 
@@ -445,6 +488,19 @@ the remaining balance after payment of Party B’s Share and permitted deduction
 (c) **Delay Costs.** To the extent the delay is caused by a Party’s failure, or that Party’s estate or representative’s failure, to timely provide reasonably sufficient recipient information or documentation, any incremental administrative costs reasonably attributable to that delay may be charged against that Party’s pending portion, to the extent permitted by Custodian Constraints and applicable law.
 
 (d) **Processing After Cure.** Once reasonably sufficient recipient details and documentation are provided, the Independent Administrator shall process the pending Termination distribution as soon as reasonably practicable, subject to Custodian Constraints and applicable law.
+
+### 7.2B Priority of Termination Over Uncompleted Liquidity Processing
+(a) **Termination Controls Going Forward.** If a Termination Date occurs before a requested Liquidity distribution has been fully completed, the Termination unwind under Section 7.2 controls going forward.
+
+(b) **Completed Liquidity Distribution Preserved.** Any Liquidity distribution that is a Completed Distribution before the Termination Date remains effective and remains reflected on the B Distribution Ledger.
+
+(c) **Uncompleted Liquidity Election Folded Into Unwind.** Any timely Liquidity Election that has not yet been fully processed as of the Termination Date shall not require a separate pre-unwind payout. Instead, the Parties’ rights shall be determined solely under the Termination formula in Section 7.2, taking into account any B Distribution Ledger entries for distributions actually completed before the Termination Date.
+
+(d) **No Double Recovery.** Party B shall not receive both a separate uncompleted Liquidity payout and a full Termination payout based on the same unreleased value.
+
+(e) **Administrative Authority.** Upon a Termination Date, the Independent Administrator may suspend any in-process but incomplete Liquidity distribution steps and proceed under Section 7.2, subject to preserving any distributions already completed and any ledger entries already properly made.
+
+(f) **Partial Liquidity Handling.** If a requested Liquidity distribution is a Partial Distribution as of the Termination Date, the completed portion remains effective and remains reflected on the B Distribution Ledger, and only the uncompleted remainder is folded into the Termination unwind.
 
 ### 7.3 Scheduled Liquidity Event (Every Three Years)
 
@@ -481,6 +537,8 @@ Upon a timely Liquidity Election, the Independent Administrator shall distribute
 
 If a timely Liquidity Election has been made but Party B has not yet provided a Valid Designated Account, the Independent Administrator shall hold the Liquidity Settlement Amount pending cure under Section 7.3.2A and Section 7.3.6A rather than reallocating it to Party A or treating it as waived, except as provided in Section 7.3.2A(e).
 
+This Section is subject to Section 7.2B if a Termination Date occurs before the Liquidity distribution is fully completed.
+
 #### 7.3.6 Form of Liquidity Distribution (Own-the-Asset Default; Custodian Constraints Control)
 (a) **Default In-Kind (If Practicable).** Unless impracticable due to Custodian Constraints, the Liquidity Settlement Amount shall be distributed in kind (securities) to the B Designated Account.  
 (b) **Cash Fallback.** If in-kind distribution is not practicable, the Independent Administrator may liquidate the minimum amount necessary and distribute cash to the B Designated Account.  
@@ -496,7 +554,7 @@ If a timely Liquidity Election has been made but Party B has not yet provided a 
 (d) **Processing After Cure.** Once Party B provides a Valid Designated Account, the Independent Administrator shall process the pending Liquidity distribution as soon as reasonably practicable, subject to Custodian Constraints.
 
 #### 7.3.7 Ledger Update; No Double Counting
-The Independent Administrator shall increase the B Distribution Ledger by the Liquidity Settlement Amount (valued at Liquidity Valuation Time) immediately upon completing the Liquidity distribution.
+The Independent Administrator shall increase the B Distribution Ledger by the amount of any Liquidity distribution that has become a Completed Distribution, valued at Liquidity Valuation Time. If the Liquidity distribution is a Partial Distribution, only the completed portion shall be entered until additional portions are completed.
 
 #### 7.3.8 No Reset of Allocation
 A Liquidity distribution does not reset or slow allocation accrual. Party B’s Allocation Percentage continues to accrue per Article IV (subject to the cap), and future Liquidity/Termination payouts are computed net of the B Distribution Ledger.
@@ -510,6 +568,8 @@ Party B is not required to elect a Liquidity distribution. If Party B does not e
 
 ### 8.1 Holdback for Disputes Affecting Distribution
 If either Party disputes any issue that would change the distribution amounts (including alleged misappropriation, guardrail breach remedies under Section 3.4(e), or ledger disputes), the Independent Administrator shall distribute undisputed amounts promptly and hold back only the disputed incremental amount pending resolution.
+
+This Section is subject to Section 3.6A, including the rule against concurrent double-processing of the same unreleased value.
 
 ### 8.2 Binding Arbitration (AAA; Expedited)
 Any dispute arising out of or relating to this Agreement, the Vehicle Account, the B Distribution Ledger, the Vehicle LLC implementation covenants (including Sections 3.1A–3.1B), or Section 3.4(e) remedies shall be resolved by expedited, binding private arbitration administered by the American Arbitration Association (AAA) under the AAA Commercial Arbitration Rules (including expedited procedures where applicable) in **[County, State]**.
@@ -535,6 +595,8 @@ To the maximum extent permitted by law and AAA rules, the Parties agree to treat
 
 ### 8.6 Administrator Transition Relief (Successor Appointment; Cooperation Orders)
 In any dispute concerning the resignation, removal, replacement, or unavailability of the Independent Administrator, the arbitrator may grant any interim or final relief reasonably necessary to preserve or implement this Agreement’s mechanics, including: (a) ordering the Parties to appoint a successor Independent Administrator by a date certain; (b) approving a proposed successor; (c) ordering cooperation reasonably necessary to transition account control and records (including the B Distribution Ledger) to a successor; (d) authorizing interim protective restrictions consistent with this Agreement pending transition; and (e) issuing orders in a form that may be delivered to the custodian and relied upon by the Independent Administrator and/or successor to the extent permitted by Custodian Constraints and applicable law.
+
+The arbitrator may also direct how any in-process Administrator Event is to be continued, suspended, completed, or folded into another controlling event during or after the transition.
 
 ---
 
@@ -743,10 +805,14 @@ If a distribution is otherwise due but the applicable Designated Account is not 
 ## 3. Notices; Delivery; Substantial Compliance
 The Independent Administrator may rely on the delivery and effectiveness standards in Section 2.4 of the Agreement, including substantial compliance under Section 2.4(g), and is not required to confirm actual receipt unless the Independent Administrator has actual knowledge of a material delivery defect. If the Independent Administrator receives an arbitration order, award, or court order authorizing or confirming alternative service under Section 2.5, the Independent Administrator may rely on notices, orders, or awards delivered using such authorized method.
 
+For sequencing potentially conflicting Administrator Events, the Independent Administrator may also rely on Section 3.6A of the Agreement and on reasonably available notice timestamps, receipt timestamps, and custodian-operational records.
+
 ## 4. Ledger Duty (Event-Only)
 The Independent Administrator shall maintain the **B Distribution Ledger** by recording only **B Distributions** actually executed under Administrator Events, valued at the applicable Valuation Time. The Independent Administrator has no duty to perform ongoing valuations, monthly accounting, or performance reporting.
 
 The Independent Administrator may rely exclusively on the custodian’s official records for the applicable Valuation Time and has no duty to determine intraday, estimated, or unofficial values.
+
+If a distribution is only partially completed on the custodian’s official records, the Independent Administrator shall record only the completed portion on the B Distribution Ledger and treat the remainder as pending until further completion or superseding event priority under the Agreement.
 
 ## 5. Liquidity Event Processing
 Upon receipt of a timely **Liquidity Election** within the Liquidity Window, the Independent Administrator shall:  
@@ -768,12 +834,16 @@ Upon receipt of an effective Termination Notice or Deemed Termination Event, the
 ## 7. Holdback for Disputes
 If the Independent Administrator receives written notice that a dispute exists concerning an issue that would change distribution amounts, the Independent Administrator shall distribute undisputed amounts and hold back only the disputed incremental amount until it receives (A) joint written direction, or (B) a final arbitration award or court order.
 
+The Independent Administrator may suspend or reorder any incomplete Administrator Event processing as reasonably necessary to comply with the event-priority rules in Section 3.6A of the Agreement and the specific priority rules in Sections 5.1B and 7.2B.
+
 ## 8. Form of Distribution / Custodian Constraints
 Distributions shall be made in cash unless (i) in-kind is required or practicable as specified in the Agreement, or (ii) Custodian Constraints require otherwise. In-kind distributions shall be pro rata across holdings to the extent reasonably practicable, with cash-in-lieu for fractional shares where needed. All B Distributions must be delivered to Party B’s B Designated Account.
 
 All distributions shall be delivered to the applicable Party’s Designated Account (A Designated Account for Party A; B Designated Account for Party B), subject to the Recipient Restrictions in Section 2(d) and Custodian Constraints.
 
 If the applicable Designated Account or recipient details are not yet valid or reasonably sufficient under the Agreement, applicable law, or custodian policy, the Independent Administrator may hold the affected portion pending cure in accordance with the Agreement.
+
+For administrative purposes, whether a distribution has been completed shall be determined by the custodian’s official records and the definition of Completed Distribution in the Agreement, and not by the time an instruction was merely transmitted, acknowledged, or queued.
 
 ## 8A. Event Processing Order; Fee Priority
 (a) **General Processing Order.** Unless a final arbitration award, court order, applicable law, or Custodian Constraints require otherwise, the Independent Administrator shall process each Administrator Event in the following order:  
@@ -816,11 +886,17 @@ The Independent Administrator may rely on facially valid notices, signatures, el
 
 (b) **Replacement by Joint Instruction (Mutual).** The Parties may replace the Independent Administrator at any time by delivering a joint written instruction signed by both Parties (delivered under Section 2.4 and copied to the Independent Administrator) that identifies a successor Independent Administrator. Replacement becomes effective upon the earlier of: (i) written acceptance by the successor Independent Administrator (email sufficient), or (ii) the effective date specified in the joint instruction, provided the successor has accepted by that date. The Independent Administrator agrees to cooperate in good faith with a reasonable transition to the successor, including delivering the current B Distribution Ledger and any event-related records reasonably necessary for the successor to perform Administrator Events, subject to payment of earned fees and reimbursement of agreed expenses from the Vehicle Account as permitted herein. Any transition cooperation by the Independent Administrator is ministerial and administrative only; the Independent Administrator has no duty to adjudicate disputes, interpret this Agreement, or opine on legal, tax, or valuation matters in connection with the transition.
 
+If an Administrator Event is in process at the time of replacement, the outgoing Independent Administrator shall, to the extent reasonably practicable and subject to Custodian Constraints, transfer to the successor the event status, ledger entries, pending instructions, completed portions, and other event-related records reasonably necessary for the successor to continue administration without unnecessary duplication or restart.
+
 (c) **Successor Appointment Period.** Following a resignation notice under subsection (a), the Parties shall use reasonable efforts to appoint a successor Independent Administrator within sixty (60) days after the resignation notice date.
 
 (d) **Interim Controls Pending Successor; No Duty to Continue.** If a successor Independent Administrator has not accepted appointment by the end of the 60-day period in subsection (c), the Independent Administrator may (but is not obligated to) continue to serve as a courtesy. If the Independent Administrator elects not to continue, the Independent Administrator is authorized to request that the custodian, subject to Custodian Constraints, restrict withdrawals/transfers-out other than those required by law or custodian policy until a successor accepts appointment or a final arbitration award or court order directs further action.
 
 (e) **Deadlock / Unavailability Relief.** If the Parties fail to appoint a successor within the timeframes above, or if the Independent Administrator is unavailable or unable to perform Administrator Events, either Party may seek relief pursuant to Article VIII, including relief under Section 8.6. The Independent Administrator may rely on any facially valid interim order or final award (or court order) regarding successor appointment and transition.
+
+(f) **Effect on In-Process Events.** Resignation, replacement, or unavailability of the Independent Administrator does not, by itself, cancel a pending Liquidity Election, Joint Pro Rata Release, holdback, or Termination unwind. Any completed portion remains effective, and any uncompleted portion may be resumed, suspended, or re-sequenced by the successor Independent Administrator in accordance with the Agreement, Custodian Constraints, and any applicable order or award.
+
+(g) **No Automatic Restart Requirement.** A successor Independent Administrator is not required to restart an Administrator Event from the beginning solely because of the transition, so long as the successor has reasonably sufficient records to rely on the prior event state and doing so is consistent with Custodian Constraints and applicable law.
 
 ## 13. Compliance with Law and Custodian Rules
 Nothing requires the Independent Administrator or custodian to violate applicable law, regulatory requirements, or custodian policy. If a conflict arises, the Independent Administrator shall use reasonable efforts to implement the Agreement’s intent consistent with such requirements.
@@ -963,16 +1039,28 @@ A timely Liquidity Election is not lost solely because of an incomplete detail o
 5B. **Invalid Recipient Details Delay Payment, Not Ownership**  
 If a Designated Account or other recipient documentation is not yet valid for a Joint Pro Rata Release or Termination distribution, the affected portion may be held pending cure rather than forfeited or reallocated.
 
+5C. **Completion Depends on Custodian Records**  
+An in-process payout counts as completed only when the custodian has actually effected it on official records, not merely when the instruction was submitted or acknowledged.
+
+5D. **Partial Payouts Count Only Pro Tanto**  
+If only part of a payout is actually completed, only that completed portion counts as distributed and, for Party B, only that completed portion is entered on the B Distribution Ledger.
+
 6. **Joint Pro Rata Release Requires Mutual Consent**  
 During the Term, the Parties may release value from the Vehicle Account only by joint written instruction of both Parties. Any such release is allocated pro rata using Party B’s Allocation Percentage at the applicable Valuation Time, with Party B’s portion delivered to Party B’s B Designated Account and entered on the B Distribution Ledger, and Party A’s portion delivered to Party A’s A Designated Account.
 
 6A. **No Implied Future Release Obligation**  
 Past Joint Pro Rata Releases do not create any expected cadence, implied future right, or evidence that the Vehicle Account is meant to operate as an ordinary payment stream or living-expense account.
 
+6B. **Termination Overrides Uncompleted Joint Pro Rata Release Processing**  
+If a Termination Date occurs before a Joint Pro Rata Release is fully completed, the Agreement shifts to the Termination unwind for the unreleased portion. Completed release portions stay effective, but incomplete release processing is folded into final unwind rather than paid separately.
+
 7. **Deterministic Unwind**  
 Upon termination, Party B’s payout is:  
 `max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)`  
 with the remainder to Party A (net of fees/withholding as required).
+
+7A. **Termination Overrides Uncompleted Liquidity Processing**  
+If a Termination Date occurs before a Liquidity payout is fully completed, the Agreement shifts to the Termination unwind. Completed Liquidity distributions stay effective, but an uncompleted Liquidity election is folded into the final unwind rather than paid separately.
 
 8. **Administrator Role**  
 Independent Administrator is event-only (no investment advice, no monthly accounting) and may rely on facially valid notices and awards/orders.
@@ -982,6 +1070,15 @@ For each Administrator Event, earned administrator fees and reimbursable costs a
 
 8B. **Administrator Mechanics Are Centralized**  
 Operational administrator duties are stated primarily in Exhibit 1, while Exhibit 4 supplies minimum LLC implementation terms only. This is intended to reduce duplication and avoid wording drift across sections.
+
+8C. **Overlapping Events Follow Priority Rules**  
+If multiple Administrator Events overlap, legal restraints control first, Termination controls over uncompleted in-term distributions, dispute holdback applies to disputed increments, and the same unreleased value may not be processed twice.
+
+8D. **Successor Administrator Can Continue In-Process Events**  
+If the Independent Administrator is replaced or becomes unavailable mid-event, completed portions stay effective and the successor may continue the unfinished event using the transferred ledger and event records rather than automatically restarting the process.
+
+8E. **Same-Time Conflicts Use Tie-Breaker Rules**  
+If competing event triggers land at effectively the same time, legal restraints control first, then Termination, then dispute holdback, then other in-term events, with temporary holdback allowed if sequencing still cannot be determined reliably.
 
 9. **Recipient Restrictions (Administrator Transfers-Out)**  
 Transfers-out/distributions may be made only to Party A’s A Designated Account, Party B’s B Designated Account, and permitted fee/withholding payees, except as required by a final award/order or law.
