@@ -37,22 +37,22 @@ The Parties desire to establish a cooperative wealth-building vehicle with:
 Nothing in this Agreement creates an obligation for either Party to maintain any personal relationship, shared household, living arrangement, or companionship. Either Party may terminate this Agreement as provided herein.
 
 ### 1.4 No Employment; No Services; No Meretricious Consideration
-The Parties intend this Agreement to be a financial governance arrangement only. It is not wages, employment compensation, or payment for services. No part of this Agreement is consideration for sexual relations, romantic companionship, or personal intimacy.
+The Parties intend this Agreement to be a financial governance arrangement only, and not wages, employment compensation, payment for services, or consideration for sexual relations, romantic companionship, or personal intimacy.
 
 ### 1.5 No Funding Obligation; No Reliance; No Arrears
 Except as expressly stated in a signed amendment, neither Party is obligated to fund the Vehicle Account. Any references to target or intended contributions are non-binding. Neither Party may claim reliance damages, expectation damages, arrears, or “promised payments” based solely on the other Party’s decision to fund or not fund the Vehicle Account.
 
-**For avoidance of doubt, voluntary payments or assistance by either Party for the other Party’s personal expenses—whether from separate property or otherwise—do not create any obligation to continue such payments or assistance and do not modify this Agreement unless expressly set forth in a signed written amendment.**
+**Voluntary payments or assistance outside the Vehicle Account do not create any continuing obligation and do not modify this Agreement unless expressly set forth in a signed written amendment.**
 
 ### 1.6 Scope Boundary (Not Household / Not Support)
 This Agreement governs only the establishment, control, allocation mechanics, liquidity mechanics, and termination unwind of the Vehicle Account. This Agreement does not govern living arrangements, household budgeting, personal support, relationship expectations, shared purchases, co-owned property, vehicles, real estate, or any other off-pool assets.
 
-**No Collateral Agreements; No Interpretive Use.** Any separate writings, understandings, communications, or arrangements between the Parties regarding living arrangements, personal expenses, companionship, or other relationship-adjacent matters (collectively, “**Collateral Arrangements**”) are outside the scope of this Agreement. To the maximum extent permitted by law, Collateral Arrangements (i) shall not be used to interpret, vary, supplement, or contradict this Agreement, (ii) shall not be used to imply any obligation, reliance, entitlement, or “support-like” duty under this Agreement, and (iii) shall not expand remedies beyond those expressly stated herein. No Collateral Arrangement shall be deemed incorporated into this Agreement unless this Agreement expressly states so in a signed writing that specifically identifies the Collateral Arrangement to be incorporated.
+**No Collateral Agreements; No Interpretive Use.** Any separate writings, understandings, communications, or arrangements between the Parties regarding living arrangements, personal expenses, companionship, or other relationship-adjacent matters (collectively, “**Collateral Arrangements**”) are outside the scope of this Agreement. To the maximum extent permitted by law, Collateral Arrangements (i) shall not be used to interpret, vary, supplement, or contradict this Agreement, (ii) shall not be used to imply any obligation, reliance, entitlement, or support-like duty under this Agreement, and (iii) shall not expand remedies beyond those expressly stated herein. No Collateral Arrangement shall be deemed incorporated into this Agreement unless this Agreement expressly states so in a signed writing that specifically identifies the Collateral Arrangement to be incorporated.
 
-**For avoidance of doubt,** Allocation Percentage accrual is not conditioned on cohabitation, conduct, services, exclusivity, intimacy, or relationship continuation, and functions solely as a measurement convention for distribution of assets actually held in the Vehicle Account upon Administrator Events.
+**Allocation Percentage accrual is not conditioned on cohabitation, conduct, services, exclusivity, intimacy, or relationship continuation, and functions solely as a measurement convention for distribution of assets actually held in the Vehicle Account upon Administrator Events.**
 
 ### 1.6A Not an Asset-Protection Plan (Separate Property Outside the Pool)
-For avoidance of doubt, this Agreement is a governance mechanism for the Vehicle Account only and is not intended as asset-protection planning for either Party’s separate property outside the Vehicle Account.
+This Agreement is a governance mechanism for the Vehicle Account only and is not intended as asset-protection planning for either Party’s separate property outside the Vehicle Account.
 
 ### 1.6B Wealth-Only Structure; No Shared Withdrawal / No Joint Asset Governance
 This Agreement is intentionally **wealth-only**. It does **not** create any governance framework for shared withdrawals for shared goals, jointly purchased tangible assets, tenants-in-common interests, LLC-titled property, reimbursement for carrying costs, possession/use rights, home purchases, vehicle purchases, or improvements to either Party’s separate property. Any such matter must be addressed, if at all, in a **separate lawyer-managed written agreement or addendum** that expressly states it is being incorporated.
@@ -63,7 +63,7 @@ This structure also excludes any **unilateral** or **Party A-directed** in-term 
 In consideration of the mutual covenants, dispute-resolution, notice, non-recourse, and scope-limiting commitments herein, each Party agrees to be bound by this Agreement’s governance mechanics once operative, including: (a) notice and anti-evasion provisions (Article II), (b) arbitration and enforcement provisions (Article VIII), (c) non-recourse limitation (Section 4.7), (d) mutual release and scope lock (Section 1.9), and (e) reporting cooperation provisions (Article IX), to the maximum extent permitted by law.
 
 ### 1.8 No Tax Characterization Promise
-The Parties acknowledge that tax characterization and reporting depend on facts and law. Nothing in this Agreement is a promise, representation, or guarantee that any transfer, distribution, or allocation under this Agreement will be treated as a “gift,” “income,” “compensation,” “support,” “partnership distribution,” or any other specific characterization for tax purposes.
+The Parties acknowledge that tax characterization and reporting depend on facts and law. Nothing in this Agreement guarantees any particular tax treatment of any transfer, distribution, or allocation under this Agreement.
 
 ### 1.9 Mutual Release; Scope Lock (To the Maximum Extent Permitted by Law)
 (a) **Mutual Release (Relationship-Adjacent Claims).** To the maximum extent permitted by applicable law, each Party releases and waives any claim against the other Party’s separate property arising out of or relating to the Parties’ personal relationship (if any), including any claim styled as implied contract, quasi-contract, promissory estoppel, unjust enrichment, reliance/expectation damages, constructive trust, or other “support-like” relief, except for claims (i) expressly arising under this Agreement and payable solely from the Vehicle Account, or (ii) arising from fraud, embezzlement, or intentional misappropriation.
@@ -81,7 +81,7 @@ All property, accounts, real estate, and business interests owned by either Part
 
 ### 2.2 No Partnership; No Fiduciary Duty Between Parties; Limited Purpose
 (a) **No Partnership / Joint Venture.** The Parties intend that this Agreement does not create a general partnership, limited partnership, joint venture, or fiduciary relationship between the Parties.  
-(b) **No Fiduciary Duty.** Except for the Independent Administrator’s limited administrative duties as set forth in Exhibit 1, neither Party owes the other any fiduciary duty by virtue of this Agreement.  
+(b) **No Fiduciary Duty Between Parties.** Except for the Independent Administrator’s limited administrative duties as set forth in Exhibit 1, neither Party owes the other any fiduciary duty by virtue of this Agreement.  
 (c) **Limited Purpose.** The Parties’ rights and obligations are limited to those expressly stated herein.
 
 ### 2.2A Recharacterization; Reporting Conformance (No Economic Change)
@@ -278,7 +278,7 @@ Under no circumstances shall Party B owe money back to Party A, the Vehicle LLC,
 ### 4.7 No Recourse Outside the Vehicle Account
 All allocations and entitlements in this Agreement are payable solely from assets actually held in the Vehicle Account. Neither Party has any recourse against the other Party’s separate property for any claimed entitlement under this Agreement.
 
-**Sole Exception.** Notwithstanding the foregoing, Section 6.3 permits a narrow restitution remedy outside the Vehicle Account for intentional dissipation not prevented by the controls, and is the sole exception to this Section 4.7 for recourse outside the Vehicle Account.
+**Sole Exception.** Section 6.3 permits a narrow restitution remedy outside the Vehicle Account for intentional dissipation not prevented by the controls.
 
 ---
 
@@ -312,7 +312,7 @@ The Independent Administrator shall not adjudicate misconduct and shall act only
 ### 6.3 Restitution for Intentional Dissipation Not Prevented by Controls
 Notwithstanding Section 4.7 and Section 1.9(b), if a final arbitration award determines that a Party engaged in **intentional misappropriation, fraud, embezzlement, or intentional bypass** of the control structure contemplated by this Agreement and such conduct **caused dissipation of Vehicle Account assets** and the dissipation was not prevented by the account controls, then the arbitrator may award **restitution** against the liable Party **from that Party’s separate property** in an amount equal to the **net dissipated value**. **Restoration-Only Measure.** Any restitution under this Section is restorative only (i.e., intended solely to restore dissipated Vehicle Account value) and shall not include consequential, punitive, expectation, reliance, or “benefit of the bargain” damages. The arbitrator may also award **reasonable arbitration costs**, and, if the arbitrator finds bad faith, **reasonable attorneys’ fees**, to the maximum extent permitted by law.
 
-For avoidance of doubt, this Section 6.3 applies only to intentional misconduct resulting in dissipation not prevented by the controls, and does not create any general recourse for ordinary disputes, market losses, discretionary funding decisions, or claims that do not involve net dissipation of Vehicle Account assets caused by intentional misconduct.
+This Section 6.3 applies only to intentional misconduct resulting in dissipation not prevented by the controls, and does not create any general recourse for ordinary disputes, market losses, discretionary funding decisions, or claims that do not involve net dissipation of Vehicle Account assets caused by intentional misconduct.
 
 ---
 
@@ -416,7 +416,7 @@ In any dispute concerning the resignation, removal, replacement, or unavailabili
 ## ARTICLE IX — TAX AND REPORTING (TAX-NEUTRAL; NON-ADVICE)
 
 ### 9.1 No Promise of Characterization; Forms Follow Titling and Law
-The Parties acknowledge that brokers/custodians and taxing authorities determine tax forms and reporting based on account titling, entity classification, regulations, and facts. This Agreement does not promise or guarantee that any particular tax form (e.g., 1099, K-1, 1041, or other) will or will not be issued to any Party.
+The Parties acknowledge that brokers/custodians and taxing authorities determine tax forms and reporting based on account titling, entity classification, regulations, and facts.
 
 ### 9.2 Entity Classification and Reporting May Vary
 The Vehicle LLC may be treated as a disregarded entity for certain tax purposes or as a separate reporting entity depending on elections and law. The Parties acknowledge that:  
@@ -497,9 +497,9 @@ Exhibit 5 (Key Terms Summary) is provided for convenience only. If there is any 
 ### 10.11 No Waiver; No Course-of-Performance Modification; Voluntary Acts Not Obligations
 (a) **No Waiver by Conduct.** No failure, delay, or omission by any Party in exercising any right, remedy, power, or privilege under this Agreement shall operate as a waiver. No waiver shall be effective unless set forth in a written instrument signed by the waiving Party and expressly identified as a waiver of a specified provision.
 
-(b) **No Implied Amendment / No Course-of-Performance Modification.** The Parties agree that their course of performance, course of dealing, or any informal practice (including voluntary payments, assistance, gifts, shared purchases, or any conduct outside this Agreement) shall **not** amend, modify, expand, or limit this Agreement, and shall **not** create arrears, reliance/expectation damages, or any support-like obligation, except to the extent a modification is made by a written amendment in accordance with Section 10.2 or is required by a final arbitration award, court order, or applicable law.
+(b) **No Implied Amendment / No Course-of-Performance Modification.** The Parties agree that their course of performance, course of dealing, or any informal practice (including voluntary payments, assistance, gifts, shared purchases, or any conduct outside this Agreement) shall **not** amend, modify, expand, or limit this Agreement, and shall **not** create arrears, reliance/expectation damages, or support-like obligations, except to the extent a modification is made by written amendment under Section 10.2 or is required by a final arbitration award, court order, or applicable law.
 
-(c) **Outside Payments / Assistance.** Any payment or benefit provided by one Party to the other Party outside the Vehicle Account (or not executed as a B Distribution under this Agreement) is presumed to be voluntary and non-precedential and shall not be used to imply an obligation to continue such payments or benefits.
+(c) **Outside Payments / Assistance.** Any payment or benefit provided by one Party to the other Party outside the Vehicle Account (or not executed as a B Distribution under this Agreement) is presumed voluntary and non-precedential.
 
 (d) **Reservation of Rights.** All rights and remedies of the Parties under this Agreement are cumulative and may be exercised as often as deemed necessary, subject to the dispute resolution provisions herein.
 
@@ -801,7 +801,7 @@ Upon termination, Party B’s payout is:
 with the remainder to Party A (net of fees/withholding as required).
 
 8. **Administrator Role**  
-Independent Administrator is event-only (no investment advice, no monthly accounting), and may rely on facially valid notices and awards/orders.
+Independent Administrator is event-only (no investment advice, no monthly accounting) and may rely on facially valid notices and awards/orders.
 
 9. **Recipient Restrictions (Administrator Transfers-Out)**  
 Transfers-out/distributions may be made only to Party A’s A Designated Account, Party B’s B Designated Account, and permitted fee/withholding payees, except as required by a final award/order or law.
