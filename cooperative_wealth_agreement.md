@@ -62,6 +62,22 @@ This structure also excludes any **unilateral** or **Party A-directed** in-term 
 ### 1.7 Mutual Consideration; Governance-Only (Non-Service)
 In consideration of the mutual covenants, dispute-resolution, notice, non-recourse, and scope-limiting commitments herein, each Party agrees to be bound by this Agreement’s governance mechanics once operative, including: (a) notice and anti-evasion provisions (Article II), (b) arbitration and enforcement provisions (Article VIII), (c) non-recourse limitation (Section 4.7), (d) mutual release and scope lock (Section 1.9), and (e) reporting cooperation provisions (Article IX), to the maximum extent permitted by law.
 
+### 1.7A Execution-Date Effect; Operative-Date Effect
+(a) **Provisions Effective Upon Execution.** The following provisions are binding upon execution of this Agreement, whether or not the Agreement later becomes operative under Section 3.2:  
+(i) this Article I to the extent relating to scope, interpretive limits, and mutual release;  
+(ii) Article II;  
+(iii) Sections 3.1, 3.2, 3.2A, and 3.2B solely with respect to implementation duties, anti-stall obligations, and the determination of whether the Agreement becomes operative;  
+(iv) Article VIII;  
+(v) Article IX solely to the extent relating to cooperation, reporting support, and non-advice acknowledgments;  
+(vi) Article X; and  
+(vii) Exhibits 0, 1, 3, 4, and 5, and Appendix A, solely to the extent relevant to implementation, notice, dispute resolution, disclosure process, administrator acceptance, or interpretation of the foregoing.
+
+(b) **Provisions Effective Only Upon Operative Date.** The economic allocation, distribution, liquidity, ledger, and termination-unwind mechanics of this Agreement become operative only on the Operative Date, including Article IV, Article V, Article VI, Article VII, and any other provision that depends on the Vehicle Account having been implemented under Section 3.2.
+
+(c) **No Operative-Date Mechanics Before Operability.** Before the Operative Date, no Party shall have any entitlement to any allocation, distribution, Liquidity Event payment, Joint Pro Rata Release, or termination-unwind payment from the Vehicle Account under this Agreement.
+
+(d) **Failure to Become Operative.** If the Agreement never becomes operative, the provisions identified in subsection (a) remain enforceable according to their terms, but no Party shall have any claim to the economic mechanics identified in subsection (b) except as expressly provided in Section 3.2B or Article VIII.
+
 ### 1.8 No Tax Characterization Promise
 The Parties acknowledge that tax characterization and reporting depend on facts and law. Nothing in this Agreement guarantees any particular tax treatment of any transfer, distribution, or allocation under this Agreement.
 
@@ -199,6 +215,8 @@ This Agreement shall not become operative unless and until:
 (v) the Independent Administrator has delivered the Implementation Confirmation described in Section 3.2A and Exhibit 1, Section 14.
 
 If the Agreement never becomes operative, neither Party shall have any claim for reliance, expectation damages, or equitable relief based solely on the intention to create the Vehicle Account or fund it.
+
+For avoidance of doubt, the immediately effective provisions identified in Section 1.7A(a) remain binding and enforceable according to their terms regardless of whether the Agreement later becomes operative.
 
 ### 3.2A Implementation Control Checklist; Implementation Confirmation; Exceptions
 (a) **Implementation Control Checklist.** As a condition to the Agreement becoming operative, the Vehicle Account implementation must, to the extent permitted by Custodian Constraints, satisfy the following control requirements (the “Implementation Control Checklist”):
@@ -799,6 +817,9 @@ This Agreement does not authorize the Vehicle LLC to acquire, hold, or govern ta
 
 1. **Voluntary Funding**  
 Party A is not obligated to fund the Vehicle Account. Target contributions are non-binding. No arrears.
+
+1A. **Execution-Date vs. Operative-Date Effect**  
+Notice, dispute resolution, implementation cooperation, anti-stall obligations, disclosure/counsel process, and general interpretive / miscellaneous provisions bind upon execution. Economic allocation, distribution, liquidity, ledger, and unwind mechanics apply only once the Agreement becomes operative under Section 3.2.
 
 2. **Ring-Fenced Pool Default; Narrow Restitution Exception**  
 Any entitlement is payable solely from assets actually in the Vehicle Account, subject to Section 6.3 (restitution for intentional dissipation not prevented by controls).
