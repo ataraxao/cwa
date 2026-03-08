@@ -126,7 +126,7 @@ For purposes of this Agreement:
 
 (j) **“Allocation Percentage”** means the percentage used to allocate Vehicle Account value between the Parties under Article IV and Article VII. The Allocation Percentage accrues over time as a measurement convention for allocation of the Vehicle Account only.
 
-(k) **“Valuation Time”** means the official closing value (or, for mutual funds, the published NAV) on the most recent trading day ending prior to the triggering event requiring a calculation under this Agreement, as reflected on the custodian’s official records.
+(k) **“Valuation Time”** means the official closing value (or, for mutual funds, the published NAV) on the most recent Trading Day ending prior to the triggering event requiring a calculation under this Agreement, as reflected on the custodian’s official records. If the custodian’s official records for that Trading Day are posted later than the event date, the posted custodian records for that Trading Day control once available.
 
 (l) **“B Designated Account”** means a brokerage account in Party B’s own name (or Party B’s revocable trust, if permitted by the custodian and designated in writing) that Party B designates in writing for receipt of in-kind and/or cash distributions under this Agreement.
 
@@ -154,6 +154,8 @@ For purposes of this Agreement:
 
 (x) **“Local Time”** means, unless this Agreement expressly states otherwise, the local time in the State identified in Section 10.4; provided that, for notices under Section 2.4, references to Local Time mean the local time at the recipient’s Notice Address.
 
+(y) **“Trading Day”** means a day on which the primary market or pricing source relevant to the applicable asset is open for regular trading or publishes a regular closing price or NAV, as applicable.
+
 ### 2.3A Computation of Time
 (a) **General Rule.** In computing any period stated in days, the day of the act, event, notice, or delivery that begins the period is not counted. The last day of the period is counted unless it is not a Business Day, in which event the period continues until the next Business Day.
 
@@ -162,6 +164,8 @@ For purposes of this Agreement:
 (c) **Anniversary Dates.** If a date is measured by monthly or annual anniversary and the applicable month does not contain the corresponding calendar day, the anniversary date shall be the last day of that month.
 
 (d) **Windows and Cure Periods.** If a Liquidity Window, cure period, or other response period under this Agreement would end on a day that is not a Business Day, the period extends through the next Business Day.
+
+(e) **Trading-Day Convention.** If a valuation-dependent event under this Agreement occurs on a day that is not a Trading Day, or after the relevant market or pricing source has closed for the day, the applicable Valuation Time shall be determined using the most recent Trading Day ending prior to the event, unless this Agreement expressly states otherwise.
 
 ### 2.4 Notices; Delivery; Contact Updates; Substantial Compliance
 (a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for a supplemental fallback channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
@@ -326,6 +330,15 @@ Party B’s Allocation Percentage shall not exceed a maximum cap of **[50.00]%**
 ### 4.4 Measurement Rule
 Allocation and entitlements are calculated using the Vehicle Account’s value at the applicable Valuation Time when a calculation is required (including a Liquidity Event, a joint pro rata release, or the Termination Date).
 
+### 4.4A Valuation Source; Market-Closure Convention
+(a) **Custodian Records Control.** For any calculation under this Agreement, the custodian’s official records for the applicable Valuation Time control absent manifest clerical error.
+
+(b) **Non-Trading-Day / After-Close Events.** If a triggering event occurs on a day that is not a Trading Day, or after the relevant market or pricing source has closed, the applicable Valuation Time shall use the most recent Trading Day ending prior to that event.
+
+(c) **NAV / Posting Delay.** If mutual fund NAVs, custodian valuations, or official statements for the applicable Valuation Time are posted after the triggering event date, the Independent Administrator may wait for those official records before completing the calculation and distribution.
+
+(d) **No Intraday Valuation Duty.** The Independent Administrator has no duty to calculate or rely on intraday marks, indicative prices, unofficial estimates, or third-party shadow accounting.
+
 ### 4.5 B Distribution Ledger; Anti-Double-Counting; Event-Only Administration
 (a) **Event-Only Ledger Duty.** The Independent Administrator’s ledger duty is limited to recording B Distributions actually executed under Administrator Events and does not require monthly reconciliations, performance tracking, or valuations outside the Valuation Times used for distributions.  
 (b) **Anti-Double-Counting.** Any B Distribution executed under this Agreement shall be recorded in the B Distribution Ledger at the applicable Valuation Time. The B Distribution Ledger is used to ensure Party B does not receive more than Party B’s formulaic entitlement at Liquidity Events and at final termination.
@@ -351,13 +364,22 @@ All allocations and entitlements in this Agreement are payable solely from asset
 
 (d) **Destination Restriction.** Any release under this Section may be made only to Party A’s A Designated Account and Party B’s B Designated Account in the pro rata amounts determined under subsection (b). No release under this Section may be made to any third-party payee or for direct payment of either Party’s personal expenses.
 
-(e) **Ledger Treatment.** The portion of any release under this Section allocated to Party B shall be treated as a **B Distribution** and entered on the **B Distribution Ledger** at the applicable Valuation Time. The portion allocated to Party A shall not be entered on the B Distribution Ledger.
+(e) **Ledger Treatment.** The portion of any release under this Section allocated to Party B shall be treated as a **B Distribution** and entered on the **B Distribution Ledger** at the applicable ValuationTime. The portion allocated to Party A shall not be entered on the B Distribution Ledger.
 
 (f) **Effect on Future Calculations.** A release under this Section does not modify the Allocation Percentage accrual schedule, the Allocation Cap, or any other formula in this Agreement. Future Liquidity and Termination calculations shall be performed using the remaining Vehicle Account value at the applicable Valuation Time after giving effect to any completed release under this Section.
 
 (g) **No Obligation; No Reliance.** Nothing in this Section obligates either Party to consent to any release, and no Party shall have any claim for reliance, expectation damages, arrears, or specific performance based on the absence of any jointly authorized release under this Section.
 
 (h) **No Implied Cadence; No Precedent.** One or more Joint Pro Rata Releases, whether regular, irregular, patterned, or repeated, shall not create any implied obligation, expected cadence, reliance interest, presumption in favor of future releases, modification of this Agreement, or evidence that the Vehicle Account is intended to function as a support stream, payment program, salary substitute, or ordinary living-expense account.
+
+### 5.1A Designated Account Failure for Joint Pro Rata Release
+(a) **Pending Status, Not Reallocation.** If a Joint Pro Rata Release is otherwise authorized but either Party’s applicable Designated Account is not a Valid Designated Account on the intended processing date, the Independent Administrator may process the valid portion and hold the invalid portion pending updated account information or documentation from the affected Party rather than cancelling, forfeiting, or reallocating that portion.
+
+(b) **No Increase to Other Party’s Share.** No delay caused solely by the absence of a Valid Designated Account for one Party shall increase the other Party’s share, except to the extent of fees, market movements, withholding, or transaction costs resulting from Custodian Constraints or from the need to maintain or reprocess the pending portion.
+
+(c) **Delay Costs.** To the extent the delay is caused by a Party’s failure to maintain or timely provide a Valid Designated Account, any incremental administrative costs reasonably attributable to that delay may be charged against that Party’s pending portion, to the extent permitted by Custodian Constraints.
+
+(d) **Processing After Cure.** Once the affected Party provides a Valid Designated Account, the Independent Administrator shall process the pending portion as soon as reasonably practicable, subject to Custodian Constraints.
 
 ---
 
@@ -405,6 +427,15 @@ the remaining balance after payment of Party B’s Share and permitted deduction
 
 **Form of Distribution:** Distributions shall be made in cash unless (i) both Parties (or their legal representatives, if applicable) jointly instruct otherwise in writing, (ii) in-kind is required by Custodian Constraints, or (iii) in-kind is practicable and requested for Party B’s Share to Party B’s B Designated Account.
 
+### 7.2A Pending Termination Distribution for Invalid Recipient Details
+(a) **Pending Status, Not Forfeiture.** If, at the time of a Termination unwind, the applicable recipient account, estate documentation, trust documentation, or other recipient details for either Party are not yet reasonably sufficient to complete distribution under custodian policy or applicable law, the Independent Administrator may hold that Party’s portion pending receipt of valid recipient details rather than forfeiting, reallocating, or recharacterizing that portion.
+
+(b) **No Reallocation.** No delay caused solely by missing or insufficient recipient details for one Party shall increase the other Party’s share, except to the extent of fees, market movements, withholding, or transaction costs resulting from Custodian Constraints, legal requirements, or the need to maintain or reprocess the pending portion.
+
+(c) **Delay Costs.** To the extent the delay is caused by a Party’s failure, or that Party’s estate or representative’s failure, to timely provide reasonably sufficient recipient information or documentation, any incremental administrative costs reasonably attributable to that delay may be charged against that Party’s pending portion, to the extent permitted by Custodian Constraints and applicable law.
+
+(d) **Processing After Cure.** Once reasonably sufficient recipient details and documentation are provided, the Independent Administrator shall process the pending Termination distribution as soon as reasonably practicable, subject to Custodian Constraints and applicable law.
+
 ### 7.3 Scheduled Liquidity Event (Every Three Years)
 
 #### 7.3.1 Liquidity Event Dates; Liquidity Window
@@ -429,7 +460,7 @@ Party B may deliver a written election during the Liquidity Window (a Liquidity 
 (e) **Failure to Cure.** If the defect is not cured within the applicable period, the Liquidity Election shall lapse for that Liquidity Window only and shall not accelerate, waive, reduce, or otherwise affect future Liquidity Event rights.
 
 #### 7.3.3 Liquidity Valuation
-For Liquidity Events, Valuation Time is measured as of the most recent trading day ending prior to the Liquidity Event Date.
+For Liquidity Events, Valuation Time is measured as of the most recent Trading Day ending prior to the Liquidity Event Date.
 
 #### 7.3.4 Liquidity Settlement Amount (Net of Prior Distributions)
 Upon a timely Liquidity Election, the Independent Administrator shall calculate:  
@@ -569,6 +600,8 @@ Each Party represents that they first received a complete copy of this Agreement
 ### 10.7 Exhibit / Appendix Hierarchy
 Exhibits and Appendix A are incorporated by reference. If there is a conflict between the main body and an Exhibit or Appendix A, the main body controls unless it explicitly states otherwise.
 
+Illustrative examples, summaries, implementation notes, convenience descriptions, and non-binding explanatory text shall not expand, narrow, or override the operative provisions of this Agreement.
+
 ### 10.8 Custodian Constraints Control
 If a Custodian Constraint makes strict compliance with a mechanic in this Agreement impossible, the Independent Administrator shall implement the closest practicable alternative consistent with the Agreement’s intent, and no Party may claim breach solely due to compliance with Custodian Constraints.
 
@@ -577,6 +610,8 @@ Except for the Independent Administrator’s rights and protections expressly st
 
 ### 10.10 Non-Binding Summary
 Exhibit 5 (Key Terms Summary) is provided for convenience only. If there is any inconsistency, this Agreement controls.
+
+Likewise, Appendix A is illustrative and operational only, and does not create any independent right, obligation, implementation guarantee, or economic entitlement beyond the operative provisions of this Agreement.
 
 ### 10.11 No Waiver; No Course-of-Performance Modification; Voluntary Acts Not Obligations
 (a) **No Waiver by Conduct.** No failure, delay, or omission by any Party in exercising any right, remedy, power, or privilege under this Agreement shall operate as a waiver. No waiver shall be effective unless set forth in a written instrument signed by the waiving Party and expressly identified as a waiver of a specified provision.
@@ -701,6 +736,8 @@ The Independent Administrator may rely on the delivery and effectiveness standar
 ## 4. Ledger Duty (Event-Only)
 The Independent Administrator shall maintain the **B Distribution Ledger** by recording only **B Distributions** actually executed under Administrator Events, valued at the applicable Valuation Time. The Independent Administrator has no duty to perform ongoing valuations, monthly accounting, or performance reporting.
 
+The Independent Administrator may rely exclusively on the custodian’s official records for the applicable Valuation Time and has no duty to determine intraday, estimated, or unofficial values.
+
 ## 5. Liquidity Event Processing
 Upon receipt of a timely **Liquidity Election** within the Liquidity Window, the Independent Administrator shall:  
 (i) determine Vehicle Account value at Liquidity Valuation Time,  
@@ -725,6 +762,8 @@ If the Independent Administrator receives written notice that a dispute exists c
 Distributions shall be made in cash unless (i) in-kind is required or practicable as specified in the Agreement, or (ii) Custodian Constraints require otherwise. In-kind distributions shall be pro rata across holdings to the extent reasonably practicable, with cash-in-lieu for fractional shares where needed. All B Distributions must be delivered to Party B’s B Designated Account.
 
 All distributions shall be delivered to the applicable Party’s Designated Account (A Designated Account for Party A; B Designated Account for Party B), subject to the Recipient Restrictions in Section 2(d) and Custodian Constraints.
+
+If the applicable Designated Account or recipient details are not yet valid or reasonably sufficient under the Agreement, applicable law, or custodian policy, the Independent Administrator may hold the affected portion pending cure in accordance with the Agreement.
 
 ## 8A. Event Processing Order; Fee Priority
 (a) **General Processing Order.** Unless a final arbitration award, court order, applicable law, or Custodian Constraints require otherwise, the Independent Administrator shall process each Administrator Event in the following order:  
@@ -890,6 +929,9 @@ Any entitlement is payable solely from assets actually in the Vehicle Account, s
 3. **Allocation Accrual**  
 Party B’s Allocation Percentage accrues at [__]% per **full calendar month** during the Term, capped at [__]%, using the whole-month cutoff rules in Article IV.
 
+3A. **Valuation Uses Official Custodian Records**  
+Calculations use the most recent Trading Day ending prior to the triggering event, based on official custodian records rather than intraday or unofficial estimates.
+
 4. **Event-Only Distributions**  
 No unilateral withdrawals. Transfers-out/distributions occur only as:
 - Liquidity Events (every 3 years, if elected by Party B), or
@@ -904,6 +946,9 @@ B Distributions are delivered to Party B’s B Designated Account (cash or in-ki
 
 5A. **Defective Liquidity Elections Are Curable**  
 A timely Liquidity Election is not lost solely because of an incomplete detail or missing Designated Account paperwork if the defect is timely cured. If Party B has not yet provided a Valid Designated Account, the distribution may be held pending cure rather than forfeited or reallocated.
+
+5B. **Invalid Recipient Details Delay Payment, Not Ownership**  
+If a Designated Account or other recipient documentation is not yet valid for a Joint Pro Rata Release or Termination distribution, the affected portion may be held pending cure rather than forfeited or reallocated.
 
 6. **Joint Pro Rata Release Requires Mutual Consent**  
 During the Term, the Parties may release value from the Vehicle Account only by joint written instruction of both Parties. Any such release is allocated pro rata using Party B’s Allocation Percentage at the applicable Valuation Time, with Party B’s portion delivered to Party B’s B Designated Account and entered on the B Distribution Ledger, and Party A’s portion delivered to Party A’s A Designated Account.
