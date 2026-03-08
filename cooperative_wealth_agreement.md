@@ -2,18 +2,19 @@
 ## (WEALTH-ONLY; EVENT-DRIVEN; RING-FENCED POOL)
 *Independent Administrator–Controlled Restricted LLC Brokerage Account; Deterministic Unwind; Periodic Liquidity Events; Minimal Disclosure Process*
 
-Read the full white paper at https://ataraxao.substack.com/p/the-gravity-model-aligning-price
-
 > **TEMPLATE NOTICE: NOT LEGAL OR TAX ADVICE.**  
 > This document is a conceptual template intended for educational and informational purposes only. It does not constitute legal advice or tax advice. Laws regarding property rights, LLCs, arbitration, securities custody, partnership characterization, and taxation vary heavily by jurisdiction. Each Party must consult independent legal counsel and independent tax counsel before executing this Agreement, forming any entity, or funding any account contemplated herein.
 
 > **IMPORTANT STRUCTURE NOTE (DESIGN INTENT).**  
 > This Agreement is designed as a governance wrapper for a restricted brokerage account held in a Vehicle LLC. It is drafted to:  
-> (1) reduce “payment-for-performance” optics by making funding voluntary and non-enforceable;  
+> (1) reduce the risk of characterization as payment for services or relationship performance by making funding voluntary and non-enforceable;  
 > (2) implement “anti-smash-and-grab” restrictions (no unilateral transfers-out);  
 > (3) provide deterministic unwind mechanics and periodic Liquidity Events; and  
 > (4) define the Independent Administrator role as “event-only” (Liquidity Events, joint pro rata releases, and termination unwind) to reduce operational burden and improve real-world fillability.  
 > **THIS AGREEMENT DOES NOT PROMISE ANY SPECIFIC TAX CHARACTERIZATION.** Tax outcomes depend on facts and law.
+>
+> **NON-INCORPORATION OF EXTERNAL MATERIALS.**  
+> Any article, essay, white paper, website, social-media post, presentation, interview, or other external material, whether authored by either Party or any third party, is provided (if at all) for general background only, is **not incorporated** into this Agreement, and shall not be used to interpret, supplement, vary, or contradict this Agreement unless this Agreement expressly so states in a signed writing.
 
 ---
 
@@ -36,13 +37,15 @@ The Parties desire to establish a cooperative wealth-building vehicle with:
 ### 1.3 Relationship Neutrality; No Personal Obligation
 Nothing in this Agreement creates an obligation for either Party to maintain any personal relationship, shared household, living arrangement, or companionship. Either Party may terminate this Agreement as provided herein.
 
-### 1.4 No Employment; No Services; No Meretricious Consideration
-The Parties intend this Agreement to be a financial governance arrangement only, and not wages, employment compensation, payment for services, or consideration for sexual relations, romantic companionship, or personal intimacy.
+### 1.4 No Employment; No Services; No Personal-Relationship Consideration
+The Parties intend this Agreement to govern only the administration, allocation, liquidity, and unwind mechanics of the Vehicle Account. It is not wages, employment compensation, payment for services, domestic labor compensation, or consideration for cohabitation, exclusivity, companionship, sexual relations, romantic involvement, or other personal-relationship conduct.
 
 ### 1.5 No Funding Obligation; No Reliance; No Arrears
 Except as expressly stated in a signed amendment, neither Party is obligated to fund the Vehicle Account. Any references to target or intended contributions are non-binding. Neither Party may claim reliance damages, expectation damages, arrears, or “promised payments” based solely on the other Party’s decision to fund or not fund the Vehicle Account.
 
 **Voluntary payments or assistance outside the Vehicle Account do not create any continuing obligation and do not modify this Agreement unless expressly set forth in a signed written amendment.**
+
+**No Minimum Account Size; No Expected Funding Cadence.** Party B acknowledges that no minimum balance, funding cadence, funding duration, or target account size is promised, and that any entitlement under this Agreement can arise only from assets actually held in the Vehicle Account after the Agreement becomes operative under Section 3.2.
 
 ### 1.6 Scope Boundary (Not Household / Not Support)
 This Agreement governs only the establishment, control, allocation mechanics, liquidity mechanics, and termination unwind of the Vehicle Account. This Agreement does not govern living arrangements, household budgeting, personal support, relationship expectations, shared purchases, co-owned property, vehicles, real estate, or any other off-pool assets.
@@ -88,6 +91,8 @@ The Parties acknowledge that tax characterization and reporting depend on facts 
 
 (c) **Mandatory Carveouts Preserved.** Nothing in this Section limits any non-waivable rights, including rights of third parties, or any child-related statutory rights/obligations that cannot be waived by private agreement.
 
+(d) **Further Excluded Claims.** For avoidance of doubt, this Section does not release or waive claims based on physical injury, coercion, abuse, stalking, unauthorized access to accounts or devices, defamation, or other non-economic claims not arising from the governance, control, allocation, distribution, or unwind of the Vehicle Account.
+
 ---
 
 ## ARTICLE II — DEFINITIONS; SEPARATE PROPERTY; CHARACTERIZATION; NOTICES; ALTERNATIVE SERVICE
@@ -102,6 +107,8 @@ All property, accounts, real estate, and business interests owned by either Part
 
 ### 2.2A Recharacterization; Reporting Conformance (No Economic Change)
 If any governmental authority, custodian, court, or taxing authority characterizes the Vehicle LLC, the Vehicle Account, or any allocation/distribution hereunder as a partnership, joint venture, nominee arrangement, trust relationship, compensation, gift, support, or any other classification for any legal or tax purpose, the Parties agree to (i) cooperate in good faith to make any filings or reporting required by law as advised by their respective independent tax counsel, and (ii) implement any ministerial documentation reasonably required to conform to such characterization, **without changing** the Agreement’s core economic mechanics (Allocation Percentage, B Distribution Ledger, Liquidity Events, joint pro rata releases, and Termination unwind), to the maximum extent permitted by law.
+
+No Party shall be required by this Section to make a false statement, adopt a factual characterization that such Party’s independent counsel advises is materially inaccurate, or take a reporting position contrary to applicable law.
 
 ### 2.3 Definitions
 For purposes of this Agreement:
@@ -267,6 +274,8 @@ For avoidance of doubt, the immediately effective provisions identified in Secti
 
 (d) **No Inference from Drafting Alone.** For avoidance of doubt, the existence of this Agreement, the Vehicle LLC, or unsigned draft control documents does not create any presumption that the required authority split or anti-bypass controls are in fact operational at the custodian. Operability depends on actual implemented permissions and control arrangements, not drafting intent alone.
 
+(e) **No Implied Operability by Conduct.** Funding activity, trading activity, account statements, draft onboarding materials, administrator communications, or partial implementation steps shall not, by themselves, cause this Agreement to become operative. The written Implementation Confirmation is the exclusive means by which the Agreement becomes operative.
+
 ### 3.2B Implementation Cooperation; Timeline; Extension; Anti-Stall
 (a) **Good-Faith Cooperation Duty.** Each Party shall cooperate in good faith to complete implementation of the Vehicle LLC, Vehicle Account, Independent Administrator acceptance, Designated Account setup, authority split, and required custodian/control documentation contemplated by this Agreement.
 
@@ -283,8 +292,8 @@ For avoidance of doubt, the immediately effective provisions identified in Secti
 (g) **Narrow Remedy for Bad-Faith Obstruction.** If a final arbitration award determines that a Party intentionally and in bad faith obstructed implementation, the arbitrator may award narrow relief reasonably tailored to such obstruction, including: (i) an order compelling cooperation; (ii) termination-related relief; (iii) reimbursement of documented third-party setup costs caused by the obstruction; (iv) reasonable arbitration costs; and (v) if bad faith is found, reasonable attorneys’ fees to the maximum extent permitted by law. No relief under this subsection shall include expectation damages, arrears, or any claim based solely on projected future funding.
 
 ### 3.3 Voluntary Funding; Target Contributions (Non-Binding)
-Any contributions to the Vehicle Account are voluntary. As a non-binding target only, Party A may contribute up to **$[Monthly Deposit Amount]** per month commencing on **[Start Date]**, but Party A may reduce, pause, or stop contributions at any time without breach.  
-**No Arrears.** No Party shall owe arrears, back-payments, or damages for failing to make any target contribution.
+Any contributions to the Vehicle Account are voluntary. The Parties may separately discuss intended or illustrative contribution ranges for personal planning convenience only, but no such discussion is part of the operative terms of this Agreement unless later incorporated by signed amendment. Party A may contribute, reduce, pause, or stop contributions at any time without breach.  
+**No Arrears.** No Party shall owe arrears, back-payments, or damages for failing to make any contemplated, illustrative, or discussed contribution.
 
 ### 3.4 Investment Mandate; Party A Trading Authority; Guardrails; In-Pool Remedies
 (a) **Investment Objective.** Vehicle Account funds shall be invested primarily in broad-market index funds/ETFs.  
@@ -356,6 +365,8 @@ For avoidance of doubt, a protective freeze, dispute holdback, pending distribut
 
 ### 4.2 Monthly Accrual Rate
 Party B’s Allocation Percentage accrues at a rate of **[1.00]% per full calendar month** during which this Agreement is operative (the “Monthly Accrual Rate”), subject to the cap in Section 4.3.
+
+The Parties acknowledge that the Monthly Accrual Rate is a negotiated allocation key selected for administrative simplicity and contingent pool-allocation purposes only, and is not a payment rate for time, labor, services, status, or relationship continuation.
 
 A “full calendar month” means a month for which the Agreement is operative continuously from **12:00:00 a.m. Local Time on the first day of the month** through **11:59:59 p.m. Local Time on the last day of the month**.
 
@@ -541,6 +552,9 @@ For avoidance of doubt, Section 7.2 also controls over any uncompleted Joint Pro
 Beginning on the third (3rd) anniversary of the Operative Date and on each three (3) year anniversary thereafter (each a Liquidity Event Date), Party B shall have a one-time election window of thirty (30) days (the Liquidity Window) to request a distribution of Party B’s then-earned allocated value under this Section 7.3, without terminating this Agreement.
 
 If a Liquidity Window would otherwise end on a day that is not a Business Day, the Liquidity Window remains open through the next Business Day.
+
+#### 7.3.1A No Presumption of Income Stream
+A Liquidity Event is optional, contingent on actual assets then held in the Vehicle Account and prior completed distributions, and is not intended to function as salary replacement, maintenance, support, household budgeting, or any ordinary recurring payment stream.
 
 #### 7.3.2 Liquidity Election
 Party B may deliver a written election during the Liquidity Window (a Liquidity Election) to the Independent Administrator specifying:  
@@ -854,6 +868,8 @@ If a distribution is otherwise due but the applicable Designated Account is not 
 ## 3. Notices; Delivery; Substantial Compliance
 The Independent Administrator may rely on the delivery and effectiveness standards in Section 2.4 of the Agreement, including substantial compliance under Section 2.4(g), and is not required to confirm actual receipt unless the Independent Administrator has actual knowledge of a material delivery defect. If the Independent Administrator receives an arbitration order, award, or court order authorizing or confirming alternative service under Section 2.5, the Independent Administrator may rely on notices, orders, or awards delivered using such authorized method.
 
+The Independent Administrator may also rely on facially valid documentation establishing an **Authorized Representative** under Section 7.1C of the Agreement and on any **External Legal Process** described in Section 3.6B of the Agreement, and may suspend, condition, or sequence processing accordingly, subject to applicable law and Custodian Constraints.
+
 For sequencing potentially conflicting Administrator Events, the Independent Administrator may also rely on Section 3.6A of the Agreement and on reasonably available notice timestamps, receipt timestamps, and custodian-operational records.
 
 ## 4. Ledger Duty (Event-Only)
@@ -879,6 +895,8 @@ Upon receipt of an effective Termination Notice or Deemed Termination Event, the
 (ii) determine Vehicle Account value at Valuation Time,  
 (iii) distribute per Section 7.2 (net of the B Distribution Ledger), including delivering Party B’s Share to Party B’s B Designated Account unless Custodian Constraints require another form, and  
 (iv) update the B Distribution Ledger.
+
+Where permitted by applicable law and reasonably supported by documentation sufficient under custodian policy, the Independent Administrator may accept recipient details, estate/trust documentation, or other termination-related instructions from an **Authorized Representative** acting under Section 7.1C of the Agreement.
 
 ## 7. Holdback for Disputes
 If the Independent Administrator receives written notice that a dispute exists concerning an issue that would change distribution amounts, the Independent Administrator shall distribute undisputed amounts and hold back only the disputed incremental amount until it receives (A) joint written direction, or (B) a final arbitration award or court order.
@@ -946,6 +964,24 @@ If an Administrator Event is in process at the time of replacement, the outgoing
 (f) **Effect on In-Process Events.** Resignation, replacement, or unavailability of the Independent Administrator does not, by itself, cancel a pending Liquidity Election, Joint Pro Rata Release, holdback, or Termination unwind. Any completed portion remains effective, and any uncompleted portion may be resumed, suspended, or re-sequenced by the successor Independent Administrator in accordance with the Agreement, Custodian Constraints, and any applicable order or award.
 
 (g) **No Automatic Restart Requirement.** A successor Independent Administrator is not required to restart an Administrator Event from the beginning solely because of the transition, so long as the successor has reasonably sufficient records to rely on the prior event state and doing so is consistent with Custodian Constraints and applicable law.
+
+## 12A. Record Retention; Handoff Package
+(a) **Records Covered.** The Independent Administrator shall retain, in reasonable administrative form, the following records to the extent created or received in connection with this Agreement:  
+1. the **B Distribution Ledger**;  
+2. material notices of Liquidity Elections, Termination Notices, dispute notices affecting distribution amounts, and joint release instructions;  
+3. material event-status records reflecting completed portions, pending portions, holdbacks, and sequencing decisions for Administrator Events; and  
+4. the implementation packet or comparable onboarding/control records reasonably sufficient to show the authority split and any known custodian-control limitations.
+
+(b) **Retention Period.** The Independent Administrator shall retain such records for at least seven (7) years after the earlier of:  
+1. final distribution and closure of the Vehicle Account; or  
+2. completion of a successor transition in which the records required by this Section have been delivered to the successor Independent Administrator;  
+provided, however, that if applicable law, regulation, custodian policy, professional-obligation rules, litigation hold, arbitration order, or court order requires a longer retention period, the longer period controls.
+
+(c) **Successor Handoff Package.** Upon replacement or transition to a successor Independent Administrator, the outgoing Independent Administrator shall, to the extent reasonably practicable and subject to Custodian Constraints, deliver a reasonably organized handoff package containing the current **B Distribution Ledger**, material event-status records, completed-versus-pending event information, and the implementation packet or comparable control records then in its possession.
+
+(d) **Reliance by Successor.** The successor Independent Administrator may rely in good faith on the handoff package and retained records unless the successor has actual knowledge of a material defect, conflict, or incompleteness requiring clarification.
+
+(e) **Costs.** Reasonable time and costs incurred in compiling, reproducing, or transmitting the handoff package or retained records may be treated as administrative costs payable from the Vehicle Account to the extent permitted by the Agreement, applicable law, and Custodian Constraints.
 
 ## 13. Compliance with Law and Custodian Rules
 Nothing requires the Independent Administrator or custodian to violate applicable law, regulatory requirements, or custodian policy. If a conflict arises, the Independent Administrator shall use reasonable efforts to implement the Agreement’s intent consistent with such requirements.
@@ -1128,6 +1164,9 @@ If multiple Administrator Events overlap, legal restraints control first, Termin
 
 8D. **Successor Administrator Can Continue In-Process Events**  
 If the Independent Administrator is replaced or becomes unavailable mid-event, completed portions stay effective and the successor may continue the unfinished event using the transferred ledger and event records rather than automatically restarting the process.
+
+8D-1. **Ledger and Event Records Are Retained and Transferable**  
+The Independent Administrator is expected to retain the B Distribution Ledger, material event-status records, and implementation/control records long enough to support dispute resolution, successor transition, and orderly continuation of Administrator Events.
 
 8E. **Same-Time Conflicts Use Tie-Breaker Rules**  
 If competing event triggers land at effectively the same time, legal restraints control first, then Termination, then dispute holdback, then other in-term events, with temporary holdback allowed if sequencing still cannot be determined reliably.
