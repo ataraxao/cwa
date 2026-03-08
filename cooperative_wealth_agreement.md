@@ -47,6 +47,9 @@ Except as expressly stated in a signed amendment, neither Party is obligated to 
 
 **No Minimum Account Size; No Expected Funding Cadence.** Party B acknowledges that no minimum balance, funding cadence, funding duration, or target account size is promised, and that any entitlement under this Agreement can arise only from assets actually held in the Vehicle Account after the Agreement becomes operative under Section 3.2.
 
+### 1.5A Acknowledgment of Speculative Funding Risk
+Party B acknowledges that Party B is not entering this Agreement in reliance on any promise of future funding, any minimum account value, any expected contribution pattern, or any representation that the Vehicle Account will reach any particular size. Party B further acknowledges that the economic value of this Agreement to Party B may be low or zero if assets are not actually contributed to and retained in the Vehicle Account.
+
 ### 1.6 Scope Boundary (Not Household / Not Support)
 This Agreement governs only the establishment, control, allocation mechanics, liquidity mechanics, and termination unwind of the Vehicle Account. This Agreement does not govern living arrangements, household budgeting, personal support, relationship expectations, shared purchases, co-owned property, vehicles, real estate, or any other off-pool assets.
 
@@ -69,7 +72,7 @@ In consideration of the mutual covenants, dispute-resolution, notice, non-recour
 (a) **Provisions Effective Upon Execution.** The following provisions are binding upon execution of this Agreement, whether or not the Agreement later becomes operative under Section 3.2:  
 (i) this Article I to the extent relating to scope, interpretive limits, and mutual release;  
 (ii) Article II;  
-(iii) Sections 3.1, 3.2, 3.2A, and 3.2B solely with respect to implementation duties, anti-stall obligations, and the determination of whether the Agreement becomes operative;  
+(iii) Sections 3.1, 3.2, 3.2A, 3.2B, and 3.2C solely with respect to implementation duties, anti-stall obligations, and the determination of whether the Agreement becomes operative;  
 (iv) Article VIII;  
 (v) Article IX solely to the extent relating to cooperation, reporting support, and non-advice acknowledgments;  
 (vi) Article X; and  
@@ -92,6 +95,12 @@ The Parties acknowledge that tax characterization and reporting depend on facts 
 (c) **Mandatory Carveouts Preserved.** Nothing in this Section limits any non-waivable rights, including rights of third parties, or any child-related statutory rights/obligations that cannot be waived by private agreement.
 
 (d) **Further Excluded Claims.** For avoidance of doubt, this Section does not release or waive claims based on physical injury, coercion, abuse, stalking, unauthorized access to accounts or devices, defamation, or other non-economic claims not arising from the governance, control, allocation, distribution, or unwind of the Vehicle Account.
+
+### 1.9A Exclusive Economic Framework; No Alternative Recovery Theory
+To the maximum extent permitted by law, the Parties acknowledge and agree that this Agreement provides the exclusive framework for any economic claim by either Party arising out of or relating to the Vehicle Account, the Vehicle LLC, any funding of the Vehicle Account, any allocation mechanics, any Liquidity Event, any Joint Pro Rata Release, or any Termination unwind. No Party shall seek to obtain a greater or different economic recovery by restyling such a claim as unjust enrichment, implied contract, promissory estoppel, constructive trust, partnership, joint venture, reliance, expectation, or any similar legal or equitable theory, except to the extent a non-waivable right under applicable law expressly requires otherwise.
+
+### 1.9B Non-Evidentiary Nature of Illustrations and Projections
+No illustration, forecast, discussion, spreadsheet, projection, scenario analysis, or informal estimate of possible future contributions, account value, Liquidity Events, or Termination outcomes shall be treated as evidence of a binding obligation, expected payment stream, or support-like arrangement unless expressly incorporated into this Agreement by signed amendment.
 
 ---
 
@@ -290,6 +299,9 @@ For avoidance of doubt, the immediately effective provisions identified in Secti
 (f) **Failure to Become Operative; Walk-Away Right.** If the Agreement has not become operative by the end of the Initial Implementation Period, as extended by subsection (e) if applicable, either Party may terminate this Agreement by written notice. If terminated under this subsection, neither Party shall have any claim for reliance damages, expectation damages, equitable relief, arrears, or projected future funding based solely on the Agreement’s failure to become operative.
 
 (g) **Narrow Remedy for Bad-Faith Obstruction.** If a final arbitration award determines that a Party intentionally and in bad faith obstructed implementation, the arbitrator may award narrow relief reasonably tailored to such obstruction, including: (i) an order compelling cooperation; (ii) termination-related relief; (iii) reimbursement of documented third-party setup costs caused by the obstruction; (iv) reasonable arbitration costs; and (v) if bad faith is found, reasonable attorneys’ fees to the maximum extent permitted by law. No relief under this subsection shall include expectation damages, arrears, or any claim based solely on projected future funding.
+
+### 3.2C Consequence of Non-Operability
+If the Agreement never becomes operative under Sections 3.2 and 3.2A, neither Party shall have any claim to any Allocation Percentage, Liquidity payment, Joint Pro Rata Release, Termination payout, or other economic entitlement under this Agreement, and the Parties acknowledge that no economic rights under Articles IV through VII arise by implication, partial performance, draft implementation, account activity, or detrimental reliance.
 
 ### 3.3 Voluntary Funding; Target Contributions (Non-Binding)
 Any contributions to the Vehicle Account are voluntary. The Parties may separately discuss intended or illustrative contribution ranges for personal planning convenience only, but no such discussion is part of the operative terms of this Agreement unless later incorporated by signed amendment. Party A may contribute, reduce, pause, or stop contributions at any time without breach.  
@@ -637,6 +649,9 @@ Notwithstanding Section 8.2, either Party may seek in court:
 (b) Each Party bears their own attorneys’ fees unless the arbitrator finds bad faith, willful breach, or fee-shifting is required by applicable law. If awarded, fees must be reasonable.  
 (c) The arbitrator may award reasonable arbitration costs (excluding attorneys’ fees unless awarded under subsection (b)) as justice requires.
 
+### 8.4A Fee-Shifting for Barred Expansion Claims
+If a final arbitration award determines that a Party asserted a claim primarily to obtain economic recovery beyond the limitations expressly stated in Sections 1.9, 1.9A, 4.7, 6.3, and 10.11A, and that such claim lacked a reasonable basis under the Agreement or applicable law, the arbitrator may award reasonable attorneys’ fees and arbitration costs against the asserting Party to the maximum extent permitted by law.
+
 ### 8.5 Confidentiality of Proceedings (Light Touch)
 To the maximum extent permitted by law and AAA rules, the Parties agree to treat arbitration filings, testimony, hearing materials, and any award as confidential as between themselves, subject to permitted disclosures to counsel and professional advisors, disclosures required by law or court order, and disclosures reasonably necessary to enforce or defend this Agreement or an award.
 
@@ -705,6 +720,9 @@ Any amendment must be in a signed writing by both Parties (notarization recommen
 ### 10.3 Severability; Reformation Preference
 If any provision of this Agreement is held invalid, illegal, or unenforceable, the remaining provisions remain in full force and effect to the maximum extent permitted by law. The Parties request that any tribunal with authority to do so reform or narrow an invalid provision to the minimum extent necessary to render it enforceable, while preserving the Parties’ original intent as closely as possible.
 
+### 10.3A Reformation to Preserve Economic Allocation
+If any provision of this Agreement is held invalid, illegal, or unenforceable, the Parties request that any tribunal with authority to do so construe, narrow, sever, or reform that provision in the manner most consistent with preserving: (i) the pool-only nature of the Parties’ economic rights, (ii) the Allocation Percentage mechanics, (iii) the B Distribution Ledger mechanics, and (iv) the limitation that no Party has recourse to the other Party’s separate property except as expressly stated in Section 6.3.
+
 ### 10.4 Governing Law
 This Agreement shall be governed by the laws of the State of **[State]**, without regard to conflicts-of-law rules.
 
@@ -739,6 +757,8 @@ Exhibit 5 (Key Terms Summary) is provided for convenience only. If there is any 
 
 Likewise, Appendix A is illustrative and operational only, and does not create any independent right, obligation, implementation guarantee, or economic entitlement beyond the operative provisions of this Agreement.
 
+Illustrative examples, summaries, implementation notes, convenience descriptions, non-binding explanatory text, and external materials described in the preamble shall not be used to expand, restate, or reframe the Parties’ economic rights beyond the operative provisions of the main body of this Agreement.
+
 ### 10.11 No Waiver; No Course-of-Performance Modification; Voluntary Acts Not Obligations
 (a) **No Waiver by Conduct.** No failure, delay, or omission by any Party in exercising any right, remedy, power, or privilege under this Agreement shall operate as a waiver. No waiver shall be effective unless set forth in a written instrument signed by the waiving Party and expressly identified as a waiver of a specified provision.
 
@@ -765,7 +785,7 @@ By initialing below, each Party acknowledges they understand and agree to the fo
 - **No Support / No Services / Relationship Neutrality** (Sections 1.3–1.6):  
   Party A ____ / Party B ____
 
-- **Non-Recourse / In-Pool Only (except Section 6.3)** (Sections 1.9, 4.7, 6.3):  
+- **Non-Recourse / In-Pool Only (except Section 6.3)** (Sections 1.9, 1.9A, 4.7, 6.3):  
   Party A ____ / Party B ____
 
 - **At-Will Termination and Deterministic Unwind** (Article VII):  
@@ -1185,6 +1205,15 @@ The Agreement becomes operative only after actual implementation, including reas
 
 9C. **No Side-Promise Reframing**  
 Oral promises, informal messages, recurring outside payments, or relationship-adjacent conduct do not reframe this Agreement into support, compensation, or a household-sharing contract.
+
+9D. **Contract Is the Exclusive Economic Framework**  
+To the maximum extent permitted by law, the Parties intend this Agreement to be the exclusive framework for economic claims relating to the Vehicle Account, the Vehicle LLC, and distributions or unwind under the Agreement, rather than a springboard for broader alternative recovery theories.
+
+9E. **No Economic Rights by Partial Performance Before Operability**  
+If the Agreement never becomes operative, no Allocation Percentage, Liquidity, release, or Termination entitlement arises by implication, partial performance, draft implementation, account activity, or reliance.
+
+9F. **Speculative Funding Risk Is Accepted**  
+Party B accepts that the Vehicle Account may remain small or unfunded, and that the economic value of this Agreement to Party B may accordingly be low or zero.
 
 ---
 
