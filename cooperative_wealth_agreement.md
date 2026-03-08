@@ -122,7 +122,7 @@ For purposes of this Agreement:
 
 (h) **“Termination Notice”** means a written notice stating that a Party terminates this Agreement, delivered in accordance with Section 2.4.
 
-(i) **“Termination Date”** means the effective time a Termination Notice becomes effective under Section 2.4, or the time of a Deemed Termination Event under Section 7.1A or 7.1B.
+(i) **“Termination Date”** means the effective time a Termination Notice becomes effective under Section 2.4, or the time of a Deemed Termination Event under Section 7.1A, 7.1B, or 7.1C.
 
 (j) **“Allocation Percentage”** means the percentage used to allocate Vehicle Account value between the Parties under Article IV and Article VII. The Allocation Percentage accrues over time as a measurement convention for allocation of the Vehicle Account only.
 
@@ -159,6 +159,10 @@ For purposes of this Agreement:
 (z) **“Completed Distribution”** means a distribution, transfer-out, or release that the custodian has actually effected on its official records so that the relevant cash or securities are no longer reflected in the Vehicle Account as available assets for the applicable event processing. A distribution is not a Completed Distribution merely because an instruction has been submitted, acknowledged, queued, or partially processed.
 
 (aa) **“Partial Distribution”** means a situation in which only part of a requested distribution, transfer-out, or release has become a Completed Distribution, while the remainder is still pending, queued, suspended, or otherwise not yet completed on the custodian’s official records.
+
+(bb) **“Authorized Representative”** has the meaning set forth in Section 7.1C.
+
+(cc) **“External Legal Process”** has the meaning set forth in Section 3.6B.
 
 ### 2.3A Computation of Time
 (a) **General Rule.** In computing any period stated in days, the day of the act, event, notice, or delivery that begins the period is not counted. The last day of the period is counted unless it is not a Business Day, in which event the period continues until the next Business Day.
@@ -239,7 +243,8 @@ This Agreement shall not become operative unless and until:
 (ii) the Independent Administrator has executed and accepted written instructions substantially in the form attached as Exhibit 1; and  
 (iii) the Vehicle LLC’s operating agreement and/or a custodian-accepted control instrument (as applicable) vests the Independent Administrator with exclusive authority for transfers-out/distributions and freeze/unwind actions, and limits Party A’s authority to Trading Authority only, in each case in a form reasonably acceptable to the Independent Administrator and consistent with Appendix A (Implementation Paths); and  
 (iv) the custodian account permissions reflect the above authority split (Trading Authority vs transfers-out/distributions) to the satisfaction of the Independent Administrator; and  
-(v) the Independent Administrator has delivered the Implementation Confirmation described in Section 3.2A and Exhibit 1, Section 14.
+(v) the Independent Administrator has delivered the Implementation Confirmation described in Section 3.2A and Exhibit 1, Section 14; and  
+(vi) to the extent reasonably obtainable in the ordinary course of onboarding, the Independent Administrator has received from the custodian, platform, trust company, or other relevant service provider written or electronic confirmation, account documentation, permission summaries, or comparable records reasonably sufficient to support the conclusion that the implemented authority split and transfer-out controls are operationally recognized by the relevant provider.
 
 If the Agreement never becomes operative, neither Party shall have any claim for reliance, expectation damages, or equitable relief based solely on the intention to create the Vehicle Account or fund it.
 
@@ -256,9 +261,11 @@ For avoidance of doubt, the immediately effective provisions identified in Secti
 
 4. **Party B = View/Statement Access Only.** Party B’s access (if any) is view-only, and/or Party B receives statements directly from the custodian sufficient to observe holdings and activity, with no authority to trade, withdraw, transfer out, or change permissions.
 
-(b) **Implementation Confirmation.** The Agreement becomes operative only upon the Independent Administrator delivering a written confirmation (email sufficient) to both Parties stating that, subject to Custodian Constraints, the Implementation Control Checklist has been satisfied (the “Implementation Confirmation”). The Operative Date is the date/time of that Implementation Confirmation.
+(b) **Implementation Confirmation.** The Agreement becomes operative only upon the Independent Administrator delivering a written confirmation (email sufficient) to both Parties stating that, subject to Custodian Constraints, the Implementation Control Checklist has been satisfied and that the Independent Administrator has received reasonably sufficient operational records or onboarding materials to support that conclusion (the “Implementation Confirmation”). The Operative Date is the date/time of that Implementation Confirmation.
 
 (c) **Custodian Constraints; Exceptions; Minimum Viable Controls.** If any checklist item cannot be satisfied due to Custodian Constraints, the Parties and the Independent Administrator shall use reasonable efforts to implement the closest practicable alternative controls consistent with this Agreement’s intent. The Agreement remains non-operative unless the Parties and the Independent Administrator sign a written exception describing (i) the constraint, (ii) the alternative controls, and (iii) any compensating restrictions (including recipient locks, permission-change locks, or transfer-profile locks) that achieve, in substance, the anti-bypass and anti-unilateral-transfer objectives.
+
+(d) **No Inference from Drafting Alone.** For avoidance of doubt, the existence of this Agreement, the Vehicle LLC, or unsigned draft control documents does not create any presumption that the required authority split or anti-bypass controls are in fact operational at the custodian. Operability depends on actual implemented permissions and control arrangements, not drafting intent alone.
 
 ### 3.2B Implementation Cooperation; Timeline; Extension; Anti-Stall
 (a) **Good-Faith Cooperation Duty.** Each Party shall cooperate in good faith to complete implementation of the Vehicle LLC, Vehicle Account, Independent Administrator acceptance, Designated Account setup, authority split, and required custodian/control documentation contemplated by this Agreement.
@@ -319,6 +326,19 @@ Unless a final arbitration award, court order, applicable law, or Custodian Cons
 4. other Administrator Events.
 
 (g) **If Timing Still Cannot Be Reliably Determined.** If, after reasonable administrative review of the Agreement-required notice records and custodian-operational records, the Independent Administrator cannot reliably determine sequencing within the applicable tier, the Independent Administrator may apply the most conservative administratively reasonable approach, including temporary holdback or suspension of the affected incomplete processing, pending clarification by joint instruction, final arbitration award, or court order.
+
+### 3.6B External Legal Process; Creditor or Governmental Restraint
+(a) **External Legal Process.** If the Independent Administrator or custodian receives a levy, garnishment, attachment, restraining notice, turnover demand, subpoena, tax lien, bankruptcy notice, receivership order, or other legal process affecting the Vehicle Account or Vehicle LLC from a governmental authority, court, trustee, receiver, creditor, or other third party (“**External Legal Process**”), the Independent Administrator may act in accordance with applicable law, custodian policy, and the terms of such process.
+
+(b) **Protective Hold / Compliance First.** The Independent Administrator may place or maintain a protective hold, suspend non-mandatory processing, and refrain from completing any affected Administrator Event to the extent reasonably necessary to comply with applicable law, custodian policy, or the External Legal Process.
+
+(c) **No Voluntary Expansion of Third-Party Rights.** Neither Party shall voluntarily consent to any third-party lien, pledge, security interest, transfer, or process that would materially impair the operation of this Agreement or the Independent Administrator’s control authority, except as required by law or final order.
+
+(d) **Priority of Law.** To the extent required by law, External Legal Process controls over ordinary event processing. Subject to that requirement, the Parties intend that this Agreement’s formulas and ledger mechanics continue to govern any remaining value in the Vehicle Account.
+
+(e) **Cooperation.** The Parties shall cooperate in good faith to provide reasonably requested information, filings, or instructions needed to respond to the External Legal Process and preserve the Agreement’s mechanics to the maximum extent permitted by law.
+
+(f) **No Independent Liability of Administrator.** The Independent Administrator shall not be liable to either Party for good-faith compliance with External Legal Process, applicable law, or custodian instructions arising from such process, except to the extent of gross negligence or willful misconduct.
 
 ### 3.7 Admin Reserve; Pre-Funding of Administrator Costs (Fillability)
 (a) **Reserve.** The Parties intend to maintain an Admin Reserve cash balance in the Vehicle Account of at least **$[____]** (recommended: **$[2,000–10,000]**) to cover the Independent Administrator’s fees and reasonable out-of-pocket costs.  
@@ -461,6 +481,19 @@ Each of the following is a Deemed Termination Event and shall be treated as a Te
 
 ### 7.1B Marriage / Registered Domestic Partnership Trigger
 If the Parties marry each other or enter into a registered domestic partnership (or substantially equivalent legal status) with each other, such event is a Deemed Termination Event as of the effective date of that status, unless the Parties sign a written amendment expressly stating this Agreement continues.
+
+### 7.1C Incapacity / Legal Disability Trigger; Authorized Representative
+If either Party becomes legally incapacitated or subject to a guardianship, conservatorship, court-appointed fiduciary, agent acting under a valid durable power of attorney, or other legally authorized representative with authority over that Party’s financial affairs (an “**Authorized Representative**”), then:
+
+(a) the Authorized Representative may act for that Party under this Agreement to the extent authorized by applicable law and reasonably sufficient documentation provided to the Independent Administrator;
+
+(b) the Independent Administrator may rely on facially valid letters of guardianship, conservatorship orders, powers of attorney, trustee certificates, court orders, or similar documentation establishing such authority;
+
+(c) if the Authorized Representative’s authority is disputed, unclear, or reasonably insufficient under applicable law or custodian policy, the Independent Administrator may hold the affected portion and/or suspend the affected non-routine processing pending joint instruction, final arbitration award, or court order;
+
+(d) incapacity alone shall not, by itself, constitute a breach of this Agreement; provided, however, that either Party’s incapacity shall be a Deemed Termination Event if: (i) the incapacity has continued for more than ninety (90) consecutive days and materially impairs performance of required administrative acts under this Agreement, or (ii) a court-appointed fiduciary or Authorized Representative delivers written notice electing termination on behalf of the incapacitated Party.
+
+For avoidance of doubt, this Section does not limit any rights or obligations imposed by non-waivable law.
 
 ### 7.2 Deterministic Unwind Upon Termination (Mandatory Freeze and Distribution)
 Upon the Termination Date, the Independent Administrator is irrevocably instructed to:  
@@ -613,6 +646,13 @@ The Vehicle LLC may be treated as a disregarded entity for certain tax purposes 
 ### 9.3 Allocation Formula Is Economic; Not a Tax Allocation
 The Allocation Percentage and deterministic payout formulas are economic governance mechanics. They do not, by themselves, determine federal, state, or local tax characterization, timing, or allocation of income, gain, loss, deduction, or credit.
 
+### 9.3A Interim Tax Burden; No Implied Equalization or Gross-Up
+The Parties acknowledge that, depending on account titling, entity classification, custodian reporting, and applicable law, taxable income, gain, loss, deduction, withholding, or reporting obligations associated with the Vehicle Account may be borne or reported disproportionately to one Party, including potentially Party A as sole owner of the Vehicle LLC.
+
+Except as expressly provided in a signed written amendment, this Agreement does not require any tax equalization payment, reimbursement, gross-up, indemnity, or reallocation between the Parties with respect to such interim or ultimate tax burdens. Any such burden shall not, by itself, alter the Allocation Percentage, the B Distribution Ledger, the Liquidity Settlement Amount, or the Termination formula.
+
+Each Party acknowledges that this allocation of economic mechanics and tax uncertainty is part of the bargain reflected in this Agreement.
+
 ### 9.4 Cooperation and Information Sharing
 To the extent reasonably necessary for accurate reporting and compliance (as advised by each Party’s independent tax counsel), each Party agrees to cooperate in good faith, including by providing:  
 (a) taxpayer identification information reasonably required for forms;  
@@ -693,6 +733,15 @@ Likewise, Appendix A is illustrative and operational only, and does not create a
 (c) **Outside Payments / Assistance.** Any payment or benefit provided by one Party to the other Party outside the Vehicle Account (or not executed as a B Distribution under this Agreement) is presumed voluntary and non-precedential.
 
 (d) **Reservation of Rights.** All rights and remedies of the Parties under this Agreement are cumulative and may be exercised as often as deemed necessary, subject to the dispute resolution provisions herein.
+
+### 10.11A No Contradictory Side Promises; No Off-Document Reframing
+(a) **No Contradictory Oral or Informal Promises.** Neither Party may rely on any oral statement, informal message, side letter, recurring payment pattern, or relationship-adjacent understanding to assert that this Agreement creates support, maintenance, salary, service compensation, household reimbursement, companionship consideration, or any obligation inconsistent with Article I.
+
+(b) **Lawyer-Managed Additions Only.** Any separate agreement intended to govern shared assets, living arrangements, reimbursement, household expense allocation, property use rights, or any other off-pool matter must be set forth in a separate lawyer-managed signed writing that expressly states whether, and to what extent, it is incorporated into this Agreement.
+
+(c) **No Interpretive Drift from Conduct.** Repeated voluntary assistance, gifts, transfers, or patterned conduct outside the Vehicle Account shall not be used to reinterpret the Vehicle Account as a support vehicle, compensation stream, or implied domestic partnership asset pool.
+
+(d) **Evidentiary Intent.** The Parties acknowledge that this Section is intended to reduce interpretive drift and to preserve the Agreement’s stated wealth-only, governance-only character to the maximum extent permitted by law.
 
 ---
 
@@ -1062,6 +1111,9 @@ with the remainder to Party A (net of fees/withholding as required).
 7A. **Termination Overrides Uncompleted Liquidity Processing**  
 If a Termination Date occurs before a Liquidity payout is fully completed, the Agreement shifts to the Termination unwind. Completed Liquidity distributions stay effective, but an uncompleted Liquidity election is folded into the final unwind rather than paid separately.
 
+7B. **Incapacity Can Trigger Representative Action or Deemed Termination**  
+If a Party becomes legally incapacitated, a properly documented Authorized Representative may act to the extent permitted by law, and prolonged incapacity or representative election can trigger Deemed Termination under Section 7.1C.
+
 8. **Administrator Role**  
 Independent Administrator is event-only (no investment advice, no monthly accounting) and may rely on facially valid notices and awards/orders.
 
@@ -1080,8 +1132,20 @@ If the Independent Administrator is replaced or becomes unavailable mid-event, c
 8E. **Same-Time Conflicts Use Tie-Breaker Rules**  
 If competing event triggers land at effectively the same time, legal restraints control first, then Termination, then dispute holdback, then other in-term events, with temporary holdback allowed if sequencing still cannot be determined reliably.
 
+8F. **External Legal Process Can Override Ordinary Processing**  
+Levies, garnishments, tax liens, bankruptcy notices, and similar external legal process may require protective holds or compliance-first handling. Subject to applicable law, the Parties intend the Agreement’s formulas to continue governing any remaining Vehicle Account value.
+
 9. **Recipient Restrictions (Administrator Transfers-Out)**  
 Transfers-out/distributions may be made only to Party A’s A Designated Account, Party B’s B Designated Account, and permitted fee/withholding payees, except as required by a final award/order or law.
+
+9A. **No Automatic Tax Equalization**  
+This Agreement does not require tax gross-ups, reimbursements, or equalization for interim or ultimate tax burdens associated with the Vehicle Account unless the Parties later sign a written amendment expressly providing for such treatment.
+
+9B. **Actual Operability Depends on Real Custodian Controls**  
+The Agreement becomes operative only after actual implementation, including reasonably sufficient operational confirmation that the authority split and transfer-out controls are recognized by the relevant custodian, platform, trust company, or other provider.
+
+9C. **No Side-Promise Reframing**  
+Oral promises, informal messages, recurring outside payments, or relationship-adjacent conduct do not reframe this Agreement into support, compensation, or a household-sharing contract.
 
 ---
 
