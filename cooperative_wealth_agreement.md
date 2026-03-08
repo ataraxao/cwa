@@ -305,6 +305,8 @@ The Independent Administrator is an administrative control and processing party 
 ### 4.1 Allocation Percentage Accrual Convention (Whole-Month Cutoff)
 Party B’s Allocation Percentage accrues in **whole calendar months only**. No daily or partial-month pro-ration applies.
 
+For avoidance of doubt, a protective freeze, dispute holdback, pending distribution, custodian restriction, implementation delay after operability, or other temporary administrative restraint does **not**, by itself, stop accrual or cause termination. Accrual stops only upon the actual Termination Date or other express cutoff stated in this Agreement.
+
 ### 4.2 Monthly Accrual Rate
 Party B’s Allocation Percentage accrues at a rate of **[1.00]% per full calendar month** during which this Agreement is operative (the “Monthly Accrual Rate”), subject to the cap in Section 4.3.
 
@@ -391,6 +393,12 @@ If a Party is found by a final arbitration award (Article VIII) to have committe
 ### 6.2 Independent Administrator Not a Fact Finder
 The Independent Administrator shall not adjudicate misconduct and shall act only upon a facially valid final arbitration award or court order.
 
+### 6.2A Freeze / Holdback Does Not Alter Accrual or Term
+Unless a final arbitration award, court order, or this Agreement expressly provides otherwise:  
+(a) a protective freeze, dispute holdback, pending payout, or administrative restriction does not itself terminate this Agreement;  
+(b) the Term continues until the actual Termination Date or a Deemed Termination Event; and  
+(c) Allocation Percentage accrual continues under Article IV during the Term notwithstanding such freeze, holdback, pending payout, or restriction.
+
 ### 6.3 Restitution for Intentional Dissipation Not Prevented by Controls
 Notwithstanding Section 4.7 and Section 1.9(b), if a final arbitration award determines that a Party engaged in **intentional misappropriation, fraud, embezzlement, or intentional bypass** of the control structure contemplated by this Agreement and such conduct **caused dissipation of Vehicle Account assets** and the dissipation was not prevented by the account controls, then the arbitrator may award **restitution** against the liable Party **from that Party’s separate property** in an amount equal to the **net dissipated value**. **Restoration-Only Measure.** Any restitution under this Section is restorative only (i.e., intended solely to restore dissipated Vehicle Account value) and shall not include consequential, punitive, expectation, reliance, or “benefit of the bargain” damages. The arbitrator may also award **reasonable arbitration costs**, and, if the arbitrator finds bad faith, **reasonable attorneys’ fees**, to the maximum extent permitted by law.
 
@@ -402,6 +410,8 @@ This Section 6.3 applies only to intentional misconduct resulting in dissipation
 
 ### 7.1 Termination by Notice
 Either Party may terminate this Agreement at any time by delivering a Termination Notice to the other Party and to the Independent Administrator.
+
+For avoidance of doubt, no freeze, holdback, pending dispute, pending Liquidity distribution, or pending Joint Pro Rata Release shall itself constitute a Termination Notice or Deemed Termination Event unless this Agreement expressly states otherwise or a final arbitration award so orders pursuant to an express remedy under this Agreement.
 
 ### 7.1A Deemed Termination Events (Objective Triggers)
 Each of the following is a Deemed Termination Event and shall be treated as a Termination Date at the time it occurs:  
@@ -931,6 +941,9 @@ Party B’s Allocation Percentage accrues at [__]% per **full calendar month** d
 
 3A. **Valuation Uses Official Custodian Records**  
 Calculations use the most recent Trading Day ending prior to the triggering event, based on official custodian records rather than intraday, estimated, or unofficial values.
+
+3B. **Freeze Does Not Stop Accrual**  
+Protective freezes, dispute holdbacks, pending payouts, and similar administrative restraints do not by themselves stop accrual or terminate the Agreement. Accrual stops only on the actual Termination Date or other express cutoff in the Agreement.
 
 4. **Event-Only Distributions**  
 No unilateral withdrawals. Transfers-out/distributions occur only as:
